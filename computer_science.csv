@@ -1,0 +1,970 @@
+,ID,is_Original,Flair,num_comments,Title,Subreddit,Body,URL,Upvotes,Comments,creation_date
+0,hr37ys,False,General,52,Snapchat gotta start learning SQL,computerscience,,https://i.redd.it/pysle9ob9ua51.jpg,1956,[deleted] ,2020-07-14 15:09:06
+1,hhr48i,False,General,19,What makes a quantum computer a quantum computer?,computerscience,,https://www.reddit.com/r/computerscience/comments/hhr48i/what_makes_a_quantum_computer_a_quantum_computer/,97,https://www.google.com/search?q=what+is+a+quantum+computer ,2020-06-29 01:56:02
+2,h92efq,False,General,14,Sister Mary Kenneth Keller the first woman to earn a doctorate in computer science in the USA 1965,computerscience,,https://i.redd.it/toq8ekkjsu451.jpg,962,ohh brother !!! ,2020-06-14 21:42:30
+3,gtgyf0,False,General,18,Logic gates with water,computerscience,,https://gfycat.com/rashmassiveammonite,1310,Output should be in the middle. ,2020-05-30 16:27:54
+4,gog30h,False,General,69,How can I improve all my computer science skills as a whole?,computerscience,"So I've been doing computer science at school for the past year and understand the basics of python, binary and hexadecimal, ethics and regulations and probably more that I have forgotten. But I still feel like a complete rookie compared to everyone on this sub. How can I improve all skills and knowledge? What did you guys do?",https://www.reddit.com/r/computerscience/comments/gog30h/how_can_i_improve_all_my_computer_science_skills/,137,"Enroll for CCNA it will open many other doors.
+It will teach you how the internet works. ",2020-05-22 09:22:38
+5,hpr801,False,General,14,What operating system do most computer science students and professionals use?,computerscience,"I am curious to know this because you tend to see lots of developers use Macbooks these days and I am not sure if that is the mainstream thing. Personally speaking, I used to be a Mac user due to iOS dev. But with Microsoft's Windows and WSL 2 and me focusing more on desktop app dev for Windows, I have shifted to Windows. But it seems like lots of developers and professionals tend to use Macbooks. I am curious to know what all you guys are using. Also no, this isn't any sort of purchase advice that I'm looking for. This is a question I have asked out of general curiousity! 
+
+Anyways, thank you to all those who decide to answer! :)",https://www.reddit.com/r/computerscience/comments/hpr801/what_operating_system_do_most_computer_science/,1,Unfortunately corporates use windows so that's what you'll find the most in a professional environment ,2020-07-12 08:44:27
+6,gsbstj,False,General,19,Springer Opensourced 100s of Computer Science books,computerscience,"Springer has opensourced many computer science books that we can download for free. It covers several topics like Big data,Data structure,Data Analysis and more.
+
+I have put a CSV file in my github repository, [https://github.com/sourabhsinha396/Springer-Opensourced-books](https://github.com/sourabhsinha396/Springer-Opensourced-books)
+
+Hope it helps :)",https://www.reddit.com/r/computerscience/comments/gsbstj/springer_opensourced_100s_of_computer_science/,212,Inform me if you have problem in accessing google drive link ,2020-05-28 18:31:36
+7,hn6b6s,False,General,14,Do you think that CS salaries will remain high (as high as they are now) in 10 or 20 years?,computerscience,Adjusted for inflation,https://www.reddit.com/r/computerscience/comments/hn6b6s/do_you_think_that_cs_salaries_will_remain_high_as/,0,Maybe. Maybe not. ,2020-07-08 00:03:32
+8,gaz6h7,False,General,43,"An example of how compilers parse a segment of code, this uses the CLite language spec.",computerscience,,https://i.redd.it/qtbp5r65hzv41.jpg,341,Can you please use a thicker pen? ,2020-04-30 16:40:29
+9,hh0kvk,False,General,7,Is it a good practice to hash the contents of two files for comparing them or it’s better to compare the byte arrays?,computerscience,,https://www.reddit.com/r/computerscience/comments/hh0kvk/is_it_a_good_practice_to_hash_the_contents_of_two/,4,"Comparing two integers, or longs, is much more efficient than two potentially long arrays. ",2020-06-27 20:12:54
+10,hmaxkx,False,General,7,How do you send your homework to the professor?,computerscience,Gist? Github? In my class ( not comp sci though) we just sent projects in zip files to the teachers whatsapp. I wonder if in comp sci they give in assignments differently.,https://www.reddit.com/r/computerscience/comments/hmaxkx/how_do_you_send_your_homework_to_the_professor/,1,"Mostly we use internal systems. Either ones designed for specific courses, or this broader platform inside our university called ""TIM: the interactive material"". Teachers can write checkers for various programming languages, to facilitate automatic grading and feedback. It's alright because students can usually comment on any element, so problems with  materials or automatic checkers are often corrected in a timely manner. ",2020-07-06 16:33:41
+11,hn61is,False,General,6,Where will the next huge tech hubs be after Silicon Valley?,computerscience,,https://www.reddit.com/r/computerscience/comments/hn61is/where_will_the_next_huge_tech_hubs_be_after/,0,"It’s Austin, TX ",2020-07-07 23:47:56
+12,h9w9wa,False,General,8,Productive Summer Plan,computerscience,"Hey guys,
+
+My name is Danyal Imran and I am a computer scientist who's currently pursuing MBA. I have 3+ years of professional experience, and during my professional tenure, a lot of the people I knew were excited on how I approach and solve problems. I've received many awards for my performance, and was a also between an HR battle when I decided to switch my job (because React over Angular any day).
+
+This pandemic has given me an amazing opportunity, and finally I have decided to start my own YouTube channel (Trust me, I am all for quality content that's going to help y'all in the long run). I am quiet dedicated because I love this field, so I expect you to see the following courses in the next 2 months:
+
+**101 - Programming Fundamental**: This course will focus on problem solving and logic building using C programming language (Yes, C language, because it teaches you how to think, and this is the main problem that I see people facing. Many people don't realize that programming is actually solving problems rather than learning the latest hit programming language.. Trust me, programming languages are very similar and its not hard to learn them)
+
+**102 - Object Oriented Programming**: This course will focus on the OOP paradigm on how to properly structure and code your problems. Here the complexity of the problem is going to be quiet big, and you can code actual real life problem but without a GUI (Maybe an intro to Swing for GUI if Java? idk that yet). The course will either use C++, C#, or Java (haven't decided that yet)
+
+**103 - Data Structures**: So far you know how to think about a problem and solve it. Now you're going to think about how to handle data i.e. storage, read, write, sort, etc. You'll amazed to learn what a data structure can do to make a program fun faster. I will also dive into a language's built in data structure so that you know what a language provides and how you'll be saving your time.
+
+**104 - Design & Analysis of Algorithms**: Finally, we reach at a course that talks about writing efficient code, yes efficient i.e. the best possible solution for a problem. If you are good with Algorithms, you can easily ace top 100 tech company coding interviews because this differentiates a good coder from a great coder.
+
+These courses will include (and are not limited to): Theoretic & Practical Lectures, Assignments (Solved & Unsolved), Projects, Links to Coding Websites, Links to Exciting Articles, and many more
+
+These courses are generally for people starting out their journey in Computer Science, or people who have problems in solving tasks (telling computers what and how to do it). Once you complete these 4 courses, you can then plan your career in any field (Mobile, Gaming, Web, etc.), because this is what it takes to be a programmer.
+
+If you are interested, then stay tuned & subscribe to my YouTube channel:  [https://www.youtube.com/channel/UCz\_JBGi-DhhV2nNJzK6kD7Q](https://www.youtube.com/channel/UCz_JBGi-DhhV2nNJzK6kD7Q)
+
+The first course should be out 2 weeks from now.
+
+If I am done with the aforementioned courses, the following courses are in my future plans:
+
+105 - Databases (SQL & NoSQL)
+
+201 - Web Development (Front-end: React, Back-end: Node)
+
+301 - Artificial Intelligence
+
+302 - Data Science
+
+401 - Cloud Computing",https://www.reddit.com/r/computerscience/comments/h9w9wa/productive_summer_plan/,12,That's a lot of planning! I like your commitment but the material that you are suggesting will take years of dedication and hardwork to complete. I will definitely check out your first course when it comes out! ,2020-06-16 04:08:25
+13,hq8k67,False,General,3,How much did you spend on your CS Bachelor’s Degree?,computerscience,"I'm asking because I just want an idea of how much money I should hsve saved up..... i know that it varies from what college you go to, but I'd still like to know.
+
+I'm planning on transferring to Texas State University after I finish my basics at a Community College.",https://www.reddit.com/r/computerscience/comments/hq8k67/how_much_did_you_spend_on_your_cs_bachelors_degree/,0,"If you haven't yet, please consider a 2-year community college, live at home if u can and transfer to a 4-year. Can save a bundle, save selling a kidney on Craigslist. ",2020-07-13 04:12:08
+14,hkrysh,False,General,6,Which OS do computer scientists use?,computerscience,"if you want you can justify why
+
+[View Poll](https://www.reddit.com/poll/hkrysh)",https://www.reddit.com/r/computerscience/comments/hkrysh/which_os_do_computer_scientists_use/,1,Primarily Linux because you run into the fewest problems when getting new frameworks running. Started using windows recently for a xamarin.forms project. Turns out visual studio is a pretty awesome IDE.. ,2020-07-03 22:06:20
+15,hr4x23,False,General,2,What are the best YouTubers on the subject of CS ?,computerscience,,https://www.reddit.com/r/computerscience/comments/hr4x23/what_are_the_best_youtubers_on_the_subject_of_cs/,0,Geekforgeek ,2020-07-14 16:42:24
+16,hresk4,False,General,1,csrankings.org is biased. We need a better research based ranking website for CS.,computerscience,"Many of you know the importance of university rankings while applying to a grad school, especially if you are an international student. I am an international student and I relied upon [csrankings.org](https://csrankings.org) to shortlist the universities based on the research. I always thought this website was well maintained and could be trusted. However, a recent incident has changed my opinion.
+
+Being a beneficiary of the website, I was personally motivated to keep it upto date to help new international students applying to grad schools. I noticed there were many missing faculties in the AI field at McGill University and thought I would submit a pull request. To my surprise the pull request was denied by the repo owner citing that a particular faculty was not a full-time employed at the university (the policy was to exclude faculty who are <75% at the University). In this case, I personally know the faculty and I told the owner that the faculty was a full-time employee and is in a tenure track. I also told him that they supervise newly admitted students (MS and PhD). But then came a big surprise. The repo owner told me that the faculty is a head at an industrial lab and hence only way to verify if that person is >75% at the university is to check their financial records.
+
+This reply made me upset because:
+
+* The website essentially gets updated at the discretion of one person. He chooses to ignore a particular pull request (PR) citing some policy of the website. However, there are many other faculties on the website who are part-time researchers / head at some research labs (I can speak for many AI faculties in this case). There is no way to get their names removed because one can't produce the faculties' financial records to prove that they are correct.
+* Many so called policies are not mentioned on the website but the owner brings them up while submitting a PR. In my opinion these policies should be put on the website so that the students who look at the website are not being misled.
+* The owner doesn't accept ECE faculties who supervise students admitted to CS because they don't fit the policy. However FAQ page of the website mentions the following statement:
+
+>As mentioned above, tenure-track faculty who can advise PhD students in CS can be included regardless of their home department. The primary audience of CSRankings is prospective graduate students who are seeking a postgraduate degree in Computer Science.
+
+But when I asked him about this, the person mentioned that the faculty of ECE has to be listed on the CS website. However, in a later part of the conversation, he says 
+
+>websites are generally lagging indicators at best
+
+You can find the entire conversation during [here](https://github.com/emeryberger/CSrankings/pull/2723#pullrequestreview-448465670). I find it hard to accept the fact that the website I trusted the most is actually faulty.
+
+I hope there was a better research ranking website that is unbiased, give a good indicator of whether a faculty supervises a PhD or MS students (irrespective of the % spent at the university) and where the policies are applied to all the universities and faculties. In fact, the website should have a better policies.",https://www.reddit.com/r/computerscience/comments/hresk4/csrankingsorg_is_biased_we_need_a_better_research/,0,Ranking things that vary along so many axes is a fundamentally flawed approach to begin with. You'll have a better time building your shortlist by looking at who's been publishing work related to your interests lately. ,2020-07-15 01:53:59
+17,hqnu8e,False,General,0,"Write a program that processes a data file of names in which each name is on a separate line of at most 80 characters. Here are two sample names: Hartman-Montgomery, Jane R. Doe, J. D.",computerscience,,https://www.chemistryexplain.com/2020/07/write-a-program-that-processes-a-data-file-of-names.html,0,,2020-07-13 21:08:04
+18,gkryps,False,General,16,What are your Favourite Movies with threads of CS and programming that motivate you?,computerscience,Im wondering what movies you guys enjoy or that you pull inspiration from as developers/ engineers and programmers etc. Thank you,https://www.reddit.com/r/computerscience/comments/gkryps/what_are_your_favourite_movies_with_threads_of_cs/,10,"Iron man 1, the movie that got me interested in engineering and compsci ",2020-05-16 09:36:47
+19,f60s6k,False,General,124,Got roasted for my if statements. Only on my second semester of computer science lol.,computerscience,,https://i.redd.it/i78ek3vblrh41.jpg,551,You should be executed for this. ,2020-02-18 23:11:09
+20,h0a4iv,False,General,6,At what age do high-tech companies kick the programmers? and do the kicked programmers have the ability to join another high-tech company after kicked?,computerscience,,https://www.reddit.com/r/computerscience/comments/h0a4iv/at_what_age_do_hightech_companies_kick_the/,0,[deleted] ,2020-06-10 12:43:28
+21,gj4j04,False,General,18,Is anyone here a programmer and at the same time a biologist of some sort?,computerscience,I just kind of want to know if I could chase this absurd dream of mine.,https://www.reddit.com/r/computerscience/comments/gj4j04/is_anyone_here_a_programmer_and_at_the_same_time/,5,If you are a Biologist learn R or some other Data Science  language ,2020-05-13 18:23:39
+22,hal96d,False,General,2,Lecture#1 - Introduction to the Course | Programming Fundamentals,computerscience," 
+
+In reference to my last post: [https://www.reddit.com/r/csMajors/comments/h9wcb6/productive\_summer\_plan\_free\_youtube\_courses/](https://www.reddit.com/r/csMajors/comments/h9wcb6/productive_summer_plan_free_youtube_courses/)
+
+I finally launched my first lecture of the CS101 - Programming Fundamental's course. I would appreciate some honest feedback so I may improve the quality of my delivery (I've got some regarding how my tone should be more excited to teach).
+
+Lecture 001 - Introduction to the Course: [https://youtu.be/1Rb4vsSe9Dc](https://youtu.be/1Rb4vsSe9Dc)
+
+Again, this is a course that will teach you how to think and code problems using the C programming language, and its a course for students starting out their journey in Computer Science, or students that are weak at building logic.
+
+Subscribe to the channel for more upcoming videos of this course.
+
+The next lectures will focus on the following: Computer basics, Introduction to Flowcharts, Solving basic problems w/ Flowcharts, Building a Calculator using a Flowchart, Assignment #1",https://www.reddit.com/r/computerscience/comments/hal96d/lecture1_introduction_to_the_course_programming/,5,I am expecting great things from your channel. Looking forward to the first lecture on the course. ,2020-06-17 05:51:06
+23,f7prc6,False,General,44,How the computer industry changed in 55 years!,computerscience,,https://i.redd.it/vlam2iwtofi41.jpg,1430,What will computers look/ram/memory will be in 2090? Nvm I’ll be dead before then.. ,2020-02-22 08:13:32
+24,fr4dmn,False,General,12,[Source code with demo] Here is my python implementation of Deep Q-learning for playing Tetris,computerscience,,https://i.redd.it/t8pin9ceilp41.gif,603,C++? ,2020-03-29 11:17:21
+25,gqvgob,False,General,10,Are computer science degrees generally difficult?,computerscience,Are they quite challenging?,https://www.reddit.com/r/computerscience/comments/gqvgob/are_computer_science_degrees_generally_difficult/,1,"CS majors have the highest dropout rate of any college major.
+
+[https://www.studentproblems.com/degrees-highest-dropout-rates/](https://www.studentproblems.com/degrees-highest-dropout-rates/)
+
+This doesn't necessarily mean that it is difficult compared to other majors; a lot of people probably declare a CS major without having a particular interest in the subject, and that is deadly. ",2020-05-26 11:42:38
+26,hf8f9n,False,General,1,Max Cut problem and semidefinite programming question,computerscience,In the semidefinite relaxation for the max cut problem the rank 1 positive semidefinite constraint is relaxed to just a positive semidefinite constraint (https://sachdevasushant.github.io/courses/15s-cpsc665/notes/sdp1.pdf). This achieves a good approximation of about 87%. My question is wouldn't it be more natural (and possibly better) to add a nuclear norm constraint or objective penalty (with some tunable parameter lambda) to this formulation to encourage the solution to be low rank and PSD while remaining tractable and convex? I tried searching for an analysis on this and couldn't find anything.,https://www.reddit.com/r/computerscience/comments/hf8f9n/max_cut_problem_and_semidefinite_programming/,2,nvm the diagonal constraints imply a fixed nuclear norm so this would at best be a heuristic (memory intensive) approach if we used the proximal operator (since the problem isn't strongly convex) ,2020-06-24 20:10:26
+27,f3beso,False,General,30,My library has a tribute to Alan Turing,computerscience,,https://i.redd.it/54vhhirvjpg41.jpg,991,this is wonderful ,2020-02-13 15:15:28
+28,gr2q2n,False,General,6,Why isn't deep fake technology still not disrupting our world?,computerscience,"When I started to get to know about deep fakes, I thought this can be very dangerous technology that can be used for political conflicts and pornography. Deepfakes already seems to be very much used in porn industry. But I am still yet to hear a single incident where a political leader or nation's head video has been altered for malicious needs. What is stopping these ""bad"" guys from creating such videos?",https://www.reddit.com/r/computerscience/comments/gr2q2n/why_isnt_deep_fake_technology_still_not/,1,"I’m no expert in this realm, but technically speaking... Generative Adversarial Networks (GAN) usually have a good shot at thwarting this if trained with “robust” enough data, wherein a discriminative network would output a probability of the picture being real vs fake and the generative network would generate pictures. This is vastly over simplified, but in there somewhere probably lies advanced techniques that could be used in certain circumstances to identify and thus combat the validity of deep fakes in a large media frenzy. Plus, I would imagine the creator of a deep fake that leans on the side of defamation would be subject to lawsuits and other legal action, which is probably preventing a lot of what you are talking about. ",2020-05-26 18:34:54
+29,fb7po4,False,General,22,I found this pretty interesting,computerscience,,https://i.redd.it/yp8v5hro3pj41.png,451,I work for Boeing Co in Oklahoma. This doesn’t surprise me at all ,2020-02-29 05:05:37
+30,gtmdjm,False,General,3,Do computer scientists have a big role in the NASA/SpaceX rocket construction & launches?,computerscience,,https://www.reddit.com/r/computerscience/comments/gtmdjm/do_computer_scientists_have_a_big_role_in_the/,2,"Nowadays yes, especially in spaceX, they had a lot of open jobs for computer scientist and software engineers last time I checked. ",2020-05-30 21:35:21
+31,fox17j,False,General,15,"Is there any measurable mass to stored data on a hard drive? For instance, would a full hard drive weigh any more than an empty one, even to the smallest degree?",computerscience,,https://www.reddit.com/r/computerscience/comments/fox17j/is_there_any_measurable_mass_to_stored_data_on_a/,54,"Yes, both hard drives and solid state drives are heavier when full. ",2020-03-25 19:59:10
+32,go7a2d,False,General,5,How do big websites check if a email address or user already exists?,computerscience,Do they actually scan the billion+ email address' every time someone wants to make a new account or do they have a better way?,https://www.reddit.com/r/computerscience/comments/go7a2d/how_do_big_websites_check_if_a_email_address_or/,2,"Another possible way, especially for extremely large databases, is to use a Bloom filter as a first step. The Bloom filter can quickly conclude whether the user 1) is definitely not in the database or 2) *may* be in the database. Only in the latter case you need to actually do the expensive data base lookup to be sure. ",2020-05-21 22:55:31
+33,h7owpc,False,General,0,"NASA JPL lets anyone help future Mars rovers to recognize different martian terrain types. The dataset will be publicly available, and will become the first benchmark for planetary navigation algorithm development",computerscience,,https://www.zooniverse.org/projects/hiro-ono/ai4mars,3,,2020-06-12 17:17:21
+34,gnpfr8,False,General,4,What should I know as a freshman Computer Science major?,computerscience,"In the fall, I’m starting college and I plan to major in computer science. Obviously the whole point of higher education is to learn more, but I’m curious as to what I should know before showing up on campus. I’m pretty fluent in Java, and I can write things in C if I really have to. I don’t really know anything about frameworks or APIs but I’m eager to learn more. Thats pretty much the extent of my knowledge, so I hope some of you can suggest some thingsI can do or resources I can study to prepare myself over the summer. Thanks!",https://www.reddit.com/r/computerscience/comments/gnpfr8/what_should_i_know_as_a_freshman_computer_science/,2,"I didn't know anything about coding when I started my degree. 4 years later I have graduated with honours and have a full-time job. So I think you are already well prepared. As the others mentioned, do not be overwhelmed and take things one at a time. Do not snob math, especially if things like Machine Learning/AI sound interesting to you. As for tutorials and resources recommendations, i would say that it is not so much about what you study but what you do with it. It is more beneficial to code sth from scratch no matter how small, than to watch a lengthy tutorial and just copy the commands. ",2020-05-21 03:32:47
+35,h887qh,False,General,0,Little Ball of Fur: A Python Library for Graph Sampling,computerscience,"&#x200B;
+
+https://preview.redd.it/smz7ffzcqo451.jpg?width=2000&format=pjpg&auto=webp&s=1029b63dae96a9f4c1b7e602c12f9fd8367234b2
+
+**GitHub:** [**https://github.com/benedekrozemberczki/littleballoffur**](https://github.com/benedekrozemberczki/littleballoffur)
+
+**Documentation:** [**https://little-ball-of-fur.readthedocs.io/en/latest/**](https://little-ball-of-fur.readthedocs.io/en/latest/)
+
+**Paper:** [**https://arxiv.org/abs/2006.04311**](https://arxiv.org/abs/2006.04311)
+
+**Description:**
+
+*Little Ball of Fur*  consists of methods to do sampling of graph  structured data. To put it  simply it is a Swiss Army knife for graph  sampling tasks. First, it  includes a large variety of vertex, edge and  expansions sampling  techniques. Second, it provides a unified  application public interface  which makes the application of sampling  algorithms trivial for  end-users. Implemented methods cover a wide range  of networking ([Networking](https://link.springer.com/conference/networking), [INFOCOM](https://infocom2020.ieee-infocom.org/), [SIGCOMM](http://www.sigcomm.org/)) and data mining ([KDD](https://www.kdd.org/kdd2020/), [TKDD](https://dl.acm.org/journal/tkdd), [ICDE](http://www.wikicfp.com/cfp/program?id=1331&s=ICDE&f=International%20Conference%20on%20Data%20Engineering)) conferences, workshops, and pieces from prominent journals.",https://www.reddit.com/r/computerscience/comments/h887qh/little_ball_of_fur_a_python_library_for_graph/,2,,2020-06-13 14:09:09
+36,h7qoar,False,General,1,Quantum Cryptography || Shaastra - IIT Madras || Spotlight Stay@Home Lecture Series,computerscience," 
+
+https://preview.redd.it/slucr75gxi451.jpg?width=1280&format=pjpg&auto=webp&s=788b1b23c15cb58f35196868408f9ff20b5f5d49
+
+**Shaastra Spotlight Stay@Home series** brings to you an inspiring talk from one of the stalwarts in the field of Quantum Cryptography - **Dr. Gilles Brassard**! speaking on “**The Art of Secret Communication in Quantum World**”
+
+**Dr. Gilles Brassard** FRS, O.C., O.Q. is a professor of Computer Science and **Canada Research Chair** at the **Université de Montréal.** Together with Charles Bennett, he laid the foundations of **Quantum Cryptography**, **Quantum Information Science** & is also among the inventors of **Quantum Teleportation**, a universally recognized pillar of the entire discipline. His many awards include **Fellow of the Royal Society**, **Wolf Prize in Physics**, honorary doctorates from ETH Zürich, among others.
+
+Absolutely **no prerequisites** needed for the talk. Catch it live only at **Shaastra IITM**’s Youtube channel:-
+
+**Link:** [**https://youtu.be/sMGjmbOaj3E**](https://youtu.be/sMGjmbOaj3E)
+
+**Date: 13th June 2020**
+
+**Time: 6:30 PM IST**
+
+\#BeintheSpotlight",https://www.reddit.com/r/computerscience/comments/h7qoar/quantum_cryptography_shaastra_iit_madras/,2,#BeintheSpotlight ,2020-06-12 18:51:30
+37,f6pe8a,False,General,25,Copy and paste F to pay respect,computerscience,,https://i.redd.it/wfh2780u31i41.jpg,378,F ,2020-02-20 07:10:54
+38,gxy65d,False,General,2,Protecting Data: File Encryption vs Drive Encryption,computerscience,"From a feasibility standpoint, I am wondering what would be the most effective way to protect data and files on a given drive.  Theoretically encrypting the drive and encrypting the files with a similarly powerful algorithm should prevent unauthorized access, but is this true in practice too?  
+
+When considering internal vs external drives, does this remain the same?  I am not sure how the low-level access would affect security, but I have heard from others that encrypting external drives caused them to fail and thus the protection offered was insufficient.  Internal drives can fail too of course, but this just makes the subject more opaque.",https://www.reddit.com/r/computerscience/comments/gxy65d/protecting_data_file_encryption_vs_drive/,1,"Yeah, not sure why encrypting an external is any different than just read write ops on it... 
+
+I’m in the financial industry, we encrypt laptop drives and auto-comb networked storage drives for PII and move it to an encrypted file server. We also deal with encryption at the file level depending on what it is, on those same encrypted drives. Just slows down IO is all. Absolutely fine to encrypt an external, in fact you can buy purpose built encrypted externals and USB. 
+
+
+https://www.kanguru.com/mobile/m.defender-3000-secure-flash-drive.html ",2020-06-06 20:13:11
+39,gn2cgi,False,General,6,What should I study over the summer to get a jumpstart in the fall?,computerscience,I just finished my high school career today and now I have all day everyday to do whatever I want. I want to spent this time learning and getting a jumpstart on college in the fall. I’ve been programming for the past 4ish years but it’s mainly just a side hobby and my skills are very subpar. I’m sorry if this is a vague question but what are some topics that would be worthwhile for me to learn over the summer that would help me in college? Thanks,https://www.reddit.com/r/computerscience/comments/gn2cgi/what_should_i_study_over_the_summer_to_get_a/,1,"I would make sure you're up to par on math so you can get through your calc classes.  If you already are, then you can get ahead in calc.  I would recommend Khan academy and professor Leonard. ",2020-05-20 01:53:09
+40,gnyrln,False,General,5,Tutor to make a CPU from scratch,computerscience,"Our professor told us as a final project to program and create a CPU from scratch and implement it on Quartus but he did not teach us the tools to do it. I am NOT looking for someone to do it for me, but to help me during the process so that I can understand and learn, I have a scholarship and A in the rest of my classes, so failing this project would have a lot of impact on my school. I would not ask for a tutor or help if I wasn't panicking, help.",https://www.reddit.com/r/computerscience/comments/gnyrln/tutor_to_make_a_cpu_from_scratch/,1,"Asking students to do something that isn't part of assumed knowledge or course content is *way* out of the ordinary, and usually considered unprofessional. I'm gonna guess that there's more to this story. ",2020-05-21 15:19:56
+41,gpey3v,False,General,4,COMPUTER SCIENCE,computerscience,"What are Computer science fields?       
+
+ and is there a field called computer science inside computer science?",https://www.reddit.com/r/computerscience/comments/gpey3v/computer_science/,0,"Theory, Systems, Networking, Software Engineering, Artificial Intelligence, Data Science, Graphics, Security, bunch more that I won't take the time to list. Why do you ask? ",2020-05-23 23:23:35
+42,gg9mtx,False,General,9,"What's the single most important skill to have, with computer science?",computerscience,"I'm in my mid-30s, out of a job. Hoping to either get a WGU online degree in Comp-Sci or learn the basics through tutorials
+
+I'm a total noob when it comes to any technical stuff and graduated with an arts degree, so I haven't done any math since I was in high school. I know there are many aspects to Comp-Sci which include:
+
+* Software engineering
+* Python™
+* JavaScript™
+* SQL
+* Software development
+* Java™
+
+**But, if I were to be really good at one thing, what's the thing to be the best at?**
+
+P.S.Maybe two answers will help. I'd like to know the most important skill to have to do well in a computer science degree, and the skill to have in the job market as a computer scientist (software developer).
+
+Edit: clarified software developer",https://www.reddit.com/r/computerscience/comments/gg9mtx/whats_the_single_most_important_skill_to_have/,0,Googling ,2020-05-09 05:32:39
+43,h0d6fl,False,General,1,How do you make a web-scraper stand out from others?,computerscience,"For example, for coding challenges people are asked to make web scrapers sometimes, how do they choose which one is best when there are requirements but none for design.",https://www.reddit.com/r/computerscience/comments/h0d6fl/how_do_you_make_a_webscraper_stand_out_from_others/,0,I use curl - works for me. ,2020-06-10 15:28:17
+44,ejwk2d,False,General,51,How programming languages got their names,computerscience,,https://i.redd.it/5piswsrtir841.jpg,855,Python is python because this language of web integrations and scripts. It's like a snake creeping through web ,2020-01-04 13:20:18
+45,fyiufm,False,General,7,🚀 I made a video calling website to connect with my friends during the pandemic!,computerscience,,https://zipcall.io,15,I haven't read code like that for a while. ,2020-04-10 16:15:45
+46,g6jagw,False,General,6,Path of math courses for computer science?,computerscience,"Hi all, 
+
+I’m not sure where to post this so I figured this sub would be the best, please remove if this is not the right place to ask these type of questions. 
+
+I’m currently 33, and is looking for recommendations on which math class I should be taking before Calculus 1. I graduated with a BS in business about 8 years ago, and I’m trying to apply for a Master’s in Computer Science which requires Calculus 1, 2 and Linear algebra. 
+
+The highest math course I’ve taken is precalculus (about 10 years ago), I do not recall the majority of the concepts and theorems. I’ve also never taken trigonometry before. Should I go back and take (in this order?): College Algebra, Trigonometry, Precalculus, Calc 1, Calc 2, Linear Algebra? 
+
+Also, is plane trigonometry the same as trigonometry? 
+
+Much appreciated.",https://www.reddit.com/r/computerscience/comments/g6jagw/path_of_math_courses_for_computer_science/,4,"The order I took math classes for my CS major is algebra, trigonometry together with statistics, precalculus together with discrete math, then calc 1-2, and right now taking calc 3 together with linear algebra/intro differential equations. ",2020-04-23 08:58:13
+47,gkvdnv,False,General,2,Anyone have an idea of how many bits of information can be carried by Chinese characters?,computerscience,,https://www.reddit.com/r/computerscience/comments/gkvdnv/anyone_have_an_idea_of_how_many_bits_of/,2,"Not sure I understand your question.
+
+Many of the chinese characters are represented in the UTF-8 encoding. ",2020-05-16 14:19:25
+48,gnxy7z,False,General,0,Path finding comparison,computerscience,"Apart from time complexity, what are important things to take into account when comparing path finding algorithms?",https://www.reddit.com/r/computerscience/comments/gnxy7z/path_finding_comparison/,2,,2020-05-21 14:34:31
+49,fsg2n5,False,General,9,Computer Scientist VS Programmer,computerscience,"For professionals in the field, what would you consider the defining difference between someone you would consider a programmer vs a computer scientist?  Does anyone even refer to themselves as a computer scientist?",https://www.reddit.com/r/computerscience/comments/fsg2n5/computer_scientist_vs_programmer/,5,"I think, in simple words, the difference between the computer scientist and programmer is the one who perform theoretical work in the field of computer science vs. the one who perform applied work in the field of computer science. ",2020-03-31 16:31:16
+50,gktkor,False,General,1,Can someone explain me what technically happens when you google something?,computerscience,"I am doing a research about Larry Page and was going to write the technical part, but i left all my books and notebooks in my other house and i cant find any information i need because unfortunately, im not english and my country is more focalized on pubblish trash and fake news than technology explaination, so i really dont know where to look.
+If anyone want to help me, im looking after these informations:
+
+Its not necessary a detailed answer, i will rework that so even a quick and short answer is enought. What technically happens when you google something? And how can you reach an information stored in another part of the world from your position? What data are you sending and receiving and how can the computer decipher that?",https://www.reddit.com/r/computerscience/comments/gktkor/can_someone_explain_me_what_technically_happens/,4,"To answer your second question, much of the internet works on the HTTP ""hypertext transfer protocol"". A TCP/IP connection is established and computers send text to each other based on the text, structured HTTP.
+
+So, when you send an HTTP request to the Google computers, they take the search text, translate it to their index language, and look up the indices of pages which best match the request. Links to the pages are sent to you. You click those links and make more requests. ",2020-05-16 12:04:55
+51,gkzc7t,False,General,0,Interview Preparation,computerscience,"Hey People ,  I know many of you are preparing for your interviews  and so am I . However the total number of questions to be covered is a bit overwhelming for a single person . So me and my friends have decided to create a repository containing links of good interview questions along with their implementations so it may help us in the future while in the interviews to come up with good solutions . The sites i mainly use are LeetCode and GeeksForGeeks. 
+
+Heres's the repository link [Interview Preparation](https://github.com/TheSYNcoder/InterviewPrep).
+
+I would be grateful if some of you can contribute and make this list more better for the future.",https://www.reddit.com/r/computerscience/comments/gkzc7t/interview_preparation/,3,,2020-05-16 18:13:07
+52,gqbprs,False,General,0,Thoughts on the Odin project?,computerscience,"What are your thoughts on the Odin project as a course to learn programming/ a computerlanguage. I started it this morning, am a bit confused, but also intrigued. Thoughts?",https://www.reddit.com/r/computerscience/comments/gqbprs/thoughts_on_the_odin_project/,1,,2020-05-25 14:18:44
+53,gor5jp,False,General,1,What are essential topics for someone who wants to get into programming without a CS degree.,computerscience,"Hi,
+
+A little about me: I am not a CS student and I have graduated university several years ago with a degree in mathematics. I am wanting to get into development in one way or another as it interests me.
+
+I know a decent amount of python and some java (little rusty though) as well as some oop concepts.
+
+I think my data structures and algorithm knowledge is very weak so I am going to self teach this.
+
+Here is a list of topics that I want to learn some knowledge in each area:
+
+(I am planning to do reading in different sources and try and do my own implementations where I can)
+
+STRUCTURES
+
+Linked Lists
+
+Hash Tables
+
+Arrays
+
+Trees
+
+Stacks
+
+Queues
+
+Heaps
+
+Graphs
+
+&#x200B;
+
+ALGORITHIMS
+
+&#x200B;
+
+Sorting:
+
+Bubble Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+&#x200B;
+
+Searching:
+
+Linear Search
+
+Binary Search
+
+Depth First Search
+
+Breadth First Search  
+
+&#x200B;
+
+Can anyone tell me if they think I am missing anything that I really need to know and also if there is anything on there that is not as important and maybe I should drop?
+
+Thanks!",https://www.reddit.com/r/computerscience/comments/gor5jp/what_are_essential_topics_for_someone_who_wants/,0,Just buy an algorithms books. ,2020-05-22 20:28:42
+54,g6ukxf,False,General,0,20 Terminal Commands,computerscience,"Made a quick intro video about basic terminal commands for beginner programmers. Recently made the transition to vim and I remembered my first job out of university when I didn't know terminal commands and how much knowing them has improved my productivity. Thought it might help someone else out there. There's examples in there too. 
+
+[20 Terminal Commands For Programmers](https://youtu.be/8PgI8930zYU)",https://www.reddit.com/r/computerscience/comments/g6ukxf/20_terminal_commands/,12,,2020-04-23 20:46:35
+55,gl5jx3,False,General,1,List of fun applications to build?,computerscience,"So pretty much I’ve left programming behind me, however I’ve seen someone on Instagram & Twitter do some cool things that my friends have enjoyed so it got me thinking, what kind of cool things can people recommend me to have fun with? Nothing too serious but something that is interactive enough for my friends to play around with too!",https://www.reddit.com/r/computerscience/comments/gl5jx3/list_of_fun_applications_to_build/,0,"What languages do you know,do you play games? ",2020-05-17 00:20:22
+56,f87uyq,False,General,5,"I created a website for quick searching 8085 microprocessor opcodes for my microprocessor lab, hope you guys can also make use of it",computerscience,,https://thesyncoder.github.io/micro,120,Which grade dude? ,2020-02-23 10:33:52
+57,genkvz,False,General,1,What's your coding level?,computerscience,"Today we released ""Ranked"" mode on Codr. Do your best to solve  problems but with a nice twist: **no coding required!** It's mobile friendly  and even if you don't know a thing about coding.
+
+If   you're a beginner or unfamiliar with JavaScript you can go into    practice mode, or jump straight into ranked. Try to climb the    leaderboards and get Genius status!
+
+In the coming days people will be able to customize their profiles to showcase and promote their sites or projects.
+
+URL: [https://nevolin.be/codr/](https://nevolin.be/codr/)
+
+&#x200B;
+
+https://preview.redd.it/uv9ci2wlb6x41.png?width=1600&format=png&auto=webp&s=ec1254ec7911810775f3604bbebb604cb0a785d1",https://www.reddit.com/r/computerscience/comments/genkvz/whats_your_coding_level/,1,9000 ,2020-05-06 16:45:33
+58,geibj3,False,General,0,Eclipse keeps opening another program,computerscience,"How do I fix this? when I try to run my program, it just keeps running another previous program.",https://www.reddit.com/r/computerscience/comments/geibj3/eclipse_keeps_opening_another_program/,0,,2020-05-06 11:34:09
+59,fowppb,False,General,7,Best way to getting started in Computer Science or Tech Industry in general?,computerscience,My industry has dramatically declined over the years so I am looking into getting into the tech industry. Where should I start? Maybe take some courses in coding? What would be the best way of getting my foot in the door in this industry. I have a good work ethic but I mostly worked construction but I am a strong believer I can bring the same to the table in the tech industry. I am Canadian and I am 28 years old. Is there courses I should look into? I was checking out tutorials of learning HTML. Pretty basic. Seems pretty easy but that is just one little tiny aspect of it and it's pretty damn easy I'd say.,https://www.reddit.com/r/computerscience/comments/fowppb/best_way_to_getting_started_in_computer_science/,0,https://www.theodinproject.com/ ,2020-03-25 19:41:41
+60,etiwqq,False,General,15,Good Computer Science textbooks?,computerscience,"Not worried about price, I like learning. What are some good textbooks to learn from for computer science? Im doing pretty well in my course but im enjoying what im learning. However I feel like I could still improve (obviously). What are some books you recommend? I will also recommend one: Quantum Computing for Computer Scientists (has maths, exercises and theory all about quantum computing).",https://www.reddit.com/r/computerscience/comments/etiwqq/good_computer_science_textbooks/,16,[deleted] ,2020-01-24 23:56:01
+61,e3q8d2,False,General,35,What is a .dll file?,computerscience,What is a .dll file? And why are they important?,https://www.reddit.com/r/computerscience/comments/e3q8d2/what_is_a_dll_file/,79,"this made me feel older than any number of ""Dae remember dialup?"" threads ",2019-11-30 03:51:14
+62,f853an,False,General,8,"How do games on PC ""resist"" alt f4?",computerscience,Comp sci noob here.,https://www.reddit.com/r/computerscience/comments/f853an/how_do_games_on_pc_resist_alt_f4/,4,"I think the game process is allowed to handle an exit event on it's own, in case something like a save needs to happen, or so you can prompt the user to ensure it was not an accident. I guess I'd call the Alt+F4 method of exiting a soft kill method. A hard kill would be like using task manager to end the process, which I imagine tells the OS to force kill that process. ",2020-02-23 05:16:38
+63,ftcf90,False,General,1,"Server for anyone interested in or learning anything regarding Compsci, Programming, IT, or similar! - LF MODS!",computerscience,"Link: https://discord.gg/auA49HS
+
+Hey lol, seems like a shameless plug but basically if you or your friends are interested (Seems like you are,) come here to discuss and ask for help on these topics and more. ALSO, if you're interested please talk to me about becoming a moderator once you're in-server!",https://www.reddit.com/r/computerscience/comments/ftcf90/server_for_anyone_interested_in_or_learning/,7,Can't seem to join via phone ,2020-04-02 00:42:41
+64,g53vkv,False,General,0,Moment of silence for >1 petabyte data loss..,computerscience,,/r/DataHoarder/comments/g4wfke/moment_of_silence_for_1_petabyte_data_loss/,0,,2020-04-20 23:27:36
+65,g525in,False,General,0,COVIS - Creative Orchestration of Visually-Inspired Semantics,computerscience,"Dear community,
+
+We are three seniors from Idaho State University who have built a creative system. Please make time to fill out this 6 - 8 minute survey. It will go a long way towards helping us  analyze the effectiveness of our COVIS system. You can sleep well tonight knowing you helped some struggling college kids and helped further the field of computational creativity!
+
+You can find the Google form [here](https://forms.gle/h557FrVUg85sthvYA).",https://www.reddit.com/r/computerscience/comments/g525in/covis_creative_orchestration_of_visuallyinspired/,1,,2020-04-20 21:51:18
+66,g4bees,False,General,0,(UK) anyone doing A level CS?,computerscience,I’ve created a brand new sub r/AlevelCompSci dedicated to A level students doing or planning to do computer science. Please feel free to join,https://www.reddit.com/r/computerscience/comments/g4bees/uk_anyone_doing_a_level_cs/,0,,2020-04-19 17:17:23
+67,g4376z,False,General,1,Python Scripts - Automate video files total length calculation,computerscience,This video enables you to get the aggregate time length of all videos in a folder,https://www.reddit.com/r/computerscience/comments/g4376z/python_scripts_automate_video_files_total_length/,1,"If you open a folder with videos in VLC, it will show you total time. ",2020-04-19 06:52:30
+68,g3ckl1,False,General,0,Here's an collection for learning Programming Methodology from Stanford,computerscience,"I found this class collection from Stanford. It's from 2008 and they use Java as a language in the class but I think it's pretty fun to listen lessons. Technology might be old but the mindset that you'll take is still fresh.
+
+I think this might be a great resource for beginners to start from somewhere, Lecture is given by Prof. Mehran Sahami, I think he is pretty funny guy.
+
+Here's the list;
+
+* [**Programming Methodology Class**](https://jooseph.com/modules/259?utm_source=reddit.com&utm_medium=referral&utm_campaign=18.04&utm_term=r%2Fcomputerscience&utm_content=Programming%20Methodolgy)",https://www.reddit.com/r/computerscience/comments/g3ckl1/heres_an_collection_for_learning_programming/,1,,2020-04-17 22:59:54
+69,fc40pn,False,General,4,Calculus in Computer Science,computerscience,"Calculus in Computer Science
+
+I only have a few classes left in my undergrad CS curriculum, and Iv taken all the required math (Calc 1-2 and Discrete 1-2). I have run into a lot of applications for discrete mathematics but pretty much none for calculus. Are their fields/research areas in more advanced computer science that use more calc based math such as differential equations? I found this kind of math to be more interesting than discrete so I would like to keep applying it. Also, I am aware of using computers to numerically solve differential equations for other fields like physics is prominent, but I’m wondering about something that’s specifically computer science, and less scientific computing. Thanks.",https://www.reddit.com/r/computerscience/comments/fc40pn/calculus_in_computer_science/,4,"If you're working close to the metal where you're actually doing some electronics engineer, sure. But high-level algorithms? It's pretty rare, all things considered. I've only run into a few times in machine learning, and even then, nothing too advanced. ",2020-03-02 01:03:54
+70,fl5boi,False,General,2,OPINION: the recent COVID-19 outbreak may opens more job opportunities for computer scientist.,computerscience,"As with the recent outbreak, everyone is forced to self-isolate. They are quarantined and forced to work from home. This might be a new revolution for teleworking, and can open up more demands for software related jobs. Almost every education system moving to online, demand in e-commerce, socially being more connected online etc; Everyone is in-need of a reliable virtual connection (for all services) that this outbreak may bring some amazing inventions and ideas for the future.",https://www.reddit.com/r/computerscience/comments/fl5boi/opinion_the_recent_covid19_outbreak_may_opens/,3,"There are thousands of computer scientists, including myself who are still working at the office. Don’t assume we can all just work from home. 
+
+Unless a similar outbreak occurs in the future, I can’t see essential things like education being moved online. But I expect devs at places like Google will work on improving their collaborative platforms for potential future social disruptions ",2020-03-19 06:27:25
+71,dj8o04,False,General,33,Bracket heaven. Where all computer science majors go to die.,computerscience,,https://i.imgur.com/VOkg7kf.jpg,364,[deleted] ,2019-10-17 16:18:34
+72,fbvkqu,False,General,7,Merging video game AI with real game footage to see how many times a QB had a receiver open enough to throw to,computerscience,"I'm just wondering if this is possible.
+
+If you've ever played defense on Madden (an American Football video game) against the computer (as opposed to against your friend) you can see that **the AI understands when a receiver is open**.
+
+So, i'm wondering if you can **apply this code to real game footage**, and have it tell me, for example, if Tom Brady had any receiver's open (and/or how many) on a specific play?",https://www.reddit.com/r/computerscience/comments/fbvkqu/merging_video_game_ai_with_real_game_footage_to/,0,"Is the video game actually using AI or is it simply doing distance calculations of its virtual output?
+
+Edit: misrepresented AI.... ",2020-03-01 15:31:53
+73,fzaq20,False,General,0,Is Anyone Familiar with the contents of R.D. Tennent's Specifying Software Textbook?,computerscience,"I find this textbook very confusing, is anyone familiar with the contents of it.  
+ [https://www.cambridge.org/core/books/specifying-software/FC5195E61426DB3C8BB8851BEB947D37](https://www.cambridge.org/core/books/specifying-software/FC5195E61426DB3C8BB8851BEB947D37)   
+I'm specifically asking about PART A of the textbook",https://www.reddit.com/r/computerscience/comments/fzaq20/is_anyone_familiar_with_the_contents_of_rd/,1,,2020-04-11 17:32:38
+74,fyh66s,False,General,0,Teen stuck at home? Feel free to join our online hackathon for high schoolers - TeenHacksHTX!,computerscience,,https://teenhackshtx.devpost.com/,1,,2020-04-10 14:49:14
+75,fk3rgm,False,General,3,Units of Computer Memory Measurements,computerscience,,https://i.redd.it/2bf335vvy7n41.png,0,"I hate to be that guy, but that's wrong. You should have used the binary unit prefixes, KiB, MiB, GiB, etc...
+The prefixes k, M, G, etc. are powers of 1000, not 1024. ",2020-03-17 11:38:28
+76,fo4ia0,False,General,2,Machine Learning Professor using StackOverflow as reference :),computerscience,"&#x200B;
+
+https://preview.redd.it/s8vicqqb9mo41.png?width=3840&format=png&auto=webp&s=c8456b16ea786de424477314728d0a7cc1090bfb",https://www.reddit.com/r/computerscience/comments/fo4ia0/machine_learning_professor_using_stackoverflow_as/,1,Is this bad? ,2020-03-24 12:45:15
+77,frjspb,False,General,0,Survey of CS/Math/EE grads or professionals,computerscience,"This 3-5 minute survey is for individuals with an undergraduate degree in computing, mathematics or electrical engineering and/or enough professional experience (2+ years) in those fields to potentially qualify them for admission to an online graduate degree program in Computer Science. The purpose of this survey is to research causes for the low representation of women and minorities in the Online Master of Science Computer Science program at GaTech. The survey asks a series of personal questions and should take less than 5 minutes. If at any time you do not wish to continue with the survey you may close it and your answers will not be recorded. Your survey responses will be kept entirely confidential and will be reported only in aggregate. Your help in providing this vital data is greatly appreciated. If you consent to participate, please click the link below and 'Submit Your Responses' when you have finished.
+
+[**http://peersurvey.cc.gatech.edu/s/926569cfd4ed4161aa211f11b5f9ed8e**](http://peersurvey.cc.gatech.edu/s/926569cfd4ed4161aa211f11b5f9ed8e)",https://www.reddit.com/r/computerscience/comments/frjspb/survey_of_csmathee_grads_or_professionals/,2,,2020-03-30 03:56:35
+78,d12sqt,False,General,44,[AI application] AirGesture - Let's play game without keyboard,computerscience,,https://v.redd.it/qpblb4e129l31,637,Are you Vietnamese? Sorry if you are not ,2019-09-07 22:39:11
+79,fruf7b,False,General,0,Online Computing course for Year 11 progressing into the national BTEC in computing,computerscience,"so i need something to learn/occupy myself with. I am currently in year 11  transitioning to college to undertake the level 3/national diploma in computing which is equivalent to 3 A levels. I want to pursue a career as an IT technician. so due to schools being closed and me being really bored i would like to do an appropriate online course. any suggestions?
+
+im in the uk but you probably guessed from the text.",https://www.reddit.com/r/computerscience/comments/fruf7b/online_computing_course_for_year_11_progressing/,1,,2020-03-30 16:52:53
+80,f7vrde,False,General,1,"EDSAC, early computer built in 1949 at Cambridge University. Picture Computer History Museum.",computerscience,,https://i.redd.it/xom3tf86hii41.jpg,19,There’s a decent EDSAC emulator ,2020-02-22 17:35:57
+81,f0fhy3,False,General,3,Have you guys ever had an Internship where you were given a lot of responsibility?,computerscience,"I interned at this startup in Seattle last summer as a junior in college. It had about 65 employees in total. When I started at the beginning of summer 2 full time devs left and a bunch of the team went on vacation. So essentially my ceo just came up to me and gave me like a bunch of projects doing backend work, refactoring code in the front end as well. I was wondering if this was normal or just a product of me working in a startup. 
+Don’t get me wrong I enjoyed talking to our CEO super smart guy and I learned a lot but I always thought that interns get small projects.",https://www.reddit.com/r/computerscience/comments/f0fhy3/have_you_guys_ever_had_an_internship_where_you/,5,Yes my last one and I ended up working full time there after college. It was a great job. Congratulations it sounds like you have a great job too. ,2020-02-07 19:30:49
+82,fnhm7b,False,General,0,The largest operating system ever made,computerscience,,/r/computersciencehub/comments/fnhlbe/the_largest_operating_system_ever_made/,0,,2020-03-23 10:15:55
+83,fgbc1u,False,General,1,The deep learning models established in this study were effective for the early screening of COVID-19 patients,computerscience,,/r/LatestInML/comments/fgba59/the_deep_learning_models_established_in_this/,2,,2020-03-10 09:48:50
+84,fke47f,False,General,1,Human brain specs:,computerscience,"Clock: n/a ... frequency bands less than 100 Hz
+
+Memory: 2,500 TB
+
+Bandwidth: 1.375 MB/s being sent, 6.25 B/s being processed... massive compression?
+
+Flops: 1,000,000 TFlops
+
+RAM: 7 items of relevant information at a time (a few KB to perhaps a few hundred MB)
+
+&#x200B;
+
+I hope one day our brains will merge with CPUs in some way. Even throwing an old CPU from the 70's in there would drastically improve our speed and abilities to do various tasks like math and even reading.",https://www.reddit.com/r/computerscience/comments/fke47f/human_brain_specs/,0,Wot ,2020-03-17 22:07:09
+85,fjyq6p,False,General,1,Would anyone want to start a coronavirus testing location app? Unless there already is one . . .,computerscience,It would be a simple app/website with a map and locations of all of the coronavirus testing facilities. I think we can really help people with this!,https://www.reddit.com/r/computerscience/comments/fjyq6p/would_anyone_want_to_start_a_coronavirus_testing/,1,,2020-03-17 04:00:13
+86,ffhcyw,False,General,0,Classifying and Sub classifying areas of Self Improvement,computerscience,,/r/NeoPotential/comments/ffad10/classifying_and_sub_classifying_areas_of_self/,1,,2020-03-08 19:13:04
+87,f1x0fm,False,General,0,Learn JavaScript and algorithms by assembling patterns together,computerscience,"I'm Jacques, an ex-google software engineer turned programming instructor. My students were struggling solving algorithm challenges so I created a tool that guides them through the process. For each exercise, you are given all the you need and need to figure out how to assemble them to get to the solution. It's a stepping stone towards being able to solve algorithm exercises without any clues.
+
+Here's the link: [https://wakata.io/learn/info/wakassemble](https://wakata.io/learn/info/wakassemble)
+
+Enjoy :)",https://www.reddit.com/r/computerscience/comments/f1x0fm/learn_javascript_and_algorithms_by_assembling/,9,,2020-02-10 21:12:19
+88,ce5hj6,False,General,71,Why do Computer Science students seem so unfocused in class,computerscience,I am a Senior CS major at a fairly large university (Approx 35k students) and In my upper-level CS classes 300-400 level it seems like my fellow classmates including myself just never listen to what the professors are saying. Do any other CS students notice this also? What is the reasoning that no one seems to be listening to material that seems fairly important?,https://www.reddit.com/r/computerscience/comments/ce5hj6/why_do_computer_science_students_seem_so/,163,"I myself am soooo guilty of this, I just get too easily distracted by things like Facebook and Discord. ",2019-07-17 00:26:39
+89,dbj7vj,False,General,9,My photomosaic generator (image2image and video2video) written in Python (< 30 lines of code),computerscience,,https://v.redd.it/vtv67n6w1tp31,348,Thats actually insane ,2019-09-30 22:10:13
+90,conmwh,False,General,21,"I showed fractals to my grandmother, she made this",computerscience,,https://i.redd.it/qlnogetrrof31.jpg,548,"*It's upside down*
+
+The leaves grow into the ground in cs lol
+
+But seriously, this artwork is very cool ",2019-08-10 21:04:56
+91,fdfhl8,False,General,0,Programming languages (1965-2019),computerscience,,https://www.youtube.com/watch?v=pyylRJOkMt8,1,,2020-03-04 16:28:31
+92,bczaup,False,General,108,"So my girlfriend and I made an application that generates a website from a real world image.. This is just a simple working video, that we made before the Kolkata Mini Maker Faire. Did some changes on the UI later",computerscience,,https://v.redd.it/t18rzcqrq5s21,1044,[removed] ,2019-04-14 04:40:35
+93,f6lixt,False,General,0,Product of array elements except self - Day 2 challenge,computerscience,,https://developersinspired.com/2020/02/19/product-of-array-except-self/,2,,2020-02-20 01:51:51
+94,eg6xiw,False,General,10,Phones vs Computers,computerscience,"I don't know if this is the correct subreddit to ask this but here goes. What exactly are the fundamental differences between phones and computers if there are any? Why can't I replace I just replace a phones OS like I can for a computer, and why does a phone need so much less power to work than a computer (it sounds like a dumb question but if they both have the same components than why). Anybody who could explain this: thank you.",https://www.reddit.com/r/computerscience/comments/eg6xiw/phones_vs_computers/,0,"I’m no tech guru but I know that phones have less ram/smaller and more primitive processors, but you can technically convert your (jail broken) phone into a limited PC fairly easily. The bulk of the appeal for Android, for example, is its much easier to use as sort of a “lite” PC, like a little Raspberry Pi ",2019-12-27 05:26:42
+95,f7z8d7,False,General,0,Anyone know of a good hwid spoofer,computerscience,,https://www.reddit.com/r/computerscience/comments/f7z8d7/anyone_know_of_a_good_hwid_spoofer/,0,,2020-02-22 21:33:26
+96,c10uyi,False,General,30,This explains so much to me,computerscience,,https://i.imgur.com/NQPrUsI.gifv,908,I didn't know people struggled with such a simple topic. It's just 2^n instead of 10^n ,2019-06-15 19:04:58
+97,dw87w6,False,General,9,Just how dangerous is a SQL injection?,computerscience,"Hi everyone! I'm currently doing a module in information security. We're looking at a different type of data systems that are web-based and how they can be breached. While looking into this, i found that SQL's are the most dangerous type of breaches for data structures,  from what i understand (and im most likely wrong) they can get information from the database. Now i know that this is very bad if its something like a bank for example, but is there nothing more than an SQL can do? Can it take something offline?   
+Are SQL's still prevalent in the real world? As they seem to be rather primitive, nothing too special if you have the right tools and certainly not as sophisticated as something like social engineering.  
+   
+Anyways I'm just curious about the maximum potential of an SQL.",https://www.reddit.com/r/computerscience/comments/dw87w6/just_how_dangerous_is_a_sql_injection/,4,Google ,2019-11-14 11:24:48
+98,f3kuae,False,General,1,Interesting Cybersecurity topics to research:,computerscience,"Heyo,
+I’m a high school senior who is going into Cybersecurity to get a bachelor degree (which I consider to be a subfield if compsci). I’m interested in doing some in depth research about the field while I study for my Comptia exams. Is there something other than cryptography that I could put some research into? Cryptography is cool, but that and encryption is all I hear about when it comes to cyber). I feel like I’m overlooking something in cybersecurity that would be cool...Thanks!",https://www.reddit.com/r/computerscience/comments/f3kuae/interesting_cybersecurity_topics_to_research/,1,"Networking is a huge part of Cyber. You wont understand how anything works until you fully understand the OSI model concepts. Learning how operating systems work, and actually understand indepth how certain Malware uses system calls to rewrite specific memory. Learning C language would be very big advantage. Having a background in those topics will put you at an advantage and will be easier to follow in school. (these are beginner topics I wish I studied before going into technology / cyber ) ",2020-02-14 01:46:53
+99,eaaz2w,False,General,5,"Is there an ""Elements of Style"" for coding?",computerscience,"I'm wondering if anyone has any book suggestions on coding with good style. I'm looking for general rules of thumb, do's and dont's. That sort of thing.
+
+Thanks in advance.",https://www.reddit.com/r/computerscience/comments/eaaz2w/is_there_an_elements_of_style_for_coding/,2,The [Linux Kernel style guide](https://www.kernel.org/doc/html/latest/process/coding-style.html) is good to read over. ,2019-12-13 22:26:29
+100,dyk2rn,False,General,10,ILLIAC version to inspire HAL 9000?,computerscience,"HAL says he was created in Urbana, Illinois... which can only let me conclude that he was inspired by something they were doing over in Urbana, Illinois. I only know of the ILLIAC series of supercomputers, and assume HAL was based on one of these. Based on timelines, I assume it was ILLIAC 1 but have no clue. Any insight?",https://www.reddit.com/r/computerscience/comments/dyk2rn/illiac_version_to_inspire_hal_9000/,2,"ILLIAC IV was based on an idea from the 1950s (SOLOMON). I think development began in the early or mid-1970s. Depending on how long it took to make the film, it's possible the film makers knew about ILLIAC IV. You've got to remember that in the computer science and engineering community, the ILLIAC IV is infamous for having over-promised and under-delivered by a huge margin. It's hard to imagine this reputation could've been the result of anything other than pre-release hype. ",2019-11-19 12:57:36
+101,bbvhj0,False,General,44,Katie Bouman with the stack of hard drives containing Terrabytes of data obtained from the EHT. It was her algorithm that took disk drives full of data and turned it into the image we saw yesterday. Reminiscent of Margaret Hamilton with her stack of printouts of the Apollo Guidance System.,computerscience,,https://i.redd.it/v355ibff3kr21.png,857,"wow  
+(No, this is not ironic or sarcastic) ",2019-04-11 03:43:33
+102,emtaiy,False,General,0,"New platform to connect high school students to CS summer programs, internships, and fellowships",computerscience,"Apple has opened applications for its new camp for high school students. The application is coming up: [https://app.scholarahead.com/opportunities/80K1MskvKf7vWidlc2HR](https://app.scholarahead.com/opportunities/80K1MskvKf7vWidlc2HR)  
+
+
+Find others like this on [app.scholarahead.com](https://app.scholarahead.com/). It's a new free platform with over 1,000 internships, enrichment programs, research fellowships, etc for middle and high school students. You can quickly and easily search and filter by your specific interests, location, grade level and more. I'm the founder and I'd love to hear your feedback.",https://www.reddit.com/r/computerscience/comments/emtaiy/new_platform_to_connect_high_school_students_to/,5,,2020-01-10 16:28:01
+103,ekrls1,False,General,0,"Donald Knuth: Algorithms, Complexity, Life, and The Art of Computer Programming | AI Podcast",computerscience," By  [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) 
+
+&#x200B;
+
+[Here is the podcast.](https://youtu.be/2BdBfsXbST8)",https://www.reddit.com/r/computerscience/comments/ekrls1/donald_knuth_algorithms_complexity_life_and_the/,5,,2020-01-06 09:07:38
+104,evidj0,False,General,1,What would be the effect of the P vs NP problem on cryptocurrency?,computerscience,,https://www.reddit.com/r/computerscience/comments/evidj0/what_would_be_the_effect_of_the_p_vs_np_problem/,0,"The amount of computing power currently required to fool any existing crypto block chains is so enormous that it would cost more than you could recover from the block chain, i.e. it would never be worth the effort.
+
+If P = NP then that means that there is an algorithm that can solve what we currently think are really hard problems (i.e. decryption) in polynomial time, i.e. fairly quickly which means encryption goes out the window.  Someone could create a fake blockchain in polynomial time and totally corrupt the crypto block chain. ",2020-01-29 05:19:34
+105,cox9mz,False,General,6,The anatomy of a computer running Windows (hopefully there aren't a lot of inaccuracies) [oc],computerscience,,https://i.redd.it/p8jmkweyvtf31.png,282,Nice job. I’d put Game Engines on the Application layer though. They are full fledged desktop applications that rely on lower level APIs (e.g. OpenGL) that you’ve put on the middleware layer. ,2019-08-11 14:19:43
+106,e82cin,False,General,4,"Can you write a 2-sum solution just as short as mine, but this time make it O(n) time?",computerscience,"Recently, I found out that google's search return had O(n\^2) solutions written in bulky code. This I find pretty confusing and wasteful. If you are going to write an O(n\^2) solution at least make it short.
+
+**python code**
+
+Here, I've done just that. The first one halts and returns a yes when 2-sum is found.
+
+    k = [3,4,5,5,5,5,1,2]
+    target = 6
+    
+    for j in range(0, len(k)):
+      if target-int(k[j]) in k[j+1:]:
+       print('yes')
+       quit()
+    
+    print('no')
+
+The 2nd one here returns all 2-sums found.
+
+    k = [5,4,1,2,-2,6]
+    target = 3
+    
+    for j in range(0, len(k)):
+      if target-int(k[j]) in k[j+1:]:
+       print(target-int(k[j]), '+', int(k[j]))
+
+&#x200B;
+
+&#x200B;
+
+Now, I'm gonna try to implement hash-tables to make it O(n) time. Can you give me some examples of what you would do to make it O(n) time but keep it nearly as short??",https://www.reddit.com/r/computerscience/comments/e82cin/can_you_write_a_2sum_solution_just_as_short_as/,0,[deleted] ,2019-12-09 00:47:19
+107,e1rn91,False,General,2,Spotify Podcasts TCS,computerscience,"Hi, 
+I'm looking for some Spotify podcast recommendations for theoretical computer science and unsolved problems in computer science. I'm most interested in math concepts in CS that I can listen to while doing other things. I searched the sub but the majority of the results that came up didn't really have content I was looking for. 
+My only reason for wanting Spotify is because of my familiarity with it, I'd be quite open to another platform if it has the content I'm most interested in.",https://www.reddit.com/r/computerscience/comments/e1rn91/spotify_podcasts_tcs/,6,Try [this one by Lex Friedman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=PPA5wXZ0Tt-haBNmzc3tbA) - the focus is AI but the people he talks to are pretty heavy hitters in CS ,2019-11-26 02:58:26
+108,e8trbe,False,General,2,Looking for resources on Enterprise level infrastructure,computerscience,"I saw Spotify's personalised year review campaign and wondered how they pull it off. How do they manage huge amounts of data efficiently while maintaining availability for millions. Same can be asked about Netflix, Twitter, etc.
+
+Looking for a high-level overview, but information on specific algorithms, structures, stacks or whatever else makes it possible are also much appreciated.
+
+Do you know any talks, books, articles or podcasts on this topic?
+
+
+
+Thanks!",https://www.reddit.com/r/computerscience/comments/e8trbe/looking_for_resources_on_enterprise_level/,2,"Basically with services like that your usually looking some type of cloud service provider. With cloud providers you have something called elasticity, this allows you to grow (or stretch) and shrink given the resources currently being demanded. You will also pay more or less at any given second depending on that demand. You will also have something called load balancing. This is so that no one server is working harder than another and they are ""balanced"" in workload. You also have redundancy to the point that if all of your servers that your service is using are all destroyed that your servers will ""failover"" to the next available data center that is able to provide it. ",2019-12-10 17:34:28
+109,af7615,False,General,82,Just coded my first ever program!,computerscience,,https://i.redd.it/hxxgi51mpz921.jpg,415,Does your intro class not have you run emacs or vim and write/compile that way? ,2019-01-12 12:58:41
+110,dhx806,False,General,8,written by u/ttvezb & u/McQuillus23 (not very complicated but still proud),computerscience,,https://i.redd.it/4sftk0vnoks31.png,4,Nice ,2019-10-14 21:14:27
+111,ek2gg9,False,General,1,[Google Brain Object detection] EfficientDet: Scalable and Efficient Object Detection implementation by Signatrix GmbH,computerscience,,https://i.redd.it/9nq10uvktt841.gif,1,"Here is our python implementation of the model described in the paper EfficientDet: Scalable and Efficient Object Detection implementation published by Google Brain team. 
+
+Source code: [https://github.com/signatrix/efficientdet](https://github.com/signatrix/efficientdet)
+
+Object detection is one of most common tasks in Computer Vision. We expect detector to be as accurate as possible as well as fast enough to run in real time. These two aspects have a trade-off and most of the detectors have proven to be doing well only on one metric, either the accuracy or the speed. Generally, more accurate detectors have found to be more compute demanding which is not the ideal scenario, especially when we are looking for more and more efficient models. Google Brain team has come up with a new family of detectors that are highly efficient, accurate and much faster, called EfficientDet ",2020-01-04 21:04:22
+112,bm38zb,False,General,29,"When you delete a photo off your phone, where does it go?",computerscience,,https://www.reddit.com/r/computerscience/comments/bm38zb/when_you_delete_a_photo_off_your_phone_where_does/,87,to dropbox ,2019-05-08 09:45:15
+113,dkuwi3,False,General,5,I just coded a timer using only for-loops. How does this work?,computerscience,"I'm a beginner CS student and just learned for-loops in class (Python). I was playing around on terminal and made a timer using only forloops. The program prints out ('x' seconds) every 110,000 numbers generated.
+
+&#x200B;
+
+Why does the computer take 1 second to generate 110,000 numbers? What about the computers architecture does this?
+
+&#x200B;
+
+The code (The indents aren't showing up, so Ill show a picture too):
+
+[https://imgur.com/a/z1WGMcV](https://imgur.com/a/z1WGMcV) (Code picture)
+
+def timer():
+
+x = int(input('How many seconds?: '))
+
+for y in range (10\*\*7,int(10\*\*7+(1.1\*10\*\*5)\*(x+1))):
+
+for z in range(0,100):
+
+if y == (10\*\*7+(1.1\*10\*\*5)\*z):
+
+print (str(z)+' seconds')
+
+print ('Times up!')",https://www.reddit.com/r/computerscience/comments/dkuwi3/i_just_coded_a_timer_using_only_forloops_how_does/,3,"This is just based on how fast your computer can execute code, and would likely differ greatly from each machine. If you ran this program on a computer from 10 years ago, it'd probably take much longer. It seems you've just ""found"" the magic number of lines your computer can process in approximately one second. In fact, if you actually timed your program with more precision, you'd most likely find that it would not finish in exactly the same amount of time each run (ex: 1.005 seconds, 1.013 seconds, 1.008 seconds, etc). ",2019-10-21 03:58:21
+114,e7g0je,False,General,1,Separate music tracks using machine learning,computerscience,,https://melody.ml/,4,Cool. I wonder what separates low frequencies of a drum vs a lowest of violin. ,2019-12-07 16:05:27
+115,bisixh,False,General,31,"Sophomore in college, it’s too late to major. Will a minor still benefit me?",computerscience,"Took a programming class this semester to get my math requirement out of the way and I’ve really liked it so far. I’m signed up to continue on with the next course in the minor progression.
+
+When it comes to looking for programming jobs after college will a minor benefit me, or am I out of luck for starting too late? I’m not picky when it comes to money, I’m a frugal person so I’d probably be happy making 30k+ and gaining some work experience to move up from there. If it all goes to plan I’ll be married a year or two out of college and we’ll have my SO’s income as well.
+
+I’m at a liberal arts college so I’d have a Music major (I know, I know) and a Computer Science minor. Just curious if I should try to commit to the minor and if a minor will even help in a job search. Thanks in advance!",https://www.reddit.com/r/computerscience/comments/bisixh/sophomore_in_college_its_too_late_to_major_will_a/,38,"It's not too late to switch if you really want it.
+
+But also, there's no need to be ashamed of being a music major. STEM bros can suck it. ",2019-04-29 17:56:36
+116,b4h9ga,False,General,21,List of Free Video Courses and AI Projects for Computer Science Enthusiast,computerscience,"**Programming Languages | Web and App Development**
+
+[Python Basics](https://www.edyoda.com/course/1431)
+
+[Python Programming - Beginner to Advanced](https://www.edyoda.com/course/98)
+
+[C ++ Programming](https://www.edyoda.com/course/1426)
+
+[Fun with Data Structures and Algorithms](https://www.edyoda.com/course/1223)
+
+[HTML and CSS Course](https://www.edyoda.com/course/1433)
+
+[Angular  5](https://www.edyoda.com/course/1227)
+
+[Android Tutorials](https://www.edyoda.com/course/101)
+
+[Android Widgets](https://www.edyoda.com/course/1173)
+
+&#x200B;
+
+**Artificial Intelligence**
+
+[Mastering Numpy](https://www.edyoda.com/course/1263)
+
+[Step by Step Guide to Machine Learning](https://www.edyoda.com/course/1416)
+
+[Machine Learning using Tensorflow](https://www.edyoda.com/course/99)
+
+[Step by Step Guide to Google Tensorflow](https://www.edyoda.com/course/1429)
+
+&#x200B;
+
+**Cloud and DevOps**
+
+[Introduction to DevOps](https://www.edyoda.com/course/100)
+
+[AWS Services for Solutions Architect Associate](https://www.edyoda.com/course/1410)
+
+[Firebase and Python](https://www.edyoda.com/course/1428)
+
+[Network and Cyber Security](https://www.edyoda.com/course/1411)
+
+&#x200B;
+
+**Others**
+
+[Fundamentals of PySpark](https://www.edyoda.com/course/1427)
+
+&#x200B;
+
+**AI Projects**
+
+[End to End Credit Card Fraud Detection](https://www.edyoda.com/course/1432)
+
+[Dog Breed Prediction (Kaggle dataset)](https://www.edyoda.com/course/1336)
+
+[Web application for Object Identification](https://www.edyoda.com/course/1185)
+
+&#x200B;
+
+**Other Projects**
+
+[Data Processing Pipeline using Kafka-Spark-Cassandra](https://www.edyoda.com/course/1430)
+
+[Build a website with pure HTML and CSS](https://www.edyoda.com/course/1433)
+
+[Game development using python](https://www.edyoda.com/channel/3359)",https://www.reddit.com/r/computerscience/comments/b4h9ga/list_of_free_video_courses_and_ai_projects_for/,257,"More AI bullshit, great. ",2019-03-23 09:30:33
+117,cy9gtn,False,General,2,Interesting intuitive explanation of core computer science concepts,computerscience,Are there any blogs or YouTube channels that explain core CS concepts in an interesting way like there are  3blue1brown channel and betterexplained blog for maths.,https://www.reddit.com/r/computerscience/comments/cy9gtn/interesting_intuitive_explanation_of_core/,64,"Harvard's CS50 with David J. Malan is the best!
+
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi ",2019-09-01 12:41:46
+118,e7uj88,False,General,0,Deep learning or AI experience inquiry,computerscience,"Looking for something with knowledge on the two concepts above.. I am looking to see what it would take to build a piece of software that could parse through data, past, current and future data. Ideally, a specified time frame so the algorithm has parameters. These would be large data sets.. I would like to add multiple variables down the road.. 
+
+Anyone with experience please contact me.",https://www.reddit.com/r/computerscience/comments/e7uj88/deep_learning_or_ai_experience_inquiry/,1,,2019-12-08 14:49:05
+119,com0vz,False,General,10,How to fall in love with CS ?,computerscience,,https://www.reddit.com/r/computerscience/comments/com0vz/how_to_fall_in_love_with_cs/,3,Most concepts can be put into a diagram / drawing so get a good pencil and some good paper for lectures/classes and come up with your own notation. ,2019-08-10 18:55:00
+120,c6gucv,False,General,7,This AI bot aims to find extraterrestrial life,computerscience,,https://techunalt.com/this-ai-bot-aims-to-find-extraterrestrial-life/,34,It's not even a bot.. ,2019-06-28 06:38:30
+121,d834nq,False,General,3,Online Computer Science library,computerscience,"I was wondering if there is any online library with good electronic books and a lot of content of computer science, or at least engineering in general, other than O'Reilley.",https://www.reddit.com/r/computerscience/comments/d834nq/online_computer_science_library/,3,Have you considered college / university? ,2019-09-23 07:20:02
+122,drmwsw,False,General,2,How old 8-Bit Computers Checked how much RAM was available?,computerscience,,https://www.reddit.com/r/computerscience/comments/drmwsw/how_old_8bit_computers_checked_how_much_ram_was/,0,The programmer did that. A lot of the time the programmer kept track of which parts of memory was in use and the programmer avoided the used regions of memory. ,2019-11-04 19:43:36
+123,dv29ei,False,General,1,[AI application with source code] Let your machine play Street Fighter!,computerscience,,https://i.redd.it/1xxazmell5y31.gif,2,"\[AI application with source code\] Let your machine play Street Fighter!
+
+Here is my python implementation of the model described in the paper Curiosity-driven Exploration by Self-supervised Prediction for playing Street Fighter III Third Strike.
+
+Source code: [https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch](https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch)
+
+Full demo: [https://youtu.be/ElT3-loVryE](https://youtu.be/ElT3-loVryE)
+
+Third Strike is the third and final and unquestionably best iteration of Street Fighter 3. 3rd Strike was notable for being complex, with tricky systems and a lot going on for a Street Fighter game. But once it clicked, the satisfaction that came from outwitting your opponent was incredible. It just felt good to play - responsive, silky smooth and bristling with energy. Let see how my machine after being trained for a couple of days plays the game itself. ",2019-11-12 00:58:50
+124,dyddtv,False,General,1,How to view computer information Quickly,computerscience,,https://youtu.be/TQIEjfQ5rPU,1,,2019-11-19 01:41:21
+125,a06xgy,True,General,32,My implementation of QuickDraw - an online gamed developed by Google,computerscience,,https://i.redd.it/szlsw6p0sf021.gif,253,Please update to ubuntu 1804 or 1810. This just hurting my brain. Unity is so uglyy ,2018-11-25 08:21:38
+126,dik9bg,False,General,2,Is it appropriate for me to ask all you great senpai out there to help me out with some beginner assignments that I made run in trouble with?,computerscience,,https://www.reddit.com/r/computerscience/comments/dik9bg/is_it_appropriate_for_me_to_ask_all_you_great/,0,If you want you can dm me and I can try helping ,2019-10-16 04:43:44
+127,cejvt0,False,General,15,Is this the proper way the internet works in simple terms?,computerscience,,https://i.redd.it/mloawj0rwxa31.jpg,0,"You explained partial internet and partial web browser. The internet is for sending and receiving information from outside of your intranet, local connection. You send a packet to an IP that the ISP should resolve for you, as well for receiving. Your modem or router is the one that decides which local computer is going to receive that packet.
+
+Web browsers are different, you download the sites page, and the browser scans and parses the HTML in order to create elements to render inside of the browser window. You don’t need a web browser to use the internet much like you don’t need internet to use a web browser (local site or IIS).
+
+You also failed to mention anything about transport protocols such as TCP and UDP which are very important to understand. ",2019-07-17 22:28:07
+128,as1s1p,False,General,17,Meta: mods please use a bot to auto-remove career advice posts and limit posts to news and discussion posts about the general field of CS.,computerscience,I’m not sure what the point of having u/askcomputerscience and u/computerscience are if the posts are the same career advice. ,https://www.reddit.com/r/computerscience/comments/as1s1p/meta_mods_please_use_a_bot_to_autoremove_career/,70,Maybe they should just be in the rules/sidebars with clickable links as things you might not want to post here but 'over there'. So that would be r/cscareerquestions and r/careerguidance ? ,2019-02-18 20:40:20
+129,cl7sqx,False,General,8,Why is RAM called RAM?,computerscience,"I understand that it stands for Random Access Memory, what I don’t understand is why it’s “Random”. From what I understand it works in a very orderly fashion with pretty much no RNG.
+
+Edit: Thank you to u/thememorableusername for explaining it in depth.",https://www.reddit.com/r/computerscience/comments/cl7sqx/why_is_ram_called_ram/,0,It has high performance under a random access pattern. in reality you better access it linearly if you expect performance at gigahertz scale. ,2019-08-02 18:17:19
+130,cax9rw,False,General,7,"How are bots made, and what languagesw can they be made in?",computerscience,"What languages can bots be made in, and what kind of code ""structure"" do they have? As in, what does their internal code look like? Does anyone happen to have a link for an open-source bot?",https://www.reddit.com/r/computerscience/comments/cax9rw/how_are_bots_made_and_what_languagesw_can_they_be/,1,"Well you see, some bots are made in bedrooms and some bots are made in the back seats of cars.
+
+But in all seriousness, a bot is a program that is headless.  That is, something without a ui or a console interface.  It hides in the background when running.  Often times bots connect to the internet and do automated tasks.
+
+The console / UI is hidden by having the bot call a fork first thing when it starts up.  This ends the console / UI thread, and the new thread runs in the background on the machine. ",2019-07-09 06:51:59
+131,bvhtog,False,General,8,What are some of the best MOOCs you've taken?,computerscience,,https://www.reddit.com/r/computerscience/comments/bvhtog/what_are_some_of_the_best_moocs_youve_taken/,8,"Machine learning - Andrew NG
+Python for data science - Ibm ",2019-06-01 06:14:55
+132,a65uxw,False,General,17,Sad life,computerscience,,https://i.redd.it/i98tk20tj9421.jpg,163,Made me laugh.  ,2018-12-14 15:39:12
+133,djqnxn,False,General,0,"So we made a mural in our computer science class. It might be a bit of a joke though, but I thought it was pretty cool",computerscience,,https://i.redd.it/gu6n3qvl2ct31.jpg,1,,2019-10-18 17:20:18
+134,bwpnpj,False,General,10,Noobie question about software.,computerscience,"Okay, so it may sound a little confusing, but cant someone clarify how a program actually works in memory?
+
+Does it do this? : The program's binary is on the secondary storage that is on multiple HDD addresses (because it may be more than a byte) in said storage. Executing the program will place the program in memory, which you can actually edit with a memory editor. Do whatever the program does which constantly changes values in memory - like health for example in a game.
+
+But how does a static address work in this case? I was using cheat engine to help with my understanding of memory and the green addresses can be edited and actually stay there even when you reopen the program, it's always the same address. How is that possible? What if another program takes that address before you open the program? Or is the address actually on the storage? I'm really confused how this is possible. Thank you.",https://www.reddit.com/r/computerscience/comments/bwpnpj/noobie_question_about_software/,3,Look at any of the computer architecture courses (cs56 at my school) on github ,2019-06-04 14:57:07
+135,aams9u,False,General,15,Font that is scientifically designed to help you remember your study notes.,computerscience,,http://sansforgetica.rmit/,114,Doesn't exercise the actual parts of your brain that help you remember... ,2018-12-29 17:00:31
+136,bur0vx,False,General,4,P vs NP and NP hardness and NP completeness,computerscience,I am trying to grasp these concepts but I just can't wrap my head around them no matter what I read. Can you guys try to explain it in a ELI5 fashion?,https://www.reddit.com/r/computerscience/comments/bur0vx/p_vs_np_and_np_hardness_and_np_completeness/,11,"P does not necessarily mean that you can find a solution quickly, it just means that the amount of time to solve the problem only grows at most a constant exponent of your input.  For given input n the solution will take O(n\^k) time as opposed to O(k\^n)
+
+The P stands for Polynomial
+
+The N in NP means non deterministic, it does not mean Not P.
+
+Compare for a data set that goes from 2 to 100 items.  As n grows the NP solution time grows horrifically fast.
+
+P     2\^5, 10\^5, 100\^5 vs
+
+NP  2\^5, 2\^10, 2\^100
+
+All problems that are P are NP in that P is a subset of NP.  Think P = Polynomial time, NP = non deterministic Polynomial time.  One of the aspects of NP problems is you can verify a solution in polynomial time.  If a problem has a polynomial time solution then verifying the solution can be done worst case polynomial time.
+
+For example assume I have an algorithm that finds all the prime numbers from 1 .. n and it has a run time of O(n\^k).  If the number 534,343,534,343,534,343 is  in the range 1..n I can guarantee to test if it is prime within polynomial time.  Worst case I can just use the algorithm I used to find all the primes which I know is bound by O(n\^k).  This is why all P problems are a subset of NP problems.  The reverse may be true but we don't know that yet (this is the P = NP problem) ",2019-05-30 09:22:10
+137,9wisu5,False,General,9,Using the Waterfall Model - Expectation versus Reality,computerscience,,https://i.redd.it/578lip4c5zx11.png,301,Story of my day-to-day life. 😂 ,2018-11-12 22:16:21
+138,c6csbp,False,General,4,What to learn next?,computerscience,"Hello. I am currently a student in the UK. I just finished my 2-year course(A-Level, equivalent of AP I think) for Computer Science. Before going into Uni, I want to learn more about Computer Science this summer. I was thinking of topics like computational theory since they didn’t really teach that. More advanced algorithms or maybe even beginner artificial intelligence. I don’t know to be honest. Can you guys help me build a small curriculum by suggesting topics(if you can give a brief definition, please do so). I would really appreciate it. Thanks in advance.",https://www.reddit.com/r/computerscience/comments/c6csbp/what_to_learn_next/,2,"tea research, cola deployment 😉 ",2019-06-27 23:39:22
+139,cuazm6,False,General,0,Hackathon invitation - QLC Chain and Opacity sponsors to build encrypted commnunication & storage,computerscience,,https://www.reddit.com/r/QLCChain/comments/ctteu8/hackathon_invitation_qlc_chain_and_opacity/,3,,2019-08-23 08:28:05
+140,96h5n1,False,General,60,What's wrong with @hotmail?,computerscience,"Once someone joked about me using a Hotmail email but I didn't pay attention to it. Today, I someone posted on LinkedIn saying ""Before applying to that job, maybe ditch the hotmail email account."" 
+
+I made my Hotmail account 3 years ago since it was the only service where my full name wasn't already taken as the email id. 
+
+I'm not sure what's wrong with having a Hotmail email? Do people actually care which emailing service you use? Which services are considered as the good ones and which ones as bad? Why?",https://www.reddit.com/r/computerscience/comments/96h5n1/whats_wrong_with_hotmail/,30,hotmail is owned by microsoft. anything microsoft is bad. at this point i dont think people should care but if youre using yahoo or hotmail youre going to get discriminated against by some.  ,2018-08-11 15:02:41
+141,coh0ag,False,General,2,"So quick question. I’m thinking about majoring in computer science, is computer science a job with a lot of opportunities as in owning softwares, programs or even particular businesses? If so what kind of businesses would a computer scientist own?",computerscience,I want a job where however much money I work is depending on how hard I work and how skilled I am. Would that be computer science? Thanks so much!,https://www.reddit.com/r/computerscience/comments/coh0ag/so_quick_question_im_thinking_about_majoring_in/,0,"Computer science isn't a job just like physics isn't a job. You'll perhaps be looking at jobs like software development, IT, system administration, the list goes on. But your question shows you really haven't given this much thought or research on your own. ",2019-08-10 11:41:37
+142,cvhj1x,False,General,1,Am I really learning something?,computerscience,"Okay so, I'm the Computer Science field, more like Informatics Engineering, that is equivalent to the common CS field but with more math and physics....
+
+I've been learning some languages for a while now, but do I really know what I am doing? I feel like what do could easily be done by anyone. You just need some logical thinking and that's it. I know the basics of the programming language, I can create a library to use among different applications that requires similar functions, but I find myself googling things like ""How to do X in the language Y"" and following along the tutorial and I don't know if this is knowledge... 
+
+Like the worst is not knowing what I don't know... In my major teachers explain the basics and then we do projects and often I find myself applying to jobs to get used to the 'environment' of an interview, then often tell me to rank my knowledge from 1 to 5 and I don't know what to say 'cause I don't know what I don't know, therefore I can't say a number, without knowing that I cant calculate the percentage of knowledge I have, usually I just get a crazy idea, and start coding it, googling how to do some stuff, then I just adapt the code to my situation and thats it. Am I doing it the right way? how to you approach things? 
+
+&#x200B;
+
+Is this common?",https://www.reddit.com/r/computerscience/comments/cvhj1x/am_i_really_learning_something/,2,">usually I just get a crazy idea, and start coding it, googling how to do some stuff, then I just adapt the code to my situation and thats it
+
+Yeah, that's software engineering. That's the reason why so many companies lean into extensive testing.
+
+You're right on track. I would tell interviewers ""This is my first job so I don't have a good metrics scale to measure my knowledge, but I haven't found a problem yet, that I couldn't solve with a bit of research. ""Using your resources"" is a golden phrase to use in interviews. 
+
+Yes you are learning things. It took me a while to realize this, but every one knows a lot about a little. What I mean is, when you struggle with something, research it, find an answer and then apply it, you won't forget how you did it. Sure, you may forget language syntax or whatever, but you'll know how to solve the problem. When some one comes by and asks you for help on the same issue, you'll have advice to give right? That's you learning. The more times you struggle and Google stuff, the more you learn.
+
+Software Engineering, programming, coding, whatever you want to call it, it isn't comprehensive. No one knows all of it. Let me give you an example. I'm the new guy on my team. Not only am I fresh out of college and need to learn how software is developed in the real world, I have to learn my company's products, design process, etc. I feel dumb literally everyday. Then last Tuesday there is this big ""Out of memory"" issue. Everyone scrambled and tried to figure out what server could sacrifice some memory to this process that was failing (data processing). I stepped up and told them that the heap memory wasn't full, rather the old generation ratio wasn't large enough. That if we adjust the NewRatio Java opts variable, the process should complete just fine. Seasoned engineers looked at me like I was a genius when my solution worked. Am I a genius? Hell no. I just so happened to write a research paper on Java garbage collection in my last semester of school. Out of the hundreds of things I don't know everyday, I did know this one thing.
+
+When people say that getting into programming requires you to accept that you will spend the rest of your life learning, they aren't joking. If you aren't busy learning what's already out there, you'll be busy learning all the new technology that has yet to come out. ",2019-08-26 01:43:38
+143,cr0b20,False,General,1,Anyone got any good recommendations?,computerscience,,https://www.reddit.com/r/compsci/comments/cqzlv1/bookresources_for_applications_of_maths_in/,3,[https://mitpress.mit.edu/books/introduction-algorithms-third-edition](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) ,2019-08-16 02:54:29
+144,cv1bkf,False,General,0,Decision/classification/regression tree research papers from the last 30 years with implementations,computerscience,"&#x200B;
+
+https://preview.redd.it/02g0tto3nhi31.jpg?width=1204&format=pjpg&auto=webp&s=aa8e323c86eb7bd7a30f1ffe57df6fc740961527
+
+[https://github.com/benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+A    curated list of decision, classification and regression tree research   papers with implementations from the  following conferences.
+
+Machine learning:
+
+1. NeurIPS
+2. ICML
+3. ICLR
+
+Computer vision:
+
+1. CVPR
+2. ICCV
+3. ECCV
+
+Natural language processing:
+
+1. ACL
+2. NAACL
+3. EMNLP
+
+Data Mining:
+
+1. KDD
+2. ICDM
+3. CIKM
+4. WWW
+
+Artificial intelligence:
+
+1. AAAI
+2. IJCAI
+3. UAI
+4. AISTATS",https://www.reddit.com/r/computerscience/comments/cv1bkf/decisionclassificationregression_tree_research/,2,,2019-08-25 00:18:37
+145,a5rs78,False,General,7,This was a legitimate question on my Cryptography paper,computerscience,,https://i.redd.it/qi26necxc0421.jpg,124,What's an SKV? ,2018-12-13 08:44:33
+146,ayu1wm,False,General,4,Is microcode same as microprogrammed control?,computerscience,"I have to write a paper about microprogrammed control and I'm looking up for resources. I found out wikipedia explanation about microcode is basically same as microprogrammed control, is it?. I'm not CS student but I did learn a bit about computer architecture.",https://www.reddit.com/r/computerscience/comments/ayu1wm/is_microcode_same_as_microprogrammed_control/,38,"So they're not precisely the same thing, but they are intimately related. 
+
+Microprogrammed Control is the technique of program control which is implemented via microcode
+ ",2019-03-08 19:12:28
+147,bpnzwo,False,General,4,Jobs that combine CS and Economics?,computerscience,I’m a current CS and Econ major and I’m not quite sure what I want to do yet but are there any jobs that combine both fields?,https://www.reddit.com/r/computerscience/comments/bpnzwo/jobs_that_combine_cs_and_economics/,3,There's a lot going on in video game economics. ,2019-05-17 07:01:29
+148,ae9qnr,False,General,13,Should I learn binary for programming?,computerscience,I’m taking a C++ and a python class because I’m considering a degree in Computer Science. Should I learn binary?,https://www.reddit.com/r/computerscience/comments/ae9qnr/should_i_learn_binary_for_programming/,8,"You should learn assembly, binary, hexadecimal to decimal and vice versa.  ",2019-01-09 18:30:59
+149,cqs8rd,False,General,0,"I did some experiments with probability and statistics, and invented a type of memory cell that only works most of the time.",computerscience,,https://www.youtube.com/watch?v=muT3eCrzKwM,0,,2019-08-15 16:33:06
+150,bx1tiv,False,General,4,OR and XOR,computerscience,"I just asked myself why is it so, that ‚or‘ in the literal was is always exclusive like ‚I want water or juice‘ so just one but in theoretical compsci an OR is inclusive by default and you have to say XOR if you mean the literal ‚or‘.
+Wouldn’t it be more natural the other way around? 
+
+I just thought about this and it might be interesting if someone knows the background (maybe historical?).
+Maybe it’s a unnecessary question/discussion but well...",https://www.reddit.com/r/computerscience/comments/bx1tiv/or_and_xor/,0,"This is a misunderstanding, in English there is always the assumption that what's said is equal to true, therefor i want water or juice [is true] is meaningfully different to i want water and juice [is true]. ",2019-06-05 12:09:42
+151,9xhqyz,False,General,7,Lots of hot glue and cheap stickers. My graduation cap when I got my Associates in Computer Science. Hopeful I’ll get to do one for my Bachelors in 2 years.,computerscience,,https://i.redd.it/l3cdzgydoly11.jpg,89,"Congrats! I graduate with my AS in CS next semester.
+
+I guess you picked a University already?
+
+&#x200B; ",2018-11-16 02:01:30
+152,brfx3l,False,General,4,Is it worth to install Python on SSD?,computerscience,"Hello.
+
+I'm starting to learn a liitle about programing all by myself, and, because of coincidence (a live from CS50), will start with python. But when i was just about to install python3 (as recommended in the live), i got myself asking if it makes any difference to install it on a SSD or HD. Does it? 
+
+Btw, that's just because my computer only have a SSD for now. I'm kinda super protective with my pc (it's very new) and don't like to install too many things on it because i'm *terrible* on administering it all, and as my SSD is only 120gb, it would be better for me to put on a normal HD... that i don't have, yet. But if it make significant difference, i may put python3 here.",https://www.reddit.com/r/computerscience/comments/brfx3l/is_it_worth_to_install_python_on_ssd/,0,If you dont want to download anything just use online compilers or google colab. ,2019-05-21 21:07:11
+153,9k65v7,False,General,16,What all will I be able to do with a computer science degree?,computerscience,"On a side note, will it be a problem that I know nothing about programming going into my degree?",https://www.reddit.com/r/computerscience/comments/9k65v7/what_all_will_i_be_able_to_do_with_a_computer/,31,"I am retired now but got my BS, MS, and PhD in CS at different schools and my career included government, industry, and university professorship. I have even been a general agency-wide recruiter in my career. Computer Science (especially today) could better be named Computing Science. It is the study of computing and computing systems (including artificial intelligence). It includes the architecture and internals of computers, Operating Systems, networks, and the Internet because that gives one extra insight into computing solutions that can be applied elsewhere. A person with a CS degree might have a job writing code to process and summarize data, then analyzing the results to find patterns that lead to further development of software and/or systems that solve some problem or implement some application. A CS person might write code that gets inserted into non-computer hardware that need to be controlled or managed (such as GPS devices, printers, cars, farm equipment, telecom switches, robotic devices, graphics cards in a PC, etc) which we collectively call embedded systems. A CS person might work for a gaming company to develop games, but that may require additional art, graphics, and gaming background. A CS person might be hired to work primarily with databases or information systems (such as with insurance companies). A CS person might work on various parts of a website (front end and/or backend). Ones first job may involve quality assessment, preparing/analyzing data, or making cosmetic changes to a website, but one can look for promotions or movement within to other jobs. If CS is a minor or 2nd major then doors of opportunity can open up in non-tech areas too—at least it may result in getting an interview that the person without any CS doesn’t get. You might be perceived as someone who would be good on the team because you are smart and you have technical expertise. Having CS in the mix might make you more attractive going into medicine, nursing, healthcare, business, pharmaceutical, law, criminal justice,  or social work. A recruiter might simply want to grant an interview to hear your story— seeing strong CS credentials and wondering why an interest in a different industry. Always remember that coding or programming often is people oriented because you are creating something to help or entertain people. It is not computer-centric. A person often invents a computer solution to do something that he/she is bored doing the existing slow, tedious, or uninteresting way. So your CS knowledge will even help you be more effective when making a spreadsheet for some club or non-profit organization you may volunteer with. Bottom line— it can open doors to everything if you have the confidence to step through (or talk your way in). ",2018-09-30 12:57:53
+154,a2sn1q,False,General,6,"Face Detection, Signal Processing, and Machine Learning Tutorials",computerscience,"I'm doing a tutorial series on signal processing, face detection, and machine learning! Subscribe to my blog if you're interested in learning these topics with me!
+
+The tutorials will be targeted towards novices in these areas.
+
+[http://robinonsay.me/#mc-embedded-subscribe-form](http://robinonsay.me/#mc-embedded-subscribe-form)
+
+Also here's a link to my first tutorial:
+
+[http://robinonsay.me/project/2018/11/28/facial-detection.html](http://robinonsay.me/project/2018/11/28/facial-detection.html)",https://www.reddit.com/r/computerscience/comments/a2sn1q/face_detection_signal_processing_and_machine/,46,Whats the math background required? Dont u need to be an EE to do signal processing? ,2018-12-03 20:30:51
+155,9sw4l1,False,General,5,Top 30 Computer Science books mentioned ​on stackoverflow.com,computerscience,,https://booksicon.com/2018/10/31/top-30-computer-science-books/,131,AI on there twice ,2018-10-31 06:02:10
+156,b5qglq,False,General,3,When and why do we use subnet mask?,computerscience,I was told subnet and masking is like using a mask in spray painting. But I guess that makes sense but when would you use it and why?,https://www.reddit.com/r/computerscience/comments/b5qglq/when_and_why_do_we_use_subnet_mask/,9,"As the name implies, it creates sub-networks. All of your computers might be on one big physical network but you can logically divide them into smaller sub-networks that can then be firewalled off or whatever makes sense for operational or security reasons. Put important data in a special protected subnet away from your office machines that browse the internet for example. Makes sure computers in one subnet can't talk to ones in another subnet. It keeps things separated.
+
+A mask is what enables you to tell if a specific computer is on a specific subnet. Computers are identified on the network by IP address (ok technically a MAC address too but let's focus on the IP layer which is where subnetting comes in). Often you see an IP address written as something like 192.168.42.1. but that's the human friendly decimal representation: the ""real"" IP address is in binary, sequence of 1s and 0s. In IPv4 (still the dominant network protocol I think but IPv6 is growing) the IP address is 32 bits so that means 32 1s and 0s are used to give a computer a unique ""name"". Usually the 32 bits are split into 4 8-bit groups called ""octets"" that are when written in decimal. That's why you see 192.168.42.1, each number between dots represents 8 bits so all together is 32 bits.
+
+So how do you make a subnet? Well it makes sense to group IP addresses together based on some of the 1s and 0s being in common. Sort of like having a family name, you and family members like share the same family name but have a different person name (John Doe, Jane Doe are both in the Doe family but have different first names to tell them apart on paper).
+
+So your subnet is kind of like a family name, all the computers on that subnet share the same ""name"" which in the case of binary means they share the same sequence of 0s and 1s at the beginning of their name.
+
+The mask is therefore the thing that tells you which of the 32 bits is the ""family"" name (subnet, like Doe) and which are the first name (computer name on network, like John). The way it does this is that you write out all 32 bits of the IP but you put a 1 in every spot where that bit is part of the family subnet name and a 0 where that bit is part of the computer name. 32 is a lot to type out so let's use an example of an 8 bit IP address. If the first 5 bits are the family subnet name, then the last 3 bits must be the computer name. So the subnet mask is 5 1s representing the subnet + 3 0s representing the computer name = 11111000. If you wrote the binary into decimal, you'd get 248 so you might see the subnet mask written as 248... To make it a little more human readable but really it's the bits that are important.
+
+It's become a lot more common to use CIDR notation instead or writing masks. CIDR is just writing the number of bits that are used for the subnet name, so in our example above of an 8 bit IP address with a 5 bit subnet name, then you'd write the subnet mask in CIDR as just /5. Slash, with number of bits, and you're done.
+
+You could have /8, or /16 or /24 or /27 or whatever you want as a subnet mask. What's the difference between them? Well the bigger the subnet number, the more bits are used for the subnet, which means you can lots more unique subnet names. But there's less bits for unique computer names so you can have less computers on that network. So you need to pick a good subnet mask that allows you to have enough networks to do what you need while allowing enough bits for computer names to accommodate the number of computers that need to be on that subnet. It can be tough to estimate that especially in a rapidly growing company so that takes some thought and experience to get right.
+
+Hope that helps! ",2019-03-26 14:36:24
+157,bg87oo,False,General,6,How do computers exchange keys for encryption without them having been read?,computerscience,"Hey there. I am just curious as to how computers are securely able to trade encryption keys ( for Aes) without having the fear of the key being read by someone else? I was recently watching a Computerphile video on youtube where they were talking about TOR and its network and they mentioned that the keys that each node shares with each other happens through Diffie Helmen( idk how to spell it sry). I was wondering how Tor does this?
+Thank you",https://www.reddit.com/r/computerscience/comments/bg87oo/how_do_computers_exchange_keys_for_encryption/,0,"There is one key used for locking the message and a different one for unlocking.
+
+You only give away the locking key, and you keep the unlocking key very secret. ",2019-04-22 22:16:39
+158,bld0ws,False,General,3,"Was doing an a level paper for computing and this was the 9 marker, ffs",computerscience,,https://i.redd.it/qacdfcz5slw21.jpg,2,"Yeah, when I did A Levels I found they like to squeeze a lot of ethics onto the curriculum, both for Computing and Computer Science. This question is a really poor attempt at assessing that. ",2019-05-06 14:43:10
+159,c32kqf,False,General,1,[Update] Feeling Discouraged,computerscience,"This is an update to a post I made before on how I was feeling discouraged for Computer Science. 
+
+I decided to go to the tutoring center at my school to get help with my project. There were no computer science tutors available so the help desk set my up with an online tutor. And what do you know? The tutor was able to explain the project and walk through it with me. Tbh, the project seems way to advanced for my class. But I was able to get most of it done and now I understand what was being asked of me. I was on the right track but instead of having having what was supposed to be done in the class file. I was trying to do it in the demo file. I don't feel as discouraged anymore. But I definitely will start studying more after my 6 week math class is over next week. I really want this internship in Japan, so I really need to start working towards getting better at programming.
+
+Thanks everyone that was supportive!",https://www.reddit.com/r/computerscience/comments/c32kqf/update_feeling_discouraged/,3,Yeah me too. Im thinking about switching to informatics but ppl says thats just for web dev i fucking hate web development. I want to do analyst type jobs but then i always hear “youre not gonna get jobs with a lame semi-business degree” ,2019-06-20 22:31:08
+160,9r0upn,False,General,12,Does anyone know of a college program/masters program for a degree in computer sciences for someone who already has a unrelated BA?,computerscience,"I’ve heard about one on the east coast but can’t find any info online. 
+
+I have a BA from a university in Sociology. But I want to study computer sciences. Hoping to not have to go back and do another 4 year degree. 
+
+My understanding is that it’s like a masters program but for those with no comp sciences undergraduate degree. ",https://www.reddit.com/r/computerscience/comments/9r0upn/does_anyone_know_of_a_college_programmasters/,7,"I have seen multiple options. If you have some experience, I know someone who went straight into a CS masters program, online or in person. Nothing special, except probably being able to explain why you are applying and show you know how to do the work.
+
+If you don't have the experience, there are several online programs that allow you to get a second BS and not have to take all the extra classes. Oregon State is one. Old Dominion University is another. Theres one somewhere in the midwest I remember looking into but cannot recall at this time. ",2018-10-24 15:50:20
+161,b90iqj,False,General,2,Neera Jain from Purdue University's School of Mechanical Engineering discusses her experiments into how AI might be made more trustworthy by sensing our confidence in its advice in real-time and self-correcting instantly.,computerscience,,https://www.parsingscience.org/2019/04/02/neera-jain/,6,Couldn't this just result in the AI getting really good at fooling people into trusting it without actually being trustworthy? ,2019-04-03 16:55:37
+162,b2fztt,False,General,6,"Why computer systems are coded in binary and not in octal ,decimal or hexadecimal?",computerscience,"Pardon me if this was a stupid question but , I'm a mechanical engineer aspirant so I've little bit less information regarding this.
+ I was very curious about this. As octal ,decimal or any other number system contains lesser digit to represent the same number in binary ,so it would require less memory to store it , I also considered that the complexity associated with it will also be higher but i think that should not be the problem.
+
+If other number systems are already in use for computers then where they are being used?",https://www.reddit.com/r/computerscience/comments/b2fztt/why_computer_systems_are_coded_in_binary_and_not/,1,"I think it is because it is easy to represent binary with electricity : 1, there’s electricity in the circuit, 0, there is not.  ",2019-03-18 08:11:35
+163,c72arq,False,General,1,Important question,computerscience,"Hi , programming languages inventors are computer engineers or computer scientists?",https://www.reddit.com/r/computerscience/comments/c72arq/important_question/,0,"Computer Scientists do things in the field of programming language design.
+
+Computer Engineering is more going to be design and work on computer architecture, which is the hardware and the lowest level of programming for that.
+
+Either (or software engineering) could be good for embedded software development or operating/distributed systems work. ",2019-06-29 17:47:31
+164,abp0vb,False,General,6,To what extent is CS still and evolving field of study?,computerscience,"I'm a senior in high school trying to decide what to major in. What I'm asking is basically, to what extent is the foundational theory of computer science still developing/evolving? Is it still being shaped as a field? And what questions do computer scientists today primarily focus on: questions of computing theory, or questions of computer applications to other faucets of the world? 
+
+I want to know because it would be cool to enter a still evolving field, like psychology or philosophy or quantum mechanics, so that I have the chance to make contributions. I'd rather not major in cs if it's basically like chemistry, in which all the work being done is in the application of knowledge instead of the search of new knowledge. ",https://www.reddit.com/r/computerscience/comments/abp0vb/to_what_extent_is_cs_still_and_evolving_field_of/,3,Search of new knowledge requires application of knowledge does it not? ,2019-01-02 02:46:09
+165,aad767,False,General,5,"After 3 years of programming on a daily basis in React, I've finally come to a point where it is enjoyable to learn new things about React because I understand the underlying methodology of the framework to which I am using.",computerscience,"I've written in a lot of different languages, but settled into React as my main framework for web and mobile applications. I've put in at least 500 hours of coding over the last year in React mainly and have finally come to a point of feeling comfortable with my understanding of how it works. This has created an increase in my enjoyment of learning new mechanics that help me do things more efficiently like using local storage instead of making an api call to a database every time I need to make a change. 
+
+This has led to more efficient code and has revolutionized how I go about creating applications. I am much better at assessing my direction I will use to make my code more fast and more flexible. I look forward to finding an industry job after I graduate with my BS. ",https://www.reddit.com/r/computerscience/comments/aad767/after_3_years_of_programming_on_a_daily_basis_in/,6,"Good stuff man, im glad it's going well for ya. Hoping to say the same in the coming years. Here's to another year of learning and edification: Cheers!   ",2018-12-28 19:04:29
+166,ai8qts,False,General,5,Anyone remember the name of that red button that used to be on old laptops. It controlled the cursor because touchpads were no so flexible back then.,computerscience,,https://www.reddit.com/r/computerscience/comments/ai8qts/anyone_remember_the_name_of_that_red_button_that/,3,Yeah that's a computer nipple ,2019-01-21 10:04:26
+167,8uoml1,False,General,17,How is the job market for a bachelors in computer science?,computerscience,"In urban areas especially, specifically NYC?",https://www.reddit.com/r/computerscience/comments/8uoml1/how_is_the_job_market_for_a_bachelors_in_computer/,19,Doesn’t take a degree to know how to use google :) ,2018-06-28 23:57:27
+168,br0j4e,False,General,0,"Machine Learning, Big Data, and the Future of Prediction with David Weinberger",computerscience,,https://www.hiddenforces.io/podcast/future-of-prediction-david-weinberger?utm_source=Reddit&utm_medium=Social&utm_campaign=ep87-david-weinberger&utm_term=computerscience,2,,2019-05-20 20:02:32
+169,9mvnyr,False,General,5,My thoughts on those who are questioning themselves when they are feeling low in learning programming or computer science.,computerscience,"If you made lots of mistakes, it's okay. Those who made more mistakes tend to learn more. Plus, there's no people who never made mistake. Remember this.
+
+If you stuck in your code, it's okay. Take a break, make a drink, have some meal or just sleep on it (there are chance you'll be getting the solution in your dream). Remember that your need sugar and short break after hours of thinking and coding.
+
+If you asked way too many stupid questions, it's okay. Asking stupid question doesn't mean that you're stupid. It's just you don't ""see"" it yet. Just like when you use microscope to look at a sample, things are blur at first and you keep on adjusting until you can see the sample. It's just that. Ask, ask until you ""see"" the answer.
+
+If you asked a question and within a few second you suddenly ""see"" the answer. Congratulations! We call this Eureka moments. If you posted it somewhere, just answer your own question. Someone out there probably having the same trouble to ""see"" like you. (been there, done that, in one of C subreddit) And oh, programmers talks to rubber duck and there's nothing weird about it. Really.
+
+If you feel that you can't do this because you think that you are falling behind, you are not smart enough, you are a slow learner, etc.. Ask yourself and THINK, WHY you do this? WHY do you learn this on the first place? Do you LOVE this? WHY do you love this? ASK, THINK, ANSWER and HOLD ON to that answer. 
+
+If you think that you need to stop this because somebody told you that you are not cut for this, ALWAYS ask that person WHY and HOW do you improve yourself. If the person know enough, you'll be getting a tips on how to develop yourself even further. If the person doesn't answer your question, he/she probably doesn't know enough. Remember this when you encounter people who's trying to bring you down, a great person who is also a great programmer is definitely an excellent problem solver, hence there's always good input coming from him/her.
+
+I hope while you're walking this journey, you'll find your love in doing this. Coding, problem solving, whatever. This is going to be a part of your life, let this be something you love doing most.
+
+Hats off to all great people who are also the great programmers and definitely the excellent problem solver. You guys helps us a lot in this journey. We hope that you guys keep spreading knowledge to the community.
+
+Personal notes : When I was about to start my journey, I was very lost and resolved to make a Reddit account. On my first post, I received bunch of suggestions. I took notes on all of the suggestions and I decided to go for OSSU for a start as per recommended by u/cpt_krc (thanks so much!). I can say that CS50 is the best thing ever happen to me in my life. I'm now taking my own sweet time learning and discovering. There's a lot more to learn and in awesome Redditor I trust!",https://www.reddit.com/r/computerscience/comments/9mvnyr/my_thoughts_on_those_who_are_questioning/,25,"It is an interesting trend to see that many posts about people feeling bad or incapable of doing something in CS. Some surveys should be done on this topic, maybe comparing it to other fields of research. ",2018-10-10 02:42:17
+170,b8owx8,False,General,1,University programming exercises in C/C++ without the use of STL (in C++) [soft question],computerscience,"I'm an undergraduate student in Athens, Greece and at my school there is this strange thing where the most of the programming exercises are allowed to be written in both C or C++ but in case of C++ no STL usage is permitted. Is this also the case in other schools around the world, or are we the only ones that stubborn?",https://www.reddit.com/r/computerscience/comments/b8owx8/university_programming_exercises_in_cc_without/,2,"Pretty common. A lot of school is learning why you would use certain STLs, how to use them, and how they work. It also gets your brain thinking about design. 
+
+So, when you start your bigger projects, you can focus on what you need to focus, and you know that you have a tool to make your life and job easier. 
+
+ ",2019-04-02 21:05:12
+171,ar8sbp,False,General,3,Examples of different Big-O time complexity,computerscience,What are some examples of algorithms with different Big-O time complexities e.g. O(n!) or O(k^n),https://www.reddit.com/r/computerscience/comments/ar8sbp/examples_of_different_bigo_time_complexity/,3,"sorting algorithms are pretty much the go-to. Just as an example, bubblesort has the complexity O(n^2) whereas quicksort is just O(n * log(n)) in the best case. ",2019-02-16 13:30:16
+172,8s4vg5,False,General,19,How many languages do you know?,computerscience,"Also, is it easy to pick up different coding languages once you're good at a specific one?",https://www.reddit.com/r/computerscience/comments/8s4vg5/how_many_languages_do_you_know/,9,[deleted] ,2018-06-19 01:21:01
+173,aa66r0,False,General,3,Best Paper Awards in Computer Science (since 1996),computerscience,,https://jeffhuang.com/best_paper_awards.html,7,Thanks. Shared it with my girlfriend.  ,2018-12-28 02:53:32
+174,anxv0z,False,General,3,Parallel Processing / Intel x86 intrinsics,computerscience,"Hello everyone. I am a computer science student and this semester i have a caurse on parallel processing. I am in  that concerns an implementation of a programm using data level parallelism with Intel x86 intrinsics AVX2 instruction set. I will implement the same program with traditional serial code as well. After i complie and run each executable i collect time statistics as well as statistics like cache references,  cache-misses, branches,  cycles , instructions, CPI etc (with perf linux tool). Using these data i have to make some assumptions and draw some graphs explaining the speedup, the efficiency and execution time comparing serial VS parallel execution.
+
+My question  is where can i find more scientific information on such subjects as performance analysis or something relevant in order to help me with my project? 
+
+Thanks ",https://www.reddit.com/r/computerscience/comments/anxv0z/parallel_processing_intel_x86_intrinsics/,2,"Try [SO](https://stackoverflow.com/questions/tagged/simd) and r/learnprogramming. For the latter, explain that this is a homework question as you have here. There are tons of folks with compiler and computer architecture expertise who will be happy to help you out. ",2019-02-07 00:43:04
+175,ara5xs,False,General,2,Is it possible to write navi app which works underground?,computerscience,"Is it posssible to wirte a navigation app for cell phones which works underground (e.g. underground parking lot / shopping mall)  where GPS signal is innacurate or not provided at all? It should have  accuracy of 1-2m.
+
+I've found some possible solutions:
+
+1. Camera tracking - Customer scans QR code when entering the building and then is constantly  tracked by cameras. That solution is expensive and might have some privacy issues but it's easy to implement.
+2. Camera tracking v2 - Same as above but customer is tracked only in shopping mall aisles not in single stores. The system must recongise the person when leaving the store.
+3. WiFi pinging - Mounting numerous WiFi routers and getting position of the customer by calculating difference of ping. I think it's called multilateration. I don't know if it's technically possible with ordinary cell phones.
+
+Which of them is the best and what are the other ones?",https://www.reddit.com/r/computerscience/comments/ara5xs/is_it_possible_to_write_navi_app_which_works/,3,These all sound like a crazy slippery slope of invasion of privacy ,2019-02-16 16:14:36
+176,b36r7e,False,General,2,"Got to listen to Google Engineer, Award Winning Robotics/Coding Expert and Assistant Professor James McLurkin!",computerscience,,https://i.redd.it/tujbtofmv6n21.jpg,0,Maybe this is the wrong sub  ,2019-03-20 02:58:35
+177,9xkomh,False,General,5,Computer Science audio book recommendations for beginners!,computerscience,"Hi, 
+
+I'm a second year uni physics student and as part of our course we've been learning how to use python to do data analysis and solve problems for us and I've been really enjoying it and not having had the option to do computer science at school I feel like I'm missing out on a lot of the theory and background to what I'm doing and why I'm doing it, and would like recommendations for audio books because I've got a long walk to uni that cover the general topics of computer science. Something like 'A brief history of time' by steven hawking but for computer science.
+
+Hope this makes sense, thanks for any suggestions!",https://www.reddit.com/r/computerscience/comments/9xkomh/computer_science_audio_book_recommendations_for/,3,"I don't know if there's an audiobook for Code by Charles Pettzold, but it's good enough to recommend anyway. ",2018-11-16 09:25:34
+178,b3irsz,False,General,0,Projects to do after first year university completion,computerscience,"I'm about to finish up on my first year doing Computer Science and was wondering if you guys had any decent project recommendations I could do for my (4 month summer)
+
+&#x200B;
+
+If you guys were curious, I took two computer science courses first year and both were in python 3.7 (first class was intro and learning circuit boards, second one was much more difficult imo - involved recursion, data structures that involved thinking, and some pretty difficult test questions)
+
+&#x200B;
+
+just taking in my Comp Class i finished my first one with a 77 and my second one with a 69 - i did struggle abit in my second semester due to scheduling and the difficulty of the courses
+
+&#x200B;
+
+Things im intersted in :
+
+Web development
+
+mobile development (maybe swift but i need to learn C right?)
+
+etc
+
+  
+",https://www.reddit.com/r/computerscience/comments/b3irsz/projects_to_do_after_first_year_university/,2,,2019-03-20 22:56:13
+179,alcyw0,False,General,0,"Teachers, share your Jupyter notebooks, share your lessons",computerscience,,https://www.gited.io,6,,2019-01-30 14:03:46
+180,adqtr7,False,General,3,"Are there any careers in the tech world for those who are mediocre at coding, yet have wonderful ideas?",computerscience,"Hi! My boyfriend 20(M) is currently a junior computer science major. He switched his major sophomore year, so he is a tad behind in terms of understanding coding language in comparison to the other kids in his classes. I bought him a few coding books to help, however, he isn’t sure if he will ever be able to catch up. 
+
+He has a brilliant creative mind and loves the realm of technology and computers. Are there any jobs that focus mainly on the beginning stages of an app or software that serves to come up with the idea and what it will look like. I have heard of front end developers, but does that still require a grandiose grasp on coding? 
+
+I just want him to have some career options. If he has to be a wizard coder, than I will push him to be a tad more disciplined. 
+
+Thanks!
+",https://www.reddit.com/r/computerscience/comments/adqtr7/are_there_any_careers_in_the_tech_world_for_those/,1,"Its true, I didnt feel to strong in my skills when I first started but if you can grasp the basics then with experience the more complicated tasks will work there way out. Java is really not that hard to learn and use, almost everything has been done for you. Tell him to focus on how java works and try no to get to bogged down with the computer science part of it. How to manually reorder a list or build your own data structures can be a daunting task to someone who knows very little. The best thing here is you dont have to because someone else has already done it for you, just learn what they are and how they work and java/C# will do the rest for you. ",2019-01-08 05:01:25
+181,94mmoi,False,General,8,What are the physical components of software?,computerscience,"Up until recently, I believed that ""software"" was nothing more than a level of abstraction describing the output of a computer's hardware, and that every tiny little detail - every speck of light, every bit of movement - all of these things are individual electrical impulses connected via their own dedicated circuits. In other words, stored ""bits of information"" on computer registers are best thought of as electric energy. Does that makes any sense?
+
+Then I read a sentence from a related [Wikibooks article](https://en.wikibooks.org/wiki/A-level_Computing/CIE/Computer_systems,_communications_and_software/Components_of_a_computer_system_and_modes_of_use/Types_of_software) that threw me for a loop:
+
+>*""Software components of a computer system have no physical presence, they are stored in digital form within computer memory.""*
+
+What does that mean? Was I wrong in my initial assumption? Do electric charges themselves retain large chunks of information?
+
+See, to me this is important because until the very recent past, I believed that being a programmer was more or less the same thing as being a computer scientist, insofar as what you need to know before pursuing a career in software development. For example, my understanding was that if you want to become involved in the development of video games, you *need* to know every last minutae of how computers work - how electric current is transferred via millions of transistors and logic gates, how these are represented on-screen, etc. You need to know the architecture of your game's graphics engine, you need to be 100% fluent in programming languages (i.e. never needing to look anything up - you know off by heart what to type, and *where* to type it), and so on and so forth. It shocked me to learn that programmers oftentimes don't even fully grasp how computers work at the absolute lowest levels of abstraction. Shouldn't they?
+
+Am I misunderstanding something here?",https://www.reddit.com/r/computerscience/comments/94mmoi/what_are_the_physical_components_of_software/,4,"I'm having a bit of trouble understanding your main point of confusion. I don't know what ""every speck of light, every bit of movement"" means. Are you talking about simulations of light and movement, as in video games?
+
+>Do electric charges themselves retain large chunks of information?
+
+In a digital computer, each electrical charge retains exactly 1 bit of information. More precisely, each location where a charge may or may not be, retains 1 bit. It takes many bits together to retain a ""large chunk of information.""
+
+When the same computer runs two different programs (at different times), the hardware is ""exactly the same"". The difference is which wires, or registers, are ""on"" or ""off"" (contain a charge or not). Software describes this aspect of reality -- the state of the bits. Hardware describes how the bits are wired together, and doesn't typically change during program execution. ",2018-08-04 21:32:16
+182,aunymo,False,General,0,Proof that merging two Binary Heaps is theta(n),computerscience,"Hi all,
+I've encountred the claim above during a lecture but couldn't find a formal proof of it. The O(n) part is obvious. Any ideas about the omega?
+
+TIA",https://www.reddit.com/r/computerscience/comments/aunymo/proof_that_merging_two_binary_heaps_is_thetan/,2,,2019-02-25 17:45:20
+183,alinol,False,General,1,What jobs do you get after graduating with a B.S in computer science in California?,computerscience,Are jobs hard to find and how much is the pay once you start working ? ,https://www.reddit.com/r/computerscience/comments/alinol/what_jobs_do_you_get_after_graduating_with_a_bs/,5,"There are dozens of different jobs from consulting, to software engineer, to security, to program manager, etc. Salary can range from 50k to 150k - totally depends on the company, job, and location. ",2019-01-30 22:55:38
+184,az66dq,False,General,0,Obtaining π by just using halves (1/2),computerscience,,https://youtu.be/yc4eEhkur-0,1,,2019-03-09 18:03:51
+185,81x3lw,False,General,7,Visual representation of different sorting algorithms,computerscience,,https://youtu.be/kPRA0W1kECg,28,so if i know all 15 of these algorithms and what their pros/cons then is that enough? How many and what types should a proficient developer be good with? ,2018-03-04 11:06:11
+186,anclg7,False,General,1,Mobile Data Computers in San Diego,computerscience,,https://www.radiomobile.com/mobile-data-computers/,1,These stock photos are really doing something for me 🙄 ,2019-02-05 09:46:55
+187,8eeme9,False,General,12,Why can’t computers use analog signals (as opposed to I/O) to make values that are more than what’s capable with Binary?,computerscience,"Okay, I’m not a computer science major or professional, so forgive me if this is an obvious question, but why can’t we use analog type technologies in computer chips that would make them able to hold more values than I/O
+
+What if computers could use different signals, and for simplicities sake we’ll use  voltage, to make even more values per digit. This would require something akin to a voltmeter to distinguish values so it’s probably size-wise not practical but it’s an easy example. It can be anything.
+
+For example, the current Binary system converts ON and OFF signals to numeric values:
+
+OFF = 0
+ON (~5v) = 1
+
+An hybrid Analog voltage based system:
+
+OFF = 0
+1v = 1
+2v = 2
+3v = 3
+4v = 4
+5v = 5
+6v = 6
+7v = 7
+8v = 8
+9v = 9
+
+Again I know adding a voltmeter to a computer chip would make it large and cumbersome but this is just theoretical now. There are probably better ways, like wavelength, etc.
+
+Analog signals can hold a range of signals. For example my headphones (analog) contain only two wires, thus two signals. But with only those two signals I can hear the entire range of notes. This wouldn’t be possible with only I/O signals.
+
+And while sensors like that are probably mostly a matter of size, remember that some of the old computers like the Mark 1 were enormous.
+
+My voltage may be a dumb example, but I just did it to keep things simple. Let’s take a chip that uses fibreoptics for example. The human eye is able to distinguish almost infinite different colors based on the lights wavelength:
+
+https://imgur.com/gallery/ICe7MQK
+
+Imagine a computer that used fiberoptics instead of I/O electricity. Light is significantly faster and can hold almost infinite values. Not just 1 and 0. Depending on the length of the light wave could be set to represent different values.
+
+So back to my example of a 1-10 voltage based computer, we could make logic gates that could add these voltages together making an analog adder gate. So
+
+1st digit: 1-10
+2nd digit 11-100
+
+5v+7v=5 in digit 1, 7in digit 2=75
+
+In binary you need almost 7 bits to get up to the number 100. With an analog system you need just 2.
+
+And Currently a digital 4 “bit” system can only hold numbers between 1-10, whereas a system like this could hold up to 10,000!
+
+[2][2][2][2]
+[8][4][2][1] (4 bits holds 1-10)
+With an added hat But with 10 values it becomes:
+[10][10][10][10]
+[1000-10000][100-1000][10-100][1-10] (4bits holds 1-10000)
+
+A 64 bit analog hybrid system could hold 10000000000000000000000000000000000000000000000000000000000000000 values, which is a disgusting number who’s computing power is billions of times faster than anyone could ever need.
+
+the 16 bit processor in a Super Nintendo from 1991 could run about as fast as the computers we use today. A Nintendo 64 could be run servers.
+
+Anyway, can a computer science expert comment on whether this is feasible or not or if there’s anything I’m missing or neglecting? 
+
+This may be impossible or impractical but if it IS possible, it would make computers more powerful by several orders of magnitude.",https://www.reddit.com/r/computerscience/comments/8eeme9/why_cant_computers_use_analog_signals_as_opposed/,2,"I'm certainly no expert, but just my thoughts:
+
+Instead of utilizing the 9v supply into a decimal system, I think minimizing the voltage supply on a binary system would be more ideal. Not sure of specifics, but I think some very precise binary systems can operate near 1v for HIGH and essentially 0v for LOW, but as the separation from different logic levels gets smaller, noise becomes a larger factor. ",2018-04-23 20:22:39
+188,91s6j7,False,General,2,5 ways the world’s fastest supercomputer could change the world,computerscience,,https://www.nbcnews.com/mach/science/5-ways-world-s-fastest-supercomputer-could-change-world-ncna883766,12,"fukin clickbait, get this out of here ",2018-07-25 14:12:57
+189,9etrok,False,General,4,How is graph theory used in computer science?,computerscience,"I've had to learn a lot about graph theory for my computer science degree. I don't doubt that I will need it, but I just haven't been taught how it can apply. So how is it used in the field?",https://www.reddit.com/r/computerscience/comments/9etrok/how_is_graph_theory_used_in_computer_science/,1,Have you taken Data Structures yet? You’ll use it in Data Structures. It’s easier to code than to understand. ,2018-09-11 03:01:37
+190,8jehkg,False,General,11,How is a barchelor in statistics useful in computer science?,computerscience,I am an undergraduate student in the field of statistics but I plan on getting a MSc in Computer Science. Is there any specialization or area that uses statistics (or something in correlation to that) in this new field so my barchelor won't go to waste?,https://www.reddit.com/r/computerscience/comments/8jehkg/how_is_a_barchelor_in_statistics_useful_in/,0,Google “Data Science”! it’s a bit of a “hot”thing right now.  ,2018-05-14 18:13:03
+191,91kvh7,False,General,6,Question regarding terminology surrounding Boolean values?,computerscience,"It's been long enough since I learned about any of this in school that I figured I'd ask around and see if anyone had any definitive answers before just winging it. And Google was no help.
+
+I'm a writer, and in the current scene I'm working on, a character receives a message containing a single digit: 1. It's meant to be a signal of sorts, kind of a red light/green light scenario so she knows the person who sent it is ready for something.
+
+I'm trying to figure out how to best word this. Taking the on/off or yes/no logic into consideration, I started out by saying the message contained ""a single positive binary value."" I consulted with my sister—who's a software engineering major—and she suggested that ""positive"" might not be the best choice, but I definitely want to convey the idea that this message means ""yes"" or ""go"" or something. We came up with ""single affirmative binary value,"" but thought it sounded a little pretentious. 
+
+Would ""positive"" work in this context? I figure the average reader will probably understand what I mean if I used that, but I also want to stay as technically correct as possible. Is there another adjective I could use for this that would work better but still encapsulate the Boolean logic? ",https://www.reddit.com/r/computerscience/comments/91kvh7/question_regarding_terminology_surrounding/,1,"Who is the intended audience? If it's implied that 1 is a go-ahead and zero is not, then the word ""boolean"" ought to suffice. If it's not safe to assume that the audience will implicitly follow this system, you should give an explanation, and just give it a generic and accessible term like signal, flag, or something similar. If it's an important plot device, readers will be able to recall it's meaning, and attaching an extra adjective may be burdensome to the reader since now they feel the need to categorize which signal is in use depending on the context of whether it's a positive <blah>. ",2018-07-24 20:06:10
+192,91cw4t,False,General,4,How much do computer science majors make after college?,computerscience,"I have a passion for programming and was wondering, for those of you that have a computer science degree, we're you able to land a job right after college and make a comfortable living? And if you don't mind me asking, how much are you making per year? ",https://www.reddit.com/r/computerscience/comments/91cw4t/how_much_do_computer_science_majors_make_after/,1,I think 50-65k is the normal range. Been researching this for a while. ,2018-07-24 01:10:03
+193,90lgr7,False,General,3,What does a GPU actually do?,computerscience,"As the title says, I have a rough idea of what a GPU does of course, it is like a CPU designed solely for the purpouse of processing video signals. But how does it actually create the frames to display? How is the desktop we see actually drawn from scratch? I would like an explanation that gives an idea of how it works.",https://www.reddit.com/r/computerscience/comments/90lgr7/what_does_a_gpu_actually_do/,3,"Basically a GPU is a CPU heavily optimized for linear algebra, hence why they can be used for image processing and password cracking ",2018-07-21 00:59:29
+194,a5l054,False,General,1,OS,computerscience,"How the computer recognizes and runs the
+ operating system?
+",https://www.reddit.com/r/computerscience/comments/a5l054/os/,0,"Built into your hardware is a firmware program called a BIOS that automatically runs when you power on your computer.  The computer knows where it is because it’s in the hardware.
+
+The BIOS finds the physical disk on which the OS is located and then looks in a well-known location on the disk for the system code.  (The OS knows where the BIOS will look, so it makes sure to put itself there when the OS is installed.)  The BIOS then loads the instructions there into memory and sets the Program Counter to the beginning of the instructions - now the OS is running.
+
+I’ve skipped over some details (such as how the BIOS actually runs a small program called a bootloader and the bootloader loads and runs the OS), but this is general gist of it... ",2018-12-12 18:47:03
+195,8qu5eb,False,General,6,Replicating a game's code,computerscience,"Hello, may I ask if there's any way to replicate a game from an arcade machine to the computer just by watching the gameplay footage? Its a childhood arcade game called Animal Kaiser. I understand there are issues with plagiarism, I don't intend to make a profit out of it, I just want to replicate onto my computer to play it myself and by doing so preserve some memories of my childhood. Are there any topics that I should read up on to help me with this? I'm totally new to computing and intend to start from scratch ",https://www.reddit.com/r/computerscience/comments/8qu5eb/replicating_a_games_code/,0,"Unless you can find the original source somewhere, I don't think you'll be able to replicate it exactly. Your best bet is to play re game to understand the mechanics and recreate that functionality. ",2018-06-13 17:12:06
+196,9bgyhb,False,General,3,How did yall find what your true passion was withing computer sciecne? (sub-field),computerscience,"As I approach my final year of college, I noticed how my fellow CS peers and game design peers (I'm in the game design track of CS in my school) all had some sort of interest within the field. For example one of my friends got into sound design and engineering, another into AI for games, etc... I realized that despite having taken a broad range of courses (sound, AI, graphics, procedural generation, etc...) I never really found something I truly liked and wanted to expand on even further. I've just kind of been trotting around the program with general knowledge about some things. I'm curious as to how some of you have found your true passion within CS, maybe that will inspire me some more to find something I really like and not just programming and games in general. ",https://www.reddit.com/r/computerscience/comments/9bgyhb/how_did_yall_find_what_your_true_passion_was/,1,"I like networks (""The network is the computer"", ah Sun, how I miss you..).
+I like operating systems (yay linux!).
+I like graphics (games, oooh shinny, I dabbled with some OpenGL for a bit)
+I'm doing micro-controllers recently (FreeRTOS + lwip + all sorts of I/O).
+
+Is that my passion? Hell no, when I have free time I'm playing guitar or sax or doing a billion other things! So.. don't stress too much, if there's something you like, go for it. Else, just pick up something you want to learn more about and mess around with that. ",2018-08-30 05:39:48
+197,6vulkn,False,General,9,How likely am I to find part-time jobs as a software engineer?,computerscience,"Hi all. I have a disability that affects my body, but not my cognition. I currently am only able to work about 20 hours per week, and I get to make my own schedule. I'm starting an online degree in computer science, and I'm wondering how likely it would be to find a permanent job as a software engineer with only part time hours and a flexible schedule. Do these jobs even exist? I'd also prefer to work remotely. 
+
+Any thoughts or suggestions would be greatly appreciated! Thank you. ",https://www.reddit.com/r/computerscience/comments/6vulkn/how_likely_am_i_to_find_parttime_jobs_as_a/,13,Any job is part time if you work hard enough. ,2017-08-24 23:04:13
+198,a0c4to,False,General,1,"Hey r/computerscience i was wondering, What can a supercomputer do?",computerscience,"I know, broad question but I was wondering what all those CPUs put together can achieve for a regular person. I didn't really know who to ask so I came to you guys.",https://www.reddit.com/r/computerscience/comments/a0c4to/hey_rcomputerscience_i_was_wondering_what_can_a/,1,"Supercomputers are just computers, but with faster speeds, more storage, and more memory. Researchers utilize supercomputers to analyze terabytes of data, to train AI and ML models, and to encrypt/decrypt messages, to name a few.
+
+The average person isn't ever going to need that much computing power, but for those individuals, groups, and organizations that need that much CPU time, it's there. ",2018-11-25 20:38:45
+199,8b00he,False,General,4,Tools for learning/studying/retaining information in CS?,computerscience,I ended up having to drop one of my CS courses due to being absent for too long and missing too many assignments after a death in my family. I’m going to be retaking this course during the summer and I don’t want to lose my prior knowledge and maybe even get ahead. I’m currently only learning Java but tools for anything would be nice since eventually I want to get a head start on my other classes. Thank you!,https://www.reddit.com/r/computerscience/comments/8b00he/tools_for_learningstudyingretaining_information/,4,"There're a lot of techniques that could help you but just one of them is the key: learning by making mistakes. When you understand the mistakes, in that time, you understand it and just THEN you'll remember it (for long time). 
+
+This is my personal opinion and this is what is working for me. If you don't find it useful you could try another technique but remember that  the key is the understanding.
+
+If you understand it you'll remember it. If you understand you'll make connections in your mind with other topics, strengthening synapses then your memory and your understanding. That's it. ",2018-04-09 17:00:42
+200,hkyx0m,False,Discussion,178,Group reading CLRS (Introduction to Algorithms),computerscience,"I'm creating a group for reading, discussing and analyzing ""Introduction to algorithms"" by CLRS.
+
+I'm an undergraduate in Computer Engineering (Europe), very interested in the topic. I already took the course in my University, but to my disappointment we barely discussed about 8 chapters.
+
+We may also discuss about interesting papers in the group :)
+
+I had to stop sending DMs because Reddit banned me (I reached the daily limit). You can find the link to Discord in the comments below.",https://www.reddit.com/r/computerscience/comments/hkyx0m/group_reading_clrs_introduction_to_algorithms/,71,can you link me the discord? can’t find it ,2020-07-04 06:42:12

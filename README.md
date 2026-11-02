@@ -42,9 +42,6 @@
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
 
-
-## What This Does
-
 **Community:**
 
 I chose r/computerscience, a subreddit where people discuss computer science concepts, programming, education, and careers in technology.
@@ -99,50 +96,48 @@ If the main purpose of a post is to understand or solve a specific technical pro
 
 ---
 
-## The Dataset
 
-<!-- Where you collected from, how you labelled, your counts, and three hard
-     cases. -->
+## The Dataset
 
 **Where the posts came from:**
 
-**How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
-Say so plainly — the disclosure is required, not penalised. -->
+I used a publicly available Reddit dataset from Kaggle containing posts from r/computerscience. I selected 200 posts and combined each post's title and full body into the `text` column.
+
+**How I labelled them:**
+
+I used a Python script to suggest labels based on keywords in the titles and bodies of the posts. The two labels were `technical_questions` and `education_career`. The suggested labels require manual review, especially for posts that discuss both technical topics and education or careers.
 
 **Counts per label:**
 
 | Label | Count | Share |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| **Total** |  | 100% |
+|---|---:|---:|
+| `technical_questions` | 59	 | 47.6% |
+| `education_career` | 65 | 52.4% |
+| **Total** | **124** | **100%** |
 
 **Three hard cases**
 
-<!-- Any post that made you pause: what it was, which two labels it could have
-     been, and what you chose. These are worth more than the easy 190. -->
-
 **1.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+> *The post:* "How can I improve all my computer science skills as a whole?"
+
+> *Could have been:* `technical_questions` or `education_career`
+
+> *I chose, because:* `education_career`. Although the post discusses technical skills, the author mainly asks for advice about improving their computer science knowledge rather than solving a specific technical problem.
 
 **2.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+> *The post:* "What operating system do most computer science students and professionals use?"
+
+> *Could have been:* `technical_questions` or `education_career`
+
+> *I chose, because:* `education_career`. Although operating systems are a technical topic, the author is asking about the tools used by students and professionals rather than how operating systems work.
 
 **3.**
-> *The post:*
->
-> *Could have been:*
->
-> *I chose, because:*
+> *The post:* "Is it a good practice to hash the contents of two files for comparing them or is it better to compare the bytes?"
+
+> *Could have been:* `technical_questions` or `education_career`
+
+> *I chose, because:* `technical_questions`. The author asks about a specific technical approach to comparing files. Although the question could help someone improve their programming skills, its main purpose is to understand a technical solution.
+
 
 ---
 
