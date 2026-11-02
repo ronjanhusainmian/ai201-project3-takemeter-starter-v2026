@@ -52,6 +52,8 @@ Specific vs. broad questions: Some posts ask general questions about how to star
 Context provided: Some posts explain the author's programming experience, learning progress, and what they have already tried, while others ask for help without providing much background.
 
 Actionable vs. unclear requests: Some posts clearly explain what kind of help they need, such as feedback on a learning roadmap or recommendations for a specific project. Others ask open-ended questions that are harder to answer directly.
+
+
 ---
 
 ## Label Taxonomy
