@@ -211,11 +211,11 @@ I used AI-assisted Python code to pre-label the Reddit posts based on their titl
      prints this table for you. -->
 
 | Measure | Baseline | Trained | Difference |
-|---|---|
-| Overall accuracy | 0.600 |
-| Macro F1 | 0.583 |
-| F1 — `education_career` | 0.500 |
-| F1 — `technical_questions` | 0.667 |
+|---|---|---|---|
+| Overall accuracy | 0.600 | 0.700 | +0.100 |
+| Macro F1 | 0.583 | 0.700 | +0.116 |
+| F1 — `education_career` | 0.500 | 0.710 | +0.210 |
+| F1 — `technical_questions` | 0.667 | 0.690 | +0.023 |
 
 
 **What I predicted before I looked:**
@@ -226,7 +226,7 @@ I expect the fine-tuned DistilBERT model to perform better overall because it wa
 **What the gap actually means:**
 <!-- If the baseline matched your trained model, your fine-tuning added
      nothing — and that is a real finding, not a failure. Say it plainly. -->
-
+The fine-tuned model performed better than the baseline, improving overall accuracy from 60% to 70% and macro F1 from 0.583 to 0.700. The biggest improvement was in education_career, where F1 increased from 0.500 to 0.710. This suggests that training on posts from r/computerscience helped the model better distinguish between the two categories. However, the improvement in technical_questions was small, and the test set only contained 30 posts, so the results may vary with a different split.
 
 
 ---
