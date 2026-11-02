@@ -1,0 +1,162 @@
+text,label,note
+"Path finding comparison
+
+Apart from time complexity, what are important things to take into account when comparing path finding algorithms?",technical_questions,AI pre-labeled; checked
+"How is the job market for a bachelors in computer science?
+
+In urban areas especially, specifically NYC?",education_career,AI pre-labeled; checked
+"Important question
+
+Hi , programming languages inventors are computer engineers or computer scientists?",technical_questions,AI pre-labeled; checked
+"Why do Computer Science students seem so unfocused in class
+
+I am a Senior CS major at a fairly large university (Approx 35k students) and In my upper-level CS classes 300-400 level it seems like my fellow classmates including myself just never listen to what the professors are saying. Do any other CS students notice this also? What is the reasoning that no one seems to be listening to material that seems fairly important?",education_career,AI pre-labeled; checked
+"What jobs do you get after graduating with a B.S in computer science in California?
+
+Are jobs hard to find and how much is the pay once you start working ?",education_career,AI pre-labeled; checked
+"Decision/classification/regression tree research papers from the last 30 years with implementations
+
+&#x200B;
+
+https://preview.redd.it/02g0tto3nhi31.jpg?width=1204&format=pjpg&auto=webp&s=aa8e323c86eb7bd7a30f1ffe57df6fc740961527
+
+[https://github.com/benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+
+A    curated list of decision, classification and regression tree research   papers with implementations from the  following conferences.
+
+Machine learning:
+
+1. NeurIPS
+2. ICML
+3. ICLR
+
+Computer vision:
+
+1. CVPR
+2. ICCV
+3. ECCV
+
+Natural language processing:
+
+1. ACL
+2. NAACL
+3. EMNLP
+
+Data Mining:
+
+1. KDD
+2. ICDM
+3. CIKM
+4. WWW
+
+Artificial intelligence:
+
+1. AAAI
+2. IJCAI
+3. UAI
+4. AISTATS",technical_questions,AI pre-labeled; checked
+"COVIS - Creative Orchestration of Visually-Inspired Semantics
+
+Dear community,
+
+We are three seniors from Idaho State University who have built a creative system. Please make time to fill out this 6 - 8 minute survey. It will go a long way towards helping us  analyze the effectiveness of our COVIS system. You can sleep well tonight knowing you helped some struggling college kids and helped further the field of computational creativity!
+
+You can find the Google form [here](https://forms.gle/h557FrVUg85sthvYA).",education_career,AI pre-labeled; checked
+"Tutor to make a CPU from scratch
+
+Our professor told us as a final project to program and create a CPU from scratch and implement it on Quartus but he did not teach us the tools to do it. I am NOT looking for someone to do it for me, but to help me during the process so that I can understand and learn, I have a scholarship and A in the rest of my classes, so failing this project would have a lot of impact on my school. I would not ask for a tutor or help if I wasn't panicking, help.",technical_questions,cold
+"Here's an collection for learning Programming Methodology from Stanford
+
+I found this class collection from Stanford. It's from 2008 and they use Java as a language in the class but I think it's pretty fun to listen lessons. Technology might be old but the mindset that you'll take is still fresh.
+
+I think this might be a great resource for beginners to start from somewhere, Lecture is given by Prof. Mehran Sahami, I think he is pretty funny guy.
+
+Here's the list;
+
+* [**Programming Methodology Class**](https://jooseph.com/modules/259?utm_source=reddit.com&utm_medium=referral&utm_campaign=18.04&utm_term=r%2Fcomputerscience&utm_content=Programming%20Methodolgy)",education_career,AI pre-labeled; checked
+"Parallel Processing / Intel x86 intrinsics
+
+Hello everyone. I am a computer science student and this semester i have a caurse on parallel processing. I am in  that concerns an implementation of a programm using data level parallelism with Intel x86 intrinsics AVX2 instruction set. I will implement the same program with traditional serial code as well. After i complie and run each executable i collect time statistics as well as statistics like cache references,  cache-misses, branches,  cycles , instructions, CPI etc (with perf linux tool). Using these data i have to make some assumptions and draw some graphs explaining the speedup, the efficiency and execution time comparing serial VS parallel execution.
+
+My question  is where can i find more scientific information on such subjects as performance analysis or something relevant in order to help me with my project? 
+
+Thanks",technical_questions,AI pre-labeled; checked
+"Interesting intuitive explanation of core computer science concepts
+
+Are there any blogs or YouTube channels that explain core CS concepts in an interesting way like there are  3blue1brown channel and betterexplained blog for maths.",technical_questions,AI pre-labeled; checked
+"OPINION: the recent COVID-19 outbreak may opens more job opportunities for computer scientist.
+
+As with the recent outbreak, everyone is forced to self-isolate. They are quarantined and forced to work from home. This might be a new revolution for teleworking, and can open up more demands for software related jobs. Almost every education system moving to online, demand in e-commerce, socially being more connected online etc; Everyone is in-need of a reliable virtual connection (for all services) that this outbreak may bring some amazing inventions and ideas for the future.",education_career,AI pre-labeled; checked
+"Why is RAM called RAM?
+
+I understand that it stands for Random Access Memory, what I don’t understand is why it’s “Random”. From what I understand it works in a very orderly fashion with pretty much no RNG.
+
+Edit: Thank you to u/thememorableusername for explaining it in depth.",technical_questions,AI pre-labeled; checked
+"What's your coding level?
+
+Today we released ""Ranked"" mode on Codr. Do your best to solve  problems but with a nice twist: **no coding required!** It's mobile friendly  and even if you don't know a thing about coding.
+
+If   you're a beginner or unfamiliar with JavaScript you can go into    practice mode, or jump straight into ranked. Try to climb the    leaderboards and get Genius status!
+
+In the coming days people will be able to customize their profiles to showcase and promote their sites or projects.
+
+URL: [https://nevolin.be/codr/](https://nevolin.be/codr/)
+
+&#x200B;
+
+https://preview.redd.it/uv9ci2wlb6x41.png?width=1600&format=png&auto=webp&s=ec1254ec7911810775f3604bbebb604cb0a785d1",education_career,AI pre-labeled; checked
+"Do you think that CS salaries will remain high (as high as they are now) in 10 or 20 years?
+
+Adjusted for inflation",technical_questions,cold
+"Am I really learning something?
+
+Okay so, I'm the Computer Science field, more like Informatics Engineering, that is equivalent to the common CS field but with more math and physics....
+
+I've been learning some languages for a while now, but do I really know what I am doing? I feel like what do could easily be done by anyone. You just need some logical thinking and that's it. I know the basics of the programming language, I can create a library to use among different applications that requires similar functions, but I find myself googling things like ""How to do X in the language Y"" and following along the tutorial and I don't know if this is knowledge... 
+
+Like the worst is not knowing what I don't know... In my major teachers explain the basics and then we do projects and often I find myself applying to jobs to get used to the 'environment' of an interview, then often tell me to rank my knowledge from 1 to 5 and I don't know what to say 'cause I don't know what I don't know, therefore I can't say a number, without knowing that I cant calculate the percentage of knowledge I have, usually I just get a crazy idea, and start coding it, googling how to do some stuff, then I just adapt the code to my situation and thats it. Am I doing it the right way? how to you approach things? 
+
+&#x200B;
+
+Is this common?",education_career,AI pre-labeled; checked
+"Meta: mods please use a bot to auto-remove career advice posts and limit posts to news and discussion posts about the general field of CS.
+
+I’m not sure what the point of having u/askcomputerscience and u/computerscience are if the posts are the same career advice.",education_career,AI pre-labeled; checked
+"What should I study over the summer to get a jumpstart in the fall?
+
+I just finished my high school career today and now I have all day everyday to do whatever I want. I want to spent this time learning and getting a jumpstart on college in the fall. I’ve been programming for the past 4ish years but it’s mainly just a side hobby and my skills are very subpar. I’m sorry if this is a vague question but what are some topics that would be worthwhile for me to learn over the summer that would help me in college? Thanks",education_career,cold
+"Productive Summer Plan
+
+Hey guys,
+
+My name is Danyal Imran and I am a computer scientist who's currently pursuing MBA. I have 3+ years of professional experience, and during my professional tenure, a lot of the people I knew were excited on how I approach and solve problems. I've received many awards for my performance, and was a also between an HR battle when I decided to switch my job (because React over Angular any day).
+
+This pandemic has given me an amazing opportunity, and finally I have decided to start my own YouTube channel (Trust me, I am all for quality content that's going to help y'all in the long run). I am quiet dedicated because I love this field, so I expect you to see the following courses in the next 2 months:
+
+**101 - Programming Fundamental**: This course will focus on problem solving and logic building using C programming language (Yes, C language, because it teaches you how to think, and this is the main problem that I see people facing. Many people don't realize that programming is actually solving problems rather than learning the latest hit programming language.. Trust me, programming languages are very similar and its not hard to learn them)
+
+**102 - Object Oriented Programming**: This course will focus on the OOP paradigm on how to properly structure and code your problems. Here the complexity of the problem is going to be quiet big, and you can code actual real life problem but without a GUI (Maybe an intro to Swing for GUI if Java? idk that yet). The course will either use C++, C#, or Java (haven't decided that yet)
+
+**103 - Data Structures**: So far you know how to think about a problem and solve it. Now you're going to think about how to handle data i.e. storage, read, write, sort, etc. You'll amazed to learn what a data structure can do to make a program fun faster. I will also dive into a language's built in data structure so that you know what a language provides and how you'll be saving your time.
+
+**104 - Design & Analysis of Algorithms**: Finally, we reach at a course that talks about writing efficient code, yes efficient i.e. the best possible solution for a problem. If you are good with Algorithms, you can easily ace top 100 tech company coding interviews because this differentiates a good coder from a great coder.
+
+These courses will include (and are not limited to): Theoretic & Practical Lectures, Assignments (Solved & Unsolved), Projects, Links to Coding Websites, Links to Exciting Articles, and many more
+
+These courses are generally for people starting out their journey in Computer Science, or people who have problems in solving tasks (telling computers what and how to do it). Once you complete these 4 courses, you can then plan your career in any field (Mobile, Gaming, Web, etc.), because this is what it takes to be a programmer.
+
+If you are interested, then stay tuned & subscribe to my YouTube channel:  [https://www.youtube.com/channel/UCz\_JBGi-DhhV2nNJzK6kD7Q](https://www.youtube.com/channel/UCz_JBGi-DhhV2nNJzK6kD7Q)
+
+The first course should be out 2 weeks from now.
+
+If I am done with the aforementioned courses, the following courses are in my future plans:
+
+105 - Databases (SQL & NoSQL)
+
+201 - Web Development (Front-end: React, Back-end: Node)
+
+301 - Artificial Intelligence
+
+302 - Data Science
+
+401 - Cloud Computing",technical_questions,cold

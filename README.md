@@ -143,18 +143,38 @@ I used a Python script to suggest labels based on keywords in the titles and bod
 
 ## The Training Run
 
-<!-- Your starting model, your settings, and anything you changed and why. -->
-
 **Base model:**
 
-**Settings:** <!-- epochs, learning rate, batch size, seed -->
+DistilBERT (`distilbert-base-uncased`), fine-tuned to classify posts from r/computerscience into `technical_questions` and `education_career`.
+
+**Settings:**
+
+- **Epochs:** 3
+- **Learning rate:** 2e-5
+- **Batch size:** 8
+- **Random seed:** 42
+- **Maximum sequence length:** 128 tokens
+- **Device:** CPU
 
 **Anything I changed from the defaults, and why:**
 
-**Split sizes:** <!-- train / val / test, and per-label counts in the test
-split. If a label had fewer than about 8 in test, say so — it explains a lot
-of next unit's variance. -->
+I configured training to use the CPU and disabled pinned memory to prevent kernel crashes. I kept the default learning rate and trained for three epochs.
 
+**Split sizes:**
+
+The dataset contains 124 labeled posts, divided into:
+
+- **Training:** 86 posts
+- **Validation:** 19 posts
+- **Test:** 19 posts
+
+Per-label counts in the test split:
+
+| Label | Test count |
+|---|---:|
+| `technical_questions` | 9 |
+| `education_career` | 10 |
+| **Total** | **19** |
 
 
 ---

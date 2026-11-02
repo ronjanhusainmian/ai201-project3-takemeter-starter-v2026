@@ -1,0 +1,41 @@
+{
+  "seed": 42,
+  "n_test": 19,
+  "accuracy": 0.6842105263157895,
+  "f1_macro": 0.6833333333333333,
+  "per_label": {
+    "technical_questions": {
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1": 0.6666666666666666,
+      "support": 9
+    },
+    "education_career": {
+      "precision": 0.7,
+      "recall": 0.7,
+      "f1": 0.7,
+      "support": 10
+    }
+  },
+  "confusion": {
+    "technical_questions": {
+      "technical_questions": 6,
+      "education_career": 3
+    },
+    "education_career": {
+      "technical_questions": 3,
+      "education_career": 7
+    }
+  },
+  "confidence": {
+    "mean_when_right": 0.5511870384216309,
+    "mean_when_wrong": 0.5499982833862305,
+    "accuracy_most_confident_third": 0.6666666666666666,
+    "accuracy_least_confident_third": 0.5,
+    "n_per_third": 6
+  },
+  "device": "cpu",
+  "device_name": "CPU",
+  "torch_version": "2.15.0",
+  "max_length": 128
+}
