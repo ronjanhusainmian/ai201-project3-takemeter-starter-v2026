@@ -42,16 +42,20 @@
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
 
-Community: 
-I chose r/learnpython, a subreddit where people ask questions about Python programming and request help with coding problems.
 
-Three candidate disctinctions:
+## What This Does
 
-Specific vs. broad questions: Some posts ask general questions about how to start learning Python, while others identify a specific goal, such as building an application or learning a particular programming concept.
+**Community:**
 
-Context provided: Some posts explain the author's programming experience, learning progress, and what they have already tried, while others ask for help without providing much background.
+I chose r/computerscience, a subreddit where people discuss computer science concepts, programming, education, and careers in technology.
 
-Actionable vs. unclear requests: Some posts clearly explain what kind of help they need, such as feedback on a learning roadmap or recommendations for a specific project. Others ask open-ended questions that are harder to answer directly.
+**Three candidate distinctions:**
+
+**Technical vs. education/career questions:** Some posts ask about specific computer science concepts or technical problems, while others seek advice about learning resources, degrees, or career opportunities.
+
+**Context provided:** Some posts explain the author's background, technical knowledge, and what they have already tried, while others ask questions without providing much context.
+
+**Specific vs. broad questions:** Some posts ask about a particular technical concept or problem, while others ask broader questions about improving their computer science knowledge or preparing for a career.
 
 
 ---
@@ -65,20 +69,20 @@ Actionable vs. unclear requests: Some posts clearly explain what kind of help th
 **Definition:** Posts that ask for help understanding a specific computer science concept, solving a technical problem, or explaining how a programming or computing system works.
 
 **Example 1:**
-> [Has the format for email addresses changed after RFC 5322?](https://www.reddit.com/r/computerscience/comments/hg4vtl/) — The author asks about email formatting standards and how to correctly validate email addresses.
+> [Has the format for email addresses changed after RFC 5322?](https://www.reddit.com/r/computerscience/comments/hg4vtl/) - The author asks about email formatting standards and how to correctly validate email addresses.
 
 **Example 2:**
-> [Centralized vs Decentralized Networks](https://www.reddit.com/r/computerscience/comments/gxnkce/) — The author asks for help understanding and comparing technical properties of different network structures.
+> [Centralized vs Decentralized Networks](https://www.reddit.com/r/computerscience/comments/gxnkce/) - The author asks for help understanding and comparing technical properties of different network structures.
 
 ### `education_career`
 
 **Definition:** Posts that ask for advice about learning computer science, choosing educational resources, developing skills, pursuing degrees, or preparing for careers in technology.
 
 **Example 1:**
-> [What to learn for cs?](https://www.reddit.com/r/computerscience/comments/hkco74/) — The author asks which computer science topics to study before starting college.
+> [What to learn for cs?](https://www.reddit.com/r/computerscience/comments/hkco74/) - The author asks which computer science topics to study before starting college.
 
 **Example 2:**
-> [Java intermediate learner](https://www.reddit.com/r/computerscience/comments/h0ooev/) — The author discusses their programming experience and asks how to continue improving their Java skills.
+> [Java intermediate learner](https://www.reddit.com/r/computerscience/comments/h0ooev/) - The author discusses their programming experience and asks how to continue improving their Java skills.
 
 ### The hardest boundary
 
