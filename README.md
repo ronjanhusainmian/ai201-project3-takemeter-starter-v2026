@@ -42,18 +42,16 @@
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
 
-Community: r/learnpython
+Community: 
 I chose r/learnpython, a subreddit where people ask questions about Python programming and request help with coding problems.
 
-Problem clarity: Some posts clearly explain the problem the user is facing, while others ask broad questions without identifying a specific issue.
+Three candidate disctinctions:
 
-Technical details: Some posts include code snippets, error messages, or examples, while others provide very little technical information.
+Specific vs. broad questions: Some posts ask general questions about how to start learning Python, while others identify a specific goal, such as building an application or learning a particular programming concept.
 
-Context and effort: Some posts explain what the user has already tried and where they are stuck, while others simply ask for a solution.
+Context provided: Some posts explain the author's programming experience, learning progress, and what they have already tried, while others ask for help without providing much background.
 
-Specificity: Some posts ask a focused question that can be answered directly, while others ask several unrelated questions or request general advice.
-
-
+Actionable vs. unclear requests: Some posts clearly explain what kind of help they need, such as feedback on a learning roadmap or recommendations for a specific project. Others ask open-ended questions that are harder to answer directly.
 ---
 
 ## Label Taxonomy
