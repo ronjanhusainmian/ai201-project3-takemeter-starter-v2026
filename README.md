@@ -56,43 +56,40 @@ Actionable vs. unclear requests: Some posts clearly explain what kind of help th
 
 ---
 
+
 ## Label Taxonomy
 
-<!-- Each label: a one-sentence definition and two real examples from your
-     reading. Then your decision rule for the hardest boundary.
+### `debugging`
 
-     The decision rule is worth a point on its own and it's the thing most
-     people leave out. Every taxonomy has a hardest boundary. Name yours. -->
-
-### `label_one`
-
-**Definition:**
+**Definition:** Posts that describe a specific Python coding problem, error, or unexpected behavior and ask for help fixing it.
 
 **Example 1:**
->
+> [Trying to learn python but keep getting error messages](https://www.reddit.com/r/learnpython/comments/1ust9q6/) - The author encounters a NameError and asks how to fix their code.
 
 **Example 2:**
->
+> [My code won't work and I don't know why](https://www.reddit.com/r/learnpython/comments/fl1uuk/) - The author describes a problem with a blackjack program and asks for help fixing it.
 
-### `label_two`
+### `learning_guidance`
 
-**Definition:**
+**Definition:** Posts that ask for advice about learning Python, including study plans, resources, and how to improve programming skills.
 
 **Example 1:**
->
+> [How do I start learning Python? Absolute Beginner](https://www.reddit.com/r/learnpython/comments/1rvp3z3/) - The author asks where to begin learning Python and how to practice.
 
 **Example 2:**
->
+> [Total Beginner to programming who wants to learn](https://www.reddit.com/r/learnpython/comments/1izirwx/) - The author shares a learning roadmap and asks for feedback.
 
 ### The hardest boundary
 
-**Which two labels:**
+**Which two labels:** `debugging` and `learning_guidance`
+
+**Borderline post:** [Having a hard time learning python...](https://www.reddit.com/r/learnpython/comments/wihwd9/having_a_hard_time_learning_python/)
+
+The author describes several coding errors encountered while following Python tutorials, but the post mainly discusses their struggles with learning Python. This makes it difficult to distinguish between debugging and learning guidance.
 
 **The decision rule I used every time:**
-<!-- e.g. "If the post names a specific checkable fact, it's `analysis`, even
-     if the tone is heated." -->
 
-
+If the main purpose is to fix a specific coding error or unexpected behavior, I label it `debugging`. If the post mainly asks for advice about learning Python or overcoming difficulties with learning, I label it `learning_guidance`, even if it mentions coding errors.
 
 ---
 
