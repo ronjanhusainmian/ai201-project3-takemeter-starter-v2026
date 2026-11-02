@@ -1,70 +1,261 @@
 text,label,note
-"Path finding comparison
+"Quantum Cryptography || Shaastra - IIT Madras || Spotlight Stay@Home Lecture Series
 
-Apart from time complexity, what are important things to take into account when comparing path finding algorithms?",technical_questions,AI pre-labeled; checked
-"How is the job market for a bachelors in computer science?
+https://preview.redd.it/slucr75gxi451.jpg?width=1280&format=pjpg&auto=webp&s=788b1b23c15cb58f35196868408f9ff20b5f5d49
 
-In urban areas especially, specifically NYC?",education_career,AI pre-labeled; checked
-"Important question
+**Shaastra Spotlight Stay@Home series** brings to you an inspiring talk from one of the stalwarts in the field of Quantum Cryptography - **Dr. Gilles Brassard**! speaking on “**The Art of Secret Communication in Quantum World**”
 
-Hi , programming languages inventors are computer engineers or computer scientists?",technical_questions,AI pre-labeled; checked
-"Why do Computer Science students seem so unfocused in class
+**Dr. Gilles Brassard** FRS, O.C., O.Q. is a professor of Computer Science and **Canada Research Chair** at the **Université de Montréal.** Together with Charles Bennett, he laid the foundations of **Quantum Cryptography**, **Quantum Information Science** & is also among the inventors of **Quantum Teleportation**, a universally recognized pillar of the entire discipline. His many awards include **Fellow of the Royal Society**, **Wolf Prize in Physics**, honorary doctorates from ETH Zürich, among others.
 
-I am a Senior CS major at a fairly large university (Approx 35k students) and In my upper-level CS classes 300-400 level it seems like my fellow classmates including myself just never listen to what the professors are saying. Do any other CS students notice this also? What is the reasoning that no one seems to be listening to material that seems fairly important?",education_career,AI pre-labeled; checked
-"What jobs do you get after graduating with a B.S in computer science in California?
+Absolutely **no prerequisites** needed for the talk. Catch it live only at **Shaastra IITM**’s Youtube channel:-
 
-Are jobs hard to find and how much is the pay once you start working ?",education_career,AI pre-labeled; checked
-"Decision/classification/regression tree research papers from the last 30 years with implementations
+**Link:** [**https://youtu.be/sMGjmbOaj3E**](https://youtu.be/sMGjmbOaj3E)
+
+**Date: 13th June 2020**
+
+**Time: 6:30 PM IST**
+
+\#BeintheSpotlight",technical_questions,cold
+"What is required of an entry level java developer?
+
+Good morning, I just wanted to ask what the skill set looks like for an someone seeking an entry level job as a java developer. I’m basically trying to see how I measure up.",education_career,AI pre-labeled; checked
+"Learn JavaScript and algorithms by assembling patterns together
+
+I'm Jacques, an ex-google software engineer turned programming instructor. My students were struggling solving algorithm challenges so I created a tool that guides them through the process. For each exercise, you are given all the you need and need to figure out how to assemble them to get to the solution. It's a stepping stone towards being able to solve algorithm exercises without any clues.
+
+Here's the link: [https://wakata.io/learn/info/wakassemble](https://wakata.io/learn/info/wakassemble)
+
+Enjoy :)",technical_questions,AI pre-labeled; checked
+"I just coded a timer using only for-loops. How does this work?
+
+I'm a beginner CS student and just learned for-loops in class (Python). I was playing around on terminal and made a timer using only forloops. The program prints out ('x' seconds) every 110,000 numbers generated.
 
 &#x200B;
 
-https://preview.redd.it/02g0tto3nhi31.jpg?width=1204&format=pjpg&auto=webp&s=aa8e323c86eb7bd7a30f1ffe57df6fc740961527
+Why does the computer take 1 second to generate 110,000 numbers? What about the computers architecture does this?
 
-[https://github.com/benedekrozemberczki/awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+&#x200B;
 
-A    curated list of decision, classification and regression tree research   papers with implementations from the  following conferences.
+The code (The indents aren't showing up, so Ill show a picture too):
 
-Machine learning:
+[https://imgur.com/a/z1WGMcV](https://imgur.com/a/z1WGMcV) (Code picture)
 
-1. NeurIPS
-2. ICML
-3. ICLR
+def timer():
 
-Computer vision:
+x = int(input('How many seconds?: '))
 
-1. CVPR
-2. ICCV
-3. ECCV
+for y in range (10\*\*7,int(10\*\*7+(1.1\*10\*\*5)\*(x+1))):
 
-Natural language processing:
+for z in range(0,100):
 
-1. ACL
-2. NAACL
-3. EMNLP
+if y == (10\*\*7+(1.1\*10\*\*5)\*z):
 
-Data Mining:
+print (str(z)+' seconds')
 
-1. KDD
-2. ICDM
-3. CIKM
-4. WWW
+print ('Times up!')",technical_questions,AI pre-labeled; checked
+"What makes OOP such an important programming paradigm in the SWE world?
 
-Artificial intelligence:
+I often hear that having a grasp of OO is extremely important when moving into a SWE career. 
 
-1. AAAI
-2. IJCAI
-3. UAI
-4. AISTATS",technical_questions,AI pre-labeled; checked
-"COVIS - Creative Orchestration of Visually-Inspired Semantics
+My understanding is that OO languages are fairly ubiquitous. They also make creating software a lot more manageable, among other positive qualities. 
 
-Dear community,
+Does this mean OO is considered better than other paradigms? If so, why?  
 
-We are three seniors from Idaho State University who have built a creative system. Please make time to fill out this 6 - 8 minute survey. It will go a long way towards helping us  analyze the effectiveness of our COVIS system. You can sleep well tonight knowing you helped some struggling college kids and helped further the field of computational creativity!
+Is OO knowledge considered a more important skill than knowledge of functional or procedural languages?",technical_questions,AI pre-labeled; checked
+"Death of Moore's law?
 
-You can find the Google form [here](https://forms.gle/h557FrVUg85sthvYA).",education_career,AI pre-labeled; checked
-"Tutor to make a CPU from scratch
+I don't know if this question has been asked here... I hope not. 
+So assuming Moore's law does become obsolete in the coming years what other options do we have when it comes to increasing processing power or probably is there some other type of system of computing like let's say quantum computing? I just want to know more about this. :)",technical_questions,AI pre-labeled; checked
+"Is this equation completely useless for computing? (c^2-b^2- a^2):(b*a)=
 
-Our professor told us as a final project to program and create a CPU from scratch and implement it on Quartus but he did not teach us the tools to do it. I am NOT looking for someone to do it for me, but to help me during the process so that I can understand and learn, I have a scholarship and A in the rest of my classes, so failing this project would have a lot of impact on my school. I would not ask for a tutor or help if I wasn't panicking, help.",technical_questions,cold
+Hi people,
+
+Can this equation be used for computing (for fastening some things)? If you maybe see how, please feel free to tell? It has been tested for checking sums vs normal way and it performs slower than normal way. Maybe something different can be done with this equation. Do you see any other link? That is why I am here (I do not have computing science background). Feel free to share thoughts. What type of equations do you think can be done quicker with help of this equation (I got some at example #5 at the bottom - any good?)? If any?
+
+This is the equation:  **(c²-b²- a²):(b\*a)=**
+
+*This equation tells us:*
+
+\-If  sum of any two numbers (and which ones) is 3rd number? If this type or  relationship is possible between 3 numbers (equation tells us how to  arrange numbers)?
+
+\-if b=a\*2 and  c=b\*2 (or if there is any relationship between numbers by any other  multiplier)? If this type or relationship is possible between 3 numbers  (equation tells us how to arrange numbers)?
+
+\- if it is possible to make triangle out of 3 numbers?
+
+\_\_\_
+
+Here it is. We have:
+
+a,b,c
+
+a,b,c are any possible positive numbers
+
+We use this equation (we do not need to rearrange numbers):
+
+**(c²-b²- a²):(b\*a)=**
+
+If:
+
+\_\_\_
+
+\- result is **2**, than a+b=c and b+a=c
+
+Proof:
+
+If a+b=c; than c²=a²+2ab+b², so
+
+Equation is: **(c²-b²- a²):(b\*a)=**
+
+= (a²+2ab+b²-b²-a²):(b\*a)=2ab:(b\*a)=2
+
+\_\_\_
+
+\- result is **-2**,  than a+b (or b+a) is not c. But, if we take bigger number of a and b  and we swap it with c, than we will get correct result (for example:a is  bigger than b, than:a+b=c is not true; but c+b=a is true (and b+c=a  true also)).
+
+Proof:
+
+If a-b=c or(not and) b-a=c; than c²=a²-2ab+b², so
+
+Equation is: **(c²-b²- a²):(b\*a)=**
+
+= (a²-2ab+b²-b²-a²):(b\*a)=-2ab:(b\*a)=-2
+
+\_\_\_\_
+
+\- result is **between -2 and 2,** than numbers can form triangle.
+
+\_\_\_\_
+
+*Multiplier relationship (this can be done for every single multiplier, I only did it for 2\* multiplier)*
+
+\- result is **5,5** or -**3,25** or **2,375**, than we got \*2 multipliers
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+***Example #1:***
+
+a=2
+
+b=4
+
+c=6
+
+(c²-b²- a²):(b\*a)=2
+
+(6²-4²-2²):(4\*2)=
+
+=(36-16-4):8=
+
+=16:8=
+
+=2
+
+Because our result is **2**, we know that 2+4=6.
+
+\_\_\_
+
+***Example #2***
+
+a=2
+
+b=5
+
+c=3
+
+(c²-b²- a²):(b\*a)=
+
+(3²-5²-2²):(5\*2)=
+
+=(9-25-4):10=
+
+=(-20):10=
+
+=-2
+
+Because our result is **-2**,  we know that 2+5=3 is not correct. But if we take bigger number of a  and b and we swap it with c, than we will get correct result. In this  case we **swap** b and c (this means that equation:2+3=5 is correct).
+
+\_\_\_
+
+**Example #3**
+
+a=30
+
+b=40
+
+c=20
+
+(c²-b²- a²):(b\*a)=
+
+=(20\^2-40\^2-30\^2):(b\*a)
+
+=(-2100):1200=-1,75
+
+Because our result is between **-2 and 2**, we know that 30,40,20 can form **triangle**.
+
+\_\_\_
+
+**Example #4**
+
+a=2
+
+b=4
+
+c=8
+
+=(c²-b²- a²):(b\*a)=
+
+=(64-16-4):(8)=
+
+=44:8=5,5
+
+Because our result is between **5,5**, we know that we got **2x multipliers**.
+
+\_\_\_
+
+**Example #5 - Solving Simple Equation:**
+
+**Simple Random** **Equation: -2+squareroot(x)=squareroot(x-4)**
+
+a=-2
+
+b=squareroot(x)
+
+c=squareroot(x-4)
+
+a+b=c
+
+(c²-b²- a²):(b\*a)=2
+
+(x-4-x-4):(-2\*squareroot(x))=2
+
+(-8):(-2\*squareroot(x))=2
+
+4:(squareroot(x))=2
+
+4=2(squareroot(x))
+
+2=(squareroot(x))
+
+x=4
+
+\_\_\_\_
+
+Thank you for reading. Have a lovely day. Thoughts?",technical_questions,AI pre-labeled; checked
+"Is microcode same as microprogrammed control?
+
+I have to write a paper about microprogrammed control and I'm looking up for resources. I found out wikipedia explanation about microcode is basically same as microprogrammed control, is it?. I'm not CS student but I did learn a bit about computer architecture.",technical_questions,AI pre-labeled; checked
+"Question regarding terminology surrounding Boolean values?
+
+It's been long enough since I learned about any of this in school that I figured I'd ask around and see if anyone had any definitive answers before just winging it. And Google was no help.
+
+I'm a writer, and in the current scene I'm working on, a character receives a message containing a single digit: 1. It's meant to be a signal of sorts, kind of a red light/green light scenario so she knows the person who sent it is ready for something.
+
+I'm trying to figure out how to best word this. Taking the on/off or yes/no logic into consideration, I started out by saying the message contained ""a single positive binary value."" I consulted with my sister—who's a software engineering major—and she suggested that ""positive"" might not be the best choice, but I definitely want to convey the idea that this message means ""yes"" or ""go"" or something. We came up with ""single affirmative binary value,"" but thought it sounded a little pretentious. 
+
+Would ""positive"" work in this context? I figure the average reader will probably understand what I mean if I used that, but I also want to stay as technically correct as possible. Is there another adjective I could use for this that would work better but still encapsulate the Boolean logic?",education_career,AI pre-labeled; checked
+"Interesting intuitive explanation of core computer science concepts
+
+Are there any blogs or YouTube channels that explain core CS concepts in an interesting way like there are  3blue1brown channel and betterexplained blog for maths.",technical_questions,AI pre-labeled; checked
 "Here's an collection for learning Programming Methodology from Stanford
 
 I found this class collection from Stanford. It's from 2008 and they use Java as a language in the class but I think it's pretty fun to listen lessons. Technology might be old but the mindset that you'll take is still fresh.
@@ -74,24 +265,123 @@ I think this might be a great resource for beginners to start from somewhere, Le
 Here's the list;
 
 * [**Programming Methodology Class**](https://jooseph.com/modules/259?utm_source=reddit.com&utm_medium=referral&utm_campaign=18.04&utm_term=r%2Fcomputerscience&utm_content=Programming%20Methodolgy)",education_career,AI pre-labeled; checked
-"Parallel Processing / Intel x86 intrinsics
+"I feel like I learned nothing in my Algorithms course
 
-Hello everyone. I am a computer science student and this semester i have a caurse on parallel processing. I am in  that concerns an implementation of a programm using data level parallelism with Intel x86 intrinsics AVX2 instruction set. I will implement the same program with traditional serial code as well. After i complie and run each executable i collect time statistics as well as statistics like cache references,  cache-misses, branches,  cycles , instructions, CPI etc (with perf linux tool). Using these data i have to make some assumptions and draw some graphs explaining the speedup, the efficiency and execution time comparing serial VS parallel execution.
+I’m sure everyone with a CS degree knows this class (maybe it had a slightly different name). I hear people constantly talk about how important it is, but I don’t feel like I walked out with useful knowledge. The main thing I remember learning is graph stuff like Prim’s, Kruskal’s, etc. Like how often does a software engineer need to draw out an MST on pencil and paper ?? I had to take calc 2 and discrete math (3 total semesters), but what was the point of all this? I got an A in the class btw lol
 
-My question  is where can i find more scientific information on such subjects as performance analysis or something relevant in order to help me with my project? 
+To be fair, the later part of the course got kinda butchered due to online learning and my professor being old and incoherent. 
 
-Thanks",technical_questions,AI pre-labeled; checked
-"Interesting intuitive explanation of core computer science concepts
+Basically I’m asking, is this class really as important as people say? Is the concrete knowledge important, or was this class just supposed to be brain exercises?
 
-Are there any blogs or YouTube channels that explain core CS concepts in an interesting way like there are  3blue1brown channel and betterexplained blog for maths.",technical_questions,AI pre-labeled; checked
-"OPINION: the recent COVID-19 outbreak may opens more job opportunities for computer scientist.
+Am I screwed for learning nothing? I just wanna make money as a developer/engineer lol",education_career,AI pre-labeled; checked
+"How much did you spend on your CS Bachelor’s Degree?
 
-As with the recent outbreak, everyone is forced to self-isolate. They are quarantined and forced to work from home. This might be a new revolution for teleworking, and can open up more demands for software related jobs. Almost every education system moving to online, demand in e-commerce, socially being more connected online etc; Everyone is in-need of a reliable virtual connection (for all services) that this outbreak may bring some amazing inventions and ideas for the future.",education_career,AI pre-labeled; checked
-"Why is RAM called RAM?
+I'm asking because I just want an idea of how much money I should hsve saved up..... i know that it varies from what college you go to, but I'd still like to know.
 
-I understand that it stands for Random Access Memory, what I don’t understand is why it’s “Random”. From what I understand it works in a very orderly fashion with pretty much no RNG.
+I'm planning on transferring to Texas State University after I finish my basics at a Community College.",education_career,cold
+"ProctorU beef and potential security risks questions
 
-Edit: Thank you to u/thememorableusername for explaining it in depth.",technical_questions,AI pre-labeled; checked
+Hi I'm a college student who recently had to go through the hell of using ProctorU, after the wonderful experience of... 1. Downgrading my browser from Brave to Chrome to get Flash to work even though Flash has been essentially dead for more than half my life. 2. Having to install their remote access software. 3. Having to watch dreadfully as an idiot I don't know fumbles with my browser permissions while I sit and watch for the better part of 20 minutes before being transferred to their Proctor customer service before being told 10 minutes later that I would need to ask for help in the Test Taker customer service chat. I then got what I assume to be put in the ""fuck off here's another bot"" room for 40 minutes before just giving up. Through this whole ordeal there was a lot that stuck out to me. They asked for my Driver's License for photo ID instead of my school issued ID, They sent multiple requests for remote takeover when I denied them escalating privileges on my computer to install what they told me was another browser plug-in. And I probably sound kooky but after all these events I went back to try to remove any personal data from my profile such as Address and Phone number and saw that they also automatically applied the screenshot I took of my face earlier to my account profile which I couldn't have access to remove. All in all pretty shit experience and wondering if anyone else had any horror stories to tell.
+
+To add onto that how much security vulnerabilities would you say you've picked up on software related and not? Probably the biggest red flag to me is Flash.
+
+&#x200B;
+
+&#x200B;
+
+TL;DR.     REEEEE HOW DARE THEY MAKE ME WAIT, ProctorU seems scummy and vulnerable to malicious activities.",education_career,AI pre-labeled; checked
+"Max Cut problem and semidefinite programming question
+
+In the semidefinite relaxation for the max cut problem the rank 1 positive semidefinite constraint is relaxed to just a positive semidefinite constraint (https://sachdevasushant.github.io/courses/15s-cpsc665/notes/sdp1.pdf). This achieves a good approximation of about 87%. My question is wouldn't it be more natural (and possibly better) to add a nuclear norm constraint or objective penalty (with some tunable parameter lambda) to this formulation to encourage the solution to be low rank and PSD while remaining tractable and convex? I tried searching for an analysis on this and couldn't find anything.",technical_questions,cold
+"Do you have any favourite conferences?
+
+I especially would like to know some that are related to AI/ML that are not overly complicated as I am only a CS grad and looking to do AI MSc. I'm interested in many other topics too to past time through covid",technical_questions,AI pre-labeled; checked
+"Calculus in Computer Science
+
+Calculus in Computer Science
+
+I only have a few classes left in my undergrad CS curriculum, and Iv taken all the required math (Calc 1-2 and Discrete 1-2). I have run into a lot of applications for discrete mathematics but pretty much none for calculus. Are their fields/research areas in more advanced computer science that use more calc based math such as differential equations? I found this kind of math to be more interesting than discrete so I would like to keep applying it. Also, I am aware of using computers to numerically solve differential equations for other fields like physics is prominent, but I’m wondering about something that’s specifically computer science, and less scientific computing. Thanks.",education_career,AI pre-labeled; checked
+"How is the job market for a bachelors in computer science?
+
+In urban areas especially, specifically NYC?",education_career,AI pre-labeled; checked
+"How do you ""full stack"" developers do it?
+
+So I'm a third year Computer Science student trying to find internships and one of the internships I applied to wanted me to make an appointment booking app using the MERN stack. I've followed along a dozen tutorials and definitely got some barebones type of website running, but I've learnt literally nothing doing it. Just mindlessly copying steps and tweaking a few lines here and there.   
+
+
+I've done desktop and Android app development before this and made some really decent stuff and whenever I followed online tutorials for those platforms I felt like I was learning a lot. I always thought that native app development would be harder than web development because they it's closer to the hardware, but honestly this ""full stack"" thing is insane. So many folders, files, terminologies, dependencies, etc.   
+
+
+How do you guys do it? Are you compensated well or has it just become a norm in the industry that's crushing employees?",education_career,AI pre-labeled; checked
+"Is anyone here a programmer and at the same time a biologist of some sort?
+
+I just kind of want to know if I could chase this absurd dream of mine.",technical_questions,cold
+"Covid-19 Forecasting using SIER Model
+
+Recently I came across a paper https://arxiv.org/abs/2004.08842. 
+
+Predictability: Can the turning point and end of an expanding epidemic be precisely forecast?
+
+l totally agree, SIER Model is not fit for forecasting total number of cases , death.
+
+I am further interested in what other option we have for forecasting. LSTM, ARIMA seems too risky for these jobs.
+
+Should epidemologist come with an entire new model?",education_career,AI pre-labeled; checked
+"Do/did you regret your degree? Why or why not?
+
+How has your degree turned out for you? Was it useful? What are you foing now?",education_career,AI pre-labeled; checked
+"CS Software engineer Salaries
+
+Is there any conceivable reality where you can end up poor having a bachelor of CS and having adequate savings skills? Is it at all a hit and miss field, from what i gather the job security in our sector is very stable. Just wondering whether the information matches reality. Thanks team.",education_career,AI pre-labeled; checked
+"My thoughts on those who are questioning themselves when they are feeling low in learning programming or computer science.
+
+If you made lots of mistakes, it's okay. Those who made more mistakes tend to learn more. Plus, there's no people who never made mistake. Remember this.
+
+If you stuck in your code, it's okay. Take a break, make a drink, have some meal or just sleep on it (there are chance you'll be getting the solution in your dream). Remember that your need sugar and short break after hours of thinking and coding.
+
+If you asked way too many stupid questions, it's okay. Asking stupid question doesn't mean that you're stupid. It's just you don't ""see"" it yet. Just like when you use microscope to look at a sample, things are blur at first and you keep on adjusting until you can see the sample. It's just that. Ask, ask until you ""see"" the answer.
+
+If you asked a question and within a few second you suddenly ""see"" the answer. Congratulations! We call this Eureka moments. If you posted it somewhere, just answer your own question. Someone out there probably having the same trouble to ""see"" like you. (been there, done that, in one of C subreddit) And oh, programmers talks to rubber duck and there's nothing weird about it. Really.
+
+If you feel that you can't do this because you think that you are falling behind, you are not smart enough, you are a slow learner, etc.. Ask yourself and THINK, WHY you do this? WHY do you learn this on the first place? Do you LOVE this? WHY do you love this? ASK, THINK, ANSWER and HOLD ON to that answer. 
+
+If you think that you need to stop this because somebody told you that you are not cut for this, ALWAYS ask that person WHY and HOW do you improve yourself. If the person know enough, you'll be getting a tips on how to develop yourself even further. If the person doesn't answer your question, he/she probably doesn't know enough. Remember this when you encounter people who's trying to bring you down, a great person who is also a great programmer is definitely an excellent problem solver, hence there's always good input coming from him/her.
+
+I hope while you're walking this journey, you'll find your love in doing this. Coding, problem solving, whatever. This is going to be a part of your life, let this be something you love doing most.
+
+Hats off to all great people who are also the great programmers and definitely the excellent problem solver. You guys helps us a lot in this journey. We hope that you guys keep spreading knowledge to the community.
+
+Personal notes : When I was about to start my journey, I was very lost and resolved to make a Reddit account. On my first post, I received bunch of suggestions. I took notes on all of the suggestions and I decided to go for OSSU for a start as per recommended by u/cpt_krc (thanks so much!). I can say that CS50 is the best thing ever happen to me in my life. I'm now taking my own sweet time learning and discovering. There's a lot more to learn and in awesome Redditor I trust!",education_career,AI pre-labeled; checked
+"Could a Huragok be built in real life?
+
+Now a Huragok from Halo is best described as a ""biological super computer"". They're super advanced machines made biological material. They are sentient and quite intelligent, able to repair and enhance and technology they come across. 
+
+
+
+Now their names follow a certain pattern. Huragok name examples include:
+
+
+Lighter than some
+
+Far too heavy 
+
+Easy to adjust
+
+Prone to drift
+
+
+
+Now they're constantly floating around with air bladders filled with methane like living balloons. And each Huragok is named after their floating ability. 
+
+
+As for sensors and manipulators, they have four tentacle limbs and a flat broad tail. As well as a long narrow neck with 6 small black eyes .
+
+
+Communication is done by whistling and clicking 
+
+
+
+Odly enough, Huragok can also upload data from computers and other tech into their own bodies",technical_questions,AI pre-labeled; checked
 "What's your coding level?
 
 Today we released ""Ranked"" mode on Codr. Do your best to solve  problems but with a nice twist: **no coding required!** It's mobile friendly  and even if you don't know a thing about coding.
@@ -105,58 +395,52 @@ URL: [https://nevolin.be/codr/](https://nevolin.be/codr/)
 &#x200B;
 
 https://preview.redd.it/uv9ci2wlb6x41.png?width=1600&format=png&auto=webp&s=ec1254ec7911810775f3604bbebb604cb0a785d1",education_career,AI pre-labeled; checked
-"Do you think that CS salaries will remain high (as high as they are now) in 10 or 20 years?
+"Is Anyone Familiar with the contents of R.D. Tennent's Specifying Software Textbook?
 
-Adjusted for inflation",technical_questions,cold
-"Am I really learning something?
+I find this textbook very confusing, is anyone familiar with the contents of it.  
+ [https://www.cambridge.org/core/books/specifying-software/FC5195E61426DB3C8BB8851BEB947D37](https://www.cambridge.org/core/books/specifying-software/FC5195E61426DB3C8BB8851BEB947D37)   
+I'm specifically asking about PART A of the textbook",education_career,AI pre-labeled; checked
+"Which OS do computer scientists use?
 
-Okay so, I'm the Computer Science field, more like Informatics Engineering, that is equivalent to the common CS field but with more math and physics....
+if you want you can justify why
 
-I've been learning some languages for a while now, but do I really know what I am doing? I feel like what do could easily be done by anyone. You just need some logical thinking and that's it. I know the basics of the programming language, I can create a library to use among different applications that requires similar functions, but I find myself googling things like ""How to do X in the language Y"" and following along the tutorial and I don't know if this is knowledge... 
+[View Poll](https://www.reddit.com/poll/hkrysh)",technical_questions,cold
+"What are the issue faced by Software Developer on introducing Dark Mode?
 
-Like the worst is not knowing what I don't know... In my major teachers explain the basics and then we do projects and often I find myself applying to jobs to get used to the 'environment' of an interview, then often tell me to rank my knowledge from 1 to 5 and I don't know what to say 'cause I don't know what I don't know, therefore I can't say a number, without knowing that I cant calculate the percentage of knowledge I have, usually I just get a crazy idea, and start coding it, googling how to do some stuff, then I just adapt the code to my situation and thats it. Am I doing it the right way? how to you approach things? 
+Facebook, Instagram, Whatsapp, Reddit and so 
+took way long to introduce dark mode.
+To a normal person it might look changing background and text color from white to black.
+But if so was the case, It would take few minutes to achieve that. Still here we are even after 12 years, Stack overflow does not have a dark mode.
+I am interested to know what it takes to introduce it!",education_career,AI pre-labeled; checked
+"Can you write a 2-sum solution just as short as mine, but this time make it O(n) time?
+
+Recently, I found out that google's search return had O(n\^2) solutions written in bulky code. This I find pretty confusing and wasteful. If you are going to write an O(n\^2) solution at least make it short.
+
+**python code**
+
+Here, I've done just that. The first one halts and returns a yes when 2-sum is found.
+
+    k = [3,4,5,5,5,5,1,2]
+    target = 6
+    
+    for j in range(0, len(k)):
+      if target-int(k[j]) in k[j+1:]:
+       print('yes')
+       quit()
+    
+    print('no')
+
+The 2nd one here returns all 2-sums found.
+
+    k = [5,4,1,2,-2,6]
+    target = 3
+    
+    for j in range(0, len(k)):
+      if target-int(k[j]) in k[j+1:]:
+       print(target-int(k[j]), '+', int(k[j]))
 
 &#x200B;
 
-Is this common?",education_career,AI pre-labeled; checked
-"Meta: mods please use a bot to auto-remove career advice posts and limit posts to news and discussion posts about the general field of CS.
+&#x200B;
 
-I’m not sure what the point of having u/askcomputerscience and u/computerscience are if the posts are the same career advice.",education_career,AI pre-labeled; checked
-"What should I study over the summer to get a jumpstart in the fall?
-
-I just finished my high school career today and now I have all day everyday to do whatever I want. I want to spent this time learning and getting a jumpstart on college in the fall. I’ve been programming for the past 4ish years but it’s mainly just a side hobby and my skills are very subpar. I’m sorry if this is a vague question but what are some topics that would be worthwhile for me to learn over the summer that would help me in college? Thanks",education_career,cold
-"Productive Summer Plan
-
-Hey guys,
-
-My name is Danyal Imran and I am a computer scientist who's currently pursuing MBA. I have 3+ years of professional experience, and during my professional tenure, a lot of the people I knew were excited on how I approach and solve problems. I've received many awards for my performance, and was a also between an HR battle when I decided to switch my job (because React over Angular any day).
-
-This pandemic has given me an amazing opportunity, and finally I have decided to start my own YouTube channel (Trust me, I am all for quality content that's going to help y'all in the long run). I am quiet dedicated because I love this field, so I expect you to see the following courses in the next 2 months:
-
-**101 - Programming Fundamental**: This course will focus on problem solving and logic building using C programming language (Yes, C language, because it teaches you how to think, and this is the main problem that I see people facing. Many people don't realize that programming is actually solving problems rather than learning the latest hit programming language.. Trust me, programming languages are very similar and its not hard to learn them)
-
-**102 - Object Oriented Programming**: This course will focus on the OOP paradigm on how to properly structure and code your problems. Here the complexity of the problem is going to be quiet big, and you can code actual real life problem but without a GUI (Maybe an intro to Swing for GUI if Java? idk that yet). The course will either use C++, C#, or Java (haven't decided that yet)
-
-**103 - Data Structures**: So far you know how to think about a problem and solve it. Now you're going to think about how to handle data i.e. storage, read, write, sort, etc. You'll amazed to learn what a data structure can do to make a program fun faster. I will also dive into a language's built in data structure so that you know what a language provides and how you'll be saving your time.
-
-**104 - Design & Analysis of Algorithms**: Finally, we reach at a course that talks about writing efficient code, yes efficient i.e. the best possible solution for a problem. If you are good with Algorithms, you can easily ace top 100 tech company coding interviews because this differentiates a good coder from a great coder.
-
-These courses will include (and are not limited to): Theoretic & Practical Lectures, Assignments (Solved & Unsolved), Projects, Links to Coding Websites, Links to Exciting Articles, and many more
-
-These courses are generally for people starting out their journey in Computer Science, or people who have problems in solving tasks (telling computers what and how to do it). Once you complete these 4 courses, you can then plan your career in any field (Mobile, Gaming, Web, etc.), because this is what it takes to be a programmer.
-
-If you are interested, then stay tuned & subscribe to my YouTube channel:  [https://www.youtube.com/channel/UCz\_JBGi-DhhV2nNJzK6kD7Q](https://www.youtube.com/channel/UCz_JBGi-DhhV2nNJzK6kD7Q)
-
-The first course should be out 2 weeks from now.
-
-If I am done with the aforementioned courses, the following courses are in my future plans:
-
-105 - Databases (SQL & NoSQL)
-
-201 - Web Development (Front-end: React, Back-end: Node)
-
-301 - Artificial Intelligence
-
-302 - Data Science
-
-401 - Cloud Computing",technical_questions,cold
+Now, I'm gonna try to implement hash-tables to make it O(n) time. Can you give me some examples of what you would do to make it O(n) time but keep it nearly as short??",technical_questions,AI pre-labeled; checked

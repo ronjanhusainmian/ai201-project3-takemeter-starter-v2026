@@ -101,19 +101,19 @@ If the main purpose of a post is to understand or solve a specific technical pro
 
 **Where the posts came from:**
 
-I used a publicly available Reddit dataset from Kaggle containing posts from r/computerscience. I selected 200 posts and combined each post's title and full body into the `text` column.
+I used a publicly available Reddit dataset from Kaggle containing posts from r/computerscience. I selected 200 posts and combined each post's title and full body into the text column.
 
 **How I labelled them:**
 
-I used a Python script to suggest labels based on keywords in the titles and bodies of the posts. The two labels were `technical_questions` and `education_career`. The suggested labels require manual review, especially for posts that discuss both technical topics and education or careers.
+I used a Python script to suggest labels based on keywords in the titles and bodies of the posts. The two labels were technical_questions and education_career. The suggested labels require manual review, especially for posts that discuss both technical topics and education or careers.
 
 **Counts per label:**
 
 | Label | Count | Share |
 |---|---:|---:|
-| `technical_questions` | 59	 | 47.6% |
-| `education_career` | 65 | 52.4% |
-| **Total** | **124** | **100%** |
+| `technical_questions` | 96	 | 48% |
+| `education_career` | 104 | 52% |
+| **Total** | **200** | **100%** |
 
 **Three hard cases**
 
@@ -151,7 +151,7 @@ DistilBERT (`distilbert-base-uncased`), fine-tuned to classify posts from r/comp
 
 - **Epochs:** 3
 - **Learning rate:** 2e-5
-- **Batch size:** 8
+- **Batch size:** 16
 - **Random seed:** 42
 - **Maximum sequence length:** 128 tokens
 - **Device:** CPU
@@ -162,19 +162,19 @@ I configured training to use the CPU and disabled pinned memory to prevent kerne
 
 **Split sizes:**
 
-The dataset contains 124 labeled posts, divided into:
+The dataset contains 200 labeled posts, divided into:
 
-- **Training:** 86 posts
-- **Validation:** 19 posts
-- **Test:** 19 posts
+- **Training:** 139 posts
+- **Validation:** 31 posts
+- **Test:** 30 posts
 
 Per-label counts in the test split:
 
 | Label | Test count |
 |---|---:|
-| `technical_questions` | 9 |
-| `education_career` | 10 |
-| **Total** | **19** |
+| `technical_questions` | 14 |
+| `education_career` | 16 |
+| **Total** | **30** |
 
 
 ---
@@ -185,7 +185,7 @@ Per-label counts in the test split:
 
 - **What I asked for:** I asked ChatGPT to clean and label a dataset of Reddit posts from r/computerscience from Kaggle.
 - **What came back:** ChatGPT provided Python code to clean the original Kaggle dataset, extract the relevant text and assign labels.
-- **What I changed:** I used the script to generate `labels.csv` and kept the two categories.
+- **What I changed:** I used the script to generate labels.csv and kept the two categories.
 
 **Moment 2**
 

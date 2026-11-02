@@ -134,7 +134,7 @@ https://preview.redd.it/smz7ffzcqo451.jpg?width=2000&format=pjpg&auto=webp&s=102
 
 **Description:**
 
-*Little Ball of Fur*  consists of methods to do sampling of graph  structured data. To put it  simply it is a Swiss Army knife for graph  sampling tasks. First, it  includes a large variety of vertex, edge and  expansions sampling  techniques. Second, it provides a unified  application public interface  which makes the application of sampling  algorithms trivial for  end-users. Implemented methods cover a wide range  of networking ([Networking](https://link.springer.com/conference/networking), [INFOCOM](https://infocom2020.ieee-infocom.org/), [SIGCOMM](http://www.sigcomm.org/)) and data mining ([KDD](https://www.kdd.org/kdd2020/), [TKDD](https://dl.acm.org/journal/tkdd), [ICDE](http://www.wikicfp.com/cfp/program?id=1331&s=ICDE&f=International%20Conference%20on%20Data%20Engineering)) conferences, workshops, and pieces from prominent journals.",technical_questions,AI pre-labeled; checked
+*Little Ball of Fur*  consists of methods to do sampling of graph  structured data. To put it  simply it is a Swiss Army knife for graph  sampling tasks. First, it  includes a large variety of vertex, edge and  expansions sampling  techniques. Second, it provides a unified  application public interface  which makes the application of sampling  algorithms trivial for  end-users. Implemented methods cover a wide range  of networking ([Networking](https://link.springer.com/conference/networking), [INFOCOM](https://infocom2020.ieee-infocom.org/), [SIGCOMM](http://www.sigcomm.org/)) and data mining ([KDD](https://www.kdd.org/kdd2020/), [TKDD](https://dl.acm.org/journal/tkdd), [ICDE](http://www.wikicfp.com/cfp/program?id=1331&s=ICDE&f=International%20Conference%20on%20Data%20Engineering)) conferences, workshops, and pieces from prominent journals.",technical_questions,cold
 "Quantum Cryptography || Shaastra - IIT Madras || Spotlight Stay@Home Lecture Series
 
 https://preview.redd.it/slucr75gxi451.jpg?width=1280&format=pjpg&auto=webp&s=788b1b23c15cb58f35196868408f9ff20b5f5d49
@@ -159,10 +159,10 @@ From a feasibility standpoint, I am wondering what would be the most effective w
 When considering internal vs external drives, does this remain the same?  I am not sure how the low-level access would affect security, but I have heard from others that encrypting external drives caused them to fail and thus the protection offered was insufficient.  Internal drives can fail too of course, but this just makes the subject more opaque.",technical_questions,cold
 "What should I study over the summer to get a jumpstart in the fall?
 
-I just finished my high school career today and now I have all day everyday to do whatever I want. I want to spent this time learning and getting a jumpstart on college in the fall. I’ve been programming for the past 4ish years but it’s mainly just a side hobby and my skills are very subpar. I’m sorry if this is a vague question but what are some topics that would be worthwhile for me to learn over the summer that would help me in college? Thanks",education_career,cold
+I just finished my high school career today and now I have all day everyday to do whatever I want. I want to spent this time learning and getting a jumpstart on college in the fall. I’ve been programming for the past 4ish years but it’s mainly just a side hobby and my skills are very subpar. I’m sorry if this is a vague question but what are some topics that would be worthwhile for me to learn over the summer that would help me in college? Thanks",education_career,AI pre-labeled; checked
 "Tutor to make a CPU from scratch
 
-Our professor told us as a final project to program and create a CPU from scratch and implement it on Quartus but he did not teach us the tools to do it. I am NOT looking for someone to do it for me, but to help me during the process so that I can understand and learn, I have a scholarship and A in the rest of my classes, so failing this project would have a lot of impact on my school. I would not ask for a tutor or help if I wasn't panicking, help.",technical_questions,cold
+Our professor told us as a final project to program and create a CPU from scratch and implement it on Quartus but he did not teach us the tools to do it. I am NOT looking for someone to do it for me, but to help me during the process so that I can understand and learn, I have a scholarship and A in the rest of my classes, so failing this project would have a lot of impact on my school. I would not ask for a tutor or help if I wasn't panicking, help.",technical_questions, AI pre-labeled; checked
 "COMPUTER SCIENCE
 
 What are Computer science fields?       
@@ -999,3 +999,729 @@ I'm an undergraduate in Computer Engineering (Europe), very interested in the to
 We may also discuss about interesting papers in the group :)
 
 I had to stop sending DMs because Reddit banned me (I reached the daily limit). You can find the link to Discord in the comments below.",technical_questions,AI pre-labeled; checked
+"Do programmers use IDEs more than text editors?
+
+Apologies if this question has been asked before, just genuinely curious because a lot of the tutorials O find uses a text editor wherein an IDE is like a more advance text editor.",education_career,AI pre-labeled; checked
+"people in CS are toxic
+
+everyone wants to flaunt their tech stack.
+everyone wants to laugh over somebody else’s code.
+everyone wants to be at the top.
+everyone wants to demean others.
+
+my love for building stuff deteriorates with such people around. 
+
+i just want the right humble liberal minded people to work with. Is it something too much to ask for?",technical_questions,AI pre-labeled; checked
+"What exactly is a framework?
+
+Before this summer I had a real vague idea of what they were. I thought of it as a programming language with a bunch of method calls given to you and I was very wrong. They’re a lot cooler than that. They’re using a programming language’s syntax, data structures, and specifications to build a convenient way to achieve a task. It’s such a clever idea imo. I’ve been using react and it’s such a smart layout and very interesting to learn about. I don’t even know exactly what this post is. Feel free to just say whatever.",technical_questions,AI pre-labeled; checked
+"Movies about CS?
+
+I’ve seen The Imitation Game. Any other movies like that one?",technical_questions,AI pre-labeled; checked
+"Is Computer Science degree still worth it?
+
+What is up guys. I'm a high schl graduate and going to Major in CS degree soon. Due to covid 19 pandemic, I've no choice and I stay home everyday, I've started to learn Python and C++ on my own for one month. So far it's pretty productive and i know more about each programming language/ data structure day after day by simply learning them on free online platforms or YouTube. Now I started to wonder, is it worth it to take a degree for this? Or anyone who took CS degree before can explain what's the difference btwn a selfTaught Software Engineer and a degree graduate. As I've heard that even FANG companies don't bother whether their employees are having a degree or not, as long as their skills are considered above average level. Feel free to share ur opinions down below:)",education_career,AI pre-labeled; checked
+"I’m a junior CS student and I feel like I’m just an intermediate or even still a beginner programmer, is this normal?
+
+For the first two years of college I’ve wasted my time on gen eds, math classes, and I’ve only taken 5 computer science courses.
+
+Now I’m starting my third year of college. I’m about 55% of the way done. 
+
+I’m worried that when I graduate I won’t have the skill set to actually be a developer. I feel like I know nothing.
+
+I even work at a job doing web scraping and writing custom JavaScript and regular expressions and I still feel like I know nothing. 
+
+Is this normal? I really only know two languages which is JavaScript and python.::",education_career,AI pre-labeled; checked
+"Is c# dying?
+
+I heard a lot about c# dying do you think that's true?",technical_questions,AI pre-labeled; checked
+"Why are video game files really large now?
+
+Games like warzone take up more than 100 gb of storage space. Red dead redemption 2 takes up 150GB. What’s the reason for these really obtuse files? Just now a 20 GB update for warzone has been released. Just a few years ago back in 2016 there were barely any games which pushed 60 GB. What’s going on?",technical_questions,AI pre-labeled; checked
+"Tracking Politician’s Records on Propositions of and Votes for Bills
+
+(Posting for a friend)
+
+Hello all,
+
+ 
+
+We are a group of computer science students that can’t protest for different reasons (for instance, I live with someone who is immunocompromised and so can’t risk contracting coronavirus).
+
+ 
+
+We have been donating to some organizations, signing petitions, and educating ourselves about systemic racism in the US. However, we want to use our expertise to do more.
+
+ 
+
+Here, we present an idea and ask Reddit to help us determine if it’s useful and its potential flaws. We emphasize that we just want to help, so if you know of something we could do that could help more, please let us know.
+
+ 
+
+ 
+
+**The Idea**
+
+ 
+
+We want to find bills and acts that support ending police brutality (and perhaps divide these bills into different categories, such as the 10 categories defined [here](https://www.joincampaignzero.org/solutions#solutionsoverview) ) and display the voting records of house representatives and senators on those bills.
+
+We could make this data open-source and provide visualizations for the data, allowing other websites to use it as they see fit.
+
+ 
+
+Hopefully, this could better inform voters about what real action politicians have taken in support of the BLM movement.
+
+ 
+
+We could do this in the following steps:
+
+1.         Aggregate voting data for house representatives and senators in a JSON file and post publicly on Github
+
+2.         Have humans look over bills and try to determine if they support one of the 10 causes given in the link above. (This would be subjective, so we would need to be careful; we know some legal experts willing to lend help, though). Create a list of bills and acts for each cause.
+
+3.         Using the JSON data and the lists of bills and acts, create some visualizations or tables that make it easy to see which politicans voted for which bills and to what degree they support ending police brutality.
+
+ 
+
+At the very least, an easy-to-use JSON file with voting histories of candidates would be useful (we think).
+
+ 
+
+**Potential Issues**
+
+ 
+
+Any data we obtain from Step 2 would have to be treated with extreme caution given: A) the subjectivity of determining whether or not a bill supports a cause and B) that voting for a bill which supports one issue does not imply that the voter cares about that issue (they may have voted for the bill because of another issue, and may feel indifferent about or oppose the issue in question)
+
+ 
+
+ 
+
+**Questions for the Reader**
+
+ 
+
+1.         Does something similar already exist (perhaps I missed it)?
+
+2.         Does this seem helpful?
+
+3.         Are there any improvements you suggest?
+
+4.         Are there any other projects or ideas you have that people with computer science experience or legal expertise could help with?",education_career,AI pre-labeled; checked
+"Should you add “credits” to personal portfolio project?
+
+Currently creating a project with a GUI. In the GUI I am contemplating whether or not to add a small credits section that just says created by me. This project is for my personal portfolio but also for anyone who chooses to download it on my public GitHub. Does it come off as narcissistic to add a credit section like this in the menu?",technical_questions,AI pre-labeled; checked
+"Pros and cons of Functional Programming (OCaml)
+
+I'm studying OCaml for a course and I already read something but I would like to know which are the main pros and cons of Functional Programming.
+
+If I have to do something, why I should use Scala, OCaml (or other Functional languages) instead of C, C++, Java...?
+
+Because, I hear a lots of people talking about C, C# ( for Mobile Computing ), C++ for video games, PHP, Java...But almost no one talks about Scala or OCaml, I would understand why and maybe if they should be used somewhere but other languages are used ( like : Java is used a lot here but OCaml, Scala would be better).",technical_questions,AI pre-labeled; checked
+"Any tips on how to maximize my income when I graduate?
+
+I enjoy comp science plan to be a software engineer I know it depends on location but ( I live in Washington DC) I was wondering if their is anything I can do to make a salary above 110k  after undergrad. I know I might be unrealistic but I’m not looking for anything I was just curious if it was possible. I have people I have to take care of when I graduate so I was curious if anything could get me their when I graduate undergrad. I’m going in my sophomore year at college, thanks.",education_career,AI pre-labeled; checked
+"Why is c++ taught in University?
+
+Hey so I'm learning JS and I have a fairly good grasp of the basics, however, my dad, (who is a senior software developer) said that I should learn C++ first. So I did a quick search and I found out the school I'm gonna be enrolling in for shs teaches C++ in their programming club (which I'm going to join). Anw point being, should I listen to ny dad's advice and take up C++ and take a break from JS for a while? Also, why is it still being taught in Computer Science degrees when languages like Javascript and Python are more widely used? Thanksss
+
+Reposting here because there are more people in this subreddit.",education_career,AI pre-labeled; checked
+"Can a program be perfectly parallelizable?
+
+I was reading about Amdahl's law, and then I read that for realistic workload, the parallel fraction is not perfectly parallelizable. Why?",technical_questions,AI pre-labeled; checked
+"How do you ""full stack"" developers do it?
+
+So I'm a third year Computer Science student trying to find internships and one of the internships I applied to wanted me to make an appointment booking app using the MERN stack. I've followed along a dozen tutorials and definitely got some barebones type of website running, but I've learnt literally nothing doing it. Just mindlessly copying steps and tweaking a few lines here and there.   
+
+
+I've done desktop and Android app development before this and made some really decent stuff and whenever I followed online tutorials for those platforms I felt like I was learning a lot. I always thought that native app development would be harder than web development because they it's closer to the hardware, but honestly this ""full stack"" thing is insane. So many folders, files, terminologies, dependencies, etc.   
+
+
+How do you guys do it? Are you compensated well or has it just become a norm in the industry that's crushing employees?",education_career,AI pre-labeled; checked
+"As a 1st year CS student what would you recommend doing to become better(and make my CV have more in it)
+
+As you all know, there’s a lot of competition regarding finding your first job and moving forward after finishing your degree, so I’m really interested in expending my knowledge but I do not know what would really help me industry-wise. 
+
+I mean, what should I do? Learn more programming languages? Improve my data structure knowledge? What would have a direct impact on my progression as an employee.",education_career,AI pre-labeled; checked
+"How much did/do you guys make straight out of undergrad?
+
+I’m trying to be a software engineer and was curious I live in DC and Planned to do an internship at the nsa as well thanks not sure if I want federal or not let me know!!!!",education_career,AI pre-labeled; checked
+"What are the issue faced by Software Developer on introducing Dark Mode?
+
+Facebook, Instagram, Whatsapp, Reddit and so 
+took way long to introduce dark mode.
+To a normal person it might look changing background and text color from white to black.
+But if so was the case, It would take few minutes to achieve that. Still here we are even after 12 years, Stack overflow does not have a dark mode.
+I am interested to know what it takes to introduce it!",education_career,AI pre-labeled; checked
+"What are some things you love and hate about different programming languages, and what do you wish some programming languages would incorporate?
+
+Hey guys, I have decided to take on the endeavor of creating a programming language and writing my own compiler (I would refer to this [book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools#Second_edition) if you want to as well). I'm really just doing this as a personal project to improve my skills, and really just because I want to see if I can do it.
+
+I would love to hear different opinions about what you think should or should not be incorporated in different programming languages. If someone leaves a comment saying that 'X' is awful, and no language should ever use it, but you think that 'X' is lovely and is quite useful, please, reply to their comment *respectfully* and give your opinion on the subject.
+
+Here are a few things I think I would like to see incorporated in more languages (and maybe I will try to incorporate them in my own language):
+
+* Unary '+' operator. Similar to the unary '-' operator, which just negates a number (like -2). But this operator would efficiently return the absolute value of negative numbers (but no regard to the efficiency of returning the absolute value of already positive numbers). 
+* Range of numbers (such as 0..9 would be integers from 0 to 9). One possible application of this could be in switch statements (like case 0..9: for instance). See [here](https://www.geeksforgeeks.org/using-range-switch-case-cc/).
+* Identity operator. Essentially the '===' in JavaScript, which compares the value as well as the type. See [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators#Equality_operators).
+* Varargs. Functions with a variable amount of arguments. Such as in Java. See [here](https://www.geeksforgeeks.org/variable-arguments-varargs-in-java/).
+
+If you disagree with anything I have listed above, feel free to comment your thoughts about it. Although my list is mostly adding operators and other symbols that have meaning, this discussion is open to any and everything about programming languages! Feel free to discuss syntax, semantics, anything!",technical_questions,AI pre-labeled; checked
+"Where do u guys see computers go in the future
+
+So i’m a pretty big computer fanatic. Like besides basketball, hanging out, and robotics I just love seeing what i can do with code. My question is that where do u guys see computers going in the future. In the 20th century apple and pixar made computers an artistic medium and now i think that we have a chance to actively shape where computers can go next. So where do u think computers will go next?",technical_questions,AI pre-labeled; checked
+"How to write a symbolic microprogram for the fetch cycle?
+
+the microinstruction for fetch cycle is like this-:
+
+MAR<-PC
+
+MBR<-Mem(data)
+
+IR<-MBR
+
+but how do i write in symbolic microprogram? I can show the book example, if anyone needs it. But, that won't really add value to this question, so I am not posting this(Ref-: Mano COA book).",education_career,AI pre-labeled; checked
+"Need Help in starting with computer vision.
+
+**Hello, Redditors!**
+
+**I am considering stepping into computer vision. I am interested in blurring techniques & object segmentation, but I don't know where to start fundamentally. There is much advice present on the web, and I don't want to get lost in some laundry list. I have already installed OpenCV on my system and I need your guidance to finally kickstart a journey in this area. My goal is to understand and design various computer vision models and even write a paper related to blurring or object segmentation.** 
+
+**Your help will mean A LOT to me. I can't wait to read what you have to say!**",education_career,AI pre-labeled; checked
+"Will coding ever fall into obsolescence?
+
+In the perspective of AI, it seems we can say that programmers will be necessary until the computer can program itself, therefore catching up to its deficiencies through learning/training.
+
+However, another danger to CS is NLP. If we abstract language design so perfectly (and to the needs of society) that it surpasses the need for programmers to close the gap between a client's needs and the limitations of a given language (yes, I know that skilled programmers can create beautiful abstractions of logic to handle lots of functionality, however, I am assuming that there is an upper bound on human intellect at any given time when operating from the perspective of a programmer), then there would be no market for coders anymore (just as in the case with AI).
+
+I believe the latter case will happen in some way, way before the emergence of the singularity.",technical_questions,AI pre-labeled; checked
+"Explain parsers to me please intuitively
+
+How they work. I understand FSM and regex that's it",technical_questions,AI pre-labeled; checked
+"What is Java good at?
+
+I have a lot of experience using Python, and some experience with C and C++.  I am currently taking a course in Java, but I am wondering what Java is particularly useful for.
+
+I'm not doubting the benefit in knowing a variety of languages, but I am wondering when I would chose to write a program in Java as opposed to Python, C, or C++.",education_career,AI pre-labeled; checked
+"In your opinion, what are some of the most exciting non-academic fields of computer science?
+
+looking at the subject of most ""CS"" subs, you'd think the only jobs out there are front-end webdev, probably due to the low barrier of entry, and ML and NLP research, cause they're huge emerging fields. 
+
+I'm curious about other CS jobs out there that are underrated or rarely discussed on reddit",education_career,AI pre-labeled; checked
+"Continuous Machine Learning (CML): CI/CD for Machine Learning Projects
+
+[CML (Continuous Machine Learning)](https://cml.dev/) is a new open-source product that covers the gap between CI/CD and machine learnging: [New Release: Continuous Machine Learning (CML) is CI/CD for ML](https://dvc.org/blog/cml-release) (full article about the release)
+
+1. 📊 Visual reports with metrics and graphs. Show the report in Pull Requests.
+2. 💾 Transfer data files in your CI runners using our DVC -Data Version Control.
+3. ⚡ Helps with cloud CPU/GPU (AWS, Azure, GCP, Ali)
+
+All of this work on top of the established software engineering stack: Git, GitHub Actions or GitLab CI/CD, Cloud storage (S3, GCP, Azure, SSH, etc) and cloud instances.",education_career,AI pre-labeled; checked
+"At what point is it acceptable to bow down
+
+I read a lot of posts on here about ""I am 40 years old, am I too old"" or ""I struggled in intro programming class, should I change majors"" on here. They are interesting to read because everyone has a different reason to think they aren't good enough for CompSci. My University had 2 introduction to Computer Science courses every student in the major were required to take. I thrived and did fine in the first one, but I struggled like no other in the second one, and barely got a B. That was my ""I wonder..."" moment, but then I realized everyone struggles and to just move on.
+
+But there has to be a point where someone needs to seriously consider changing majors. I have 2 friends that are like that. One thankfully did change majors, but the other is struggling. He's on his 3rd major, and me and our friend group do half of his homework and tests, because he doesn't understand (we also spend 10+ hours tutoring him weekly and walking him through how to complete assingments), but he legitimately tries and works and we can all see the frustration in his face. I cannot honestly say that he should stay in the major. Some people here, I read, and I wonder if there is more to the story. It's great that the community is always ""you can do it"" and ""here are some resources..."" because we need that support.  But at what point does ""everyone struggles"" become ""maybe you should reconsider?""",education_career,AI pre-labeled; checked
+"Want to design Adaptive GRE exam system. What should be my system design and which components should I ise
+
+One of my friends is pursuing undergrad in CS and i suggested her to build this system. She has 2 semesters i.e. 1 year to finish this final year project. The Graduate Record Examinations (GRE) is a standardized test that is an admissions requirement for many graduate schools in the United States and Canada. GRE exam is designed in a way such that if you keep on giving right answers, you will keep on getting tough questions. If not, then you’ll be getting medium or easy questions. Its not that you keep on getting tougher and tougher questions, there’s a limit. A lot of students really get 170/170 in quantitative, but in verbal, it is even difficult to get 155+/170. They have 3 types of sections: Awa, verbal and quantitative. I wanted to know what should be my system design and why if I wanted to design such system? For learning purpose. I suggested her below things:
+
+Things to use
+1. Containerization - Docker
+2. Back End - any Java framework
+3. Front End - ReactJS
+4. HTML 5 and CSS 3 or newer
+
+What do you guys think?",education_career,AI pre-labeled; checked
+"Could a Huragok be built in real life?
+
+Now a Huragok from Halo is best described as a ""biological super computer"". They're super advanced machines made biological material. They are sentient and quite intelligent, able to repair and enhance and technology they come across. 
+
+
+
+Now their names follow a certain pattern. Huragok name examples include:
+
+
+Lighter than some
+
+Far too heavy 
+
+Easy to adjust
+
+Prone to drift
+
+
+
+Now they're constantly floating around with air bladders filled with methane like living balloons. And each Huragok is named after their floating ability. 
+
+
+As for sensors and manipulators, they have four tentacle limbs and a flat broad tail. As well as a long narrow neck with 6 small black eyes .
+
+
+Communication is done by whistling and clicking 
+
+
+
+Odly enough, Huragok can also upload data from computers and other tech into their own bodies",technical_questions,AI pre-labeled; checked
+"Death of Moore's law?
+
+I don't know if this question has been asked here... I hope not. 
+So assuming Moore's law does become obsolete in the coming years what other options do we have when it comes to increasing processing power or probably is there some other type of system of computing like let's say quantum computing? I just want to know more about this. :)",technical_questions,AI pre-labeled; checked
+"What inspired you to go into computer science?
+
+For me, I was inspired by Michael Reeves and his multiple creations. After seeing a few of his creations I decided to try my hand at making my own stupid and useless creation which is a program to find the first 1,000 digits of pi and every time 69 shows up it prints nice and counts how many times it prints nice.",technical_questions,AI pre-labeled; checked
+"I feel like I learned nothing in my Algorithms course
+
+I’m sure everyone with a CS degree knows this class (maybe it had a slightly different name). I hear people constantly talk about how important it is, but I don’t feel like I walked out with useful knowledge. The main thing I remember learning is graph stuff like Prim’s, Kruskal’s, etc. Like how often does a software engineer need to draw out an MST on pencil and paper ?? I had to take calc 2 and discrete math (3 total semesters), but what was the point of all this? I got an A in the class btw lol
+
+To be fair, the later part of the course got kinda butchered due to online learning and my professor being old and incoherent. 
+
+Basically I’m asking, is this class really as important as people say? Is the concrete knowledge important, or was this class just supposed to be brain exercises?
+
+Am I screwed for learning nothing? I just wanna make money as a developer/engineer lol",education_career,AI pre-labeled; checked
+"Can files be damaged by zipping?
+
+What if you have data in a database and you zip the entire database? Will the data be corrupted upon extraction? And why?
+
+Is zipping always safe in terms of file integrity?",technical_questions,AI pre-labeled; checked
+"Software Engineering a SaaS product with one db tenant or multiple db environments?
+
+Outsider to the software engineering discipline, which is why my question sounds odd, but here's the scenario:
+
+CTO built our SaaS product where each new customer is given their own db (not a tenant of a much larger db environment but a stand alone db). Being the analytics guy that I am, I'm wanting to gain insight for each of these databases and the activities of our customers - CTO says that's almost impossible because of *how many* dbs there are -
+
+Is this poor design? If not, how do other companies carry out this aggregation effort without risking prod failure?",technical_questions,AI pre-labeled; checked
+"Can't think of anything interesting to make
+
+I want to practice my skills. To be honest, I haven't been putting in enough time into coding recently, and I really need to start to make stuff to build a portfolio to get a job. It seems like everything has already been made, and the idea of recreating an app that already exists bores me. I have other hobbies like 3D modelling, animation, sculpting, and 2D art/animation. That stuff is more rewarding because I can come up with new things all the time and it won't take me long to make it. With coding, I could make a messenger application on the internet, but there's already a thousand other apps like it with way more features and it's not like anyone will use it. I also thought of automating some parts of my life, I made a few discord bots that were rewarding because I was able to see my friends using it and having fun with it, but I feel like I should be coding something more advanced as a CS student.
+
+That was my short rant complaining. Has anyone felt like this? How do I overcome it, what do I make, I want to feel excited about making projects again and make useful software that others will use.",education_career,AI pre-labeled; checked
+"Best programming language
+
+According to you which is the best programming language and comment why you love it .
+
+[View Poll](https://www.reddit.com/poll/gngzf1)",technical_questions,AI pre-labeled; checked
+"Why do you need physics?
+
+Hi! Just a passerby here with a question!
+
+So, I noticed that a lot of computer science degrees require advanced physics. Why is that? 
+
+I mean, I get that other engineering degrees like mechanical or civil actually use physics in their work. But computer science?? Do you actually use physics?
+
+Thanks, and happy quarantine!!",education_career,AI pre-labeled; checked
+"Contact-Tracing and Homomorphic Encryption
+
+Recently, with all the talk of using contact-tracing apps for handling COVID-19 cases, there has been the debate of centralised versus decentralised approaches.
+
+The main argument against a centralised approach is the data privacy concerns, and the main argument for is the reduced computational strain on distributed devices.
+
+However, I haven't seen anywhere mentioning [homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption) schemes for leveraging centralised compute while maintaining privacy. I don't know much about this - I've only been to a talk that suggested this was a way for researchers to deal with similar problems in bioinformatics. 
+
+What am I missing here?",technical_questions,AI pre-labeled; checked
+"What are some interesting facts/stories related to Computer Science that someone who isn’t interested in CS would like?
+
+I have an Arabic youtube channel and I live discussing things related to CS. I do not want to get too technical into CS with videos explaining some core CS concepts, rather, some fun stories or interesting things so that it makes a bystander who knows nothing about CS, interested in CS. 
+
+The way I like to do videos is that if lets say I wanted to explain what an algorithm is. It would be extremely boring for a person who isn’t interested in CS to watch a video titled “what is an algorithm”. However, if I figure out a problem that everyone is facing, think of a very relatable story so as to attract the average person. Then I would sneak in the importance of algorithms, what they are etc at the end of the video. 
+
+This is a great way to share CS related topics with everyone at all ages. 
+
+My problem is: I want so titles and stories that I can link up to some core concepts as a hook intro into those type of videos. Would you guys mind sharing some of the most interesting CS stories you know?",technical_questions,AI pre-labeled; checked
+"Good literature on CS
+
+Looking for some good reads and informal books on computer science and the basics behind it as i am studying it in September at university.",education_career,AI pre-labeled; checked
+"Noobs city
+
+Are you new to cs?
+
+[View Poll](https://www.reddit.com/poll/he160r)",technical_questions,AI pre-labeled; checked
+"CS Software engineer Salaries
+
+Is there any conceivable reality where you can end up poor having a bachelor of CS and having adequate savings skills? Is it at all a hit and miss field, from what i gather the job security in our sector is very stable. Just wondering whether the information matches reality. Thanks team.",education_career,AI pre-labeled; checked
+"What makes OOP such an important programming paradigm in the SWE world?
+
+I often hear that having a grasp of OO is extremely important when moving into a SWE career. 
+
+My understanding is that OO languages are fairly ubiquitous. They also make creating software a lot more manageable, among other positive qualities. 
+
+Does this mean OO is considered better than other paradigms? If so, why?  
+
+Is OO knowledge considered a more important skill than knowledge of functional or procedural languages?",technical_questions,AI pre-labeled; checked
+"Suitable algorithm for a graph theory problem
+
+What is my problem:
+I have a complete graph with an even number of nodes, also with weighted edges. Is there an algorithm to help me split this graph in two, in such way that: 1) the resulting graphs have an equal number of nodes and 2) the sums of weights from the resulting graphs to be as close as possible?
+
+A little bit of context about this:
+I want to design an application for my friend to make fair teams. Each node represents a player and the weight of edges represents how many rounds have 2 players won together (can be 0 if they haven't played yet, can be negative if they have more losses than wins). The resulting 2 graphs will represent the 2 teams that will play in the current round.
+
+Also, if this is not a feasible to do the way I wanted, is there another approach to this problem?
+
+P.S. this might be wrongly or confusingly expressed since I'm not familiar with English terms regarding graph theory, if there's something that can be clarified in the post, let me known",technical_questions,AI pre-labeled; checked
+"Is Competitive Programming going to help me if I wish to become software engineer/data scientist ?
+
+What's up guys. I'm a beginner(High schl graduate) and just learn the basic of c++. I have always heard that people suggest me to do my own projects as its one of the best way to improve.
+
+However I find that I'm less interested in project(in fact, I have no idea what project should I start with yet) but I found myself really interested in solving questions on code forces or hacker rank. And I can choose my own level problem to solve.
+
+Is it a waste of time? I simply like the feeling of searching online and figure out the solution myself. But I don't know whether this will help my future career or not.
+
+I want to be software engineer/data scientist in the future.
+
+Any idea? Let me know down below in the comment section!",technical_questions,AI pre-labeled; checked
+"How to go from making a 2d game in Java to a 3d game?
+
+I know how to make a 2d game in java, I have made several, including some simple ones like snake, and some more advanced ones, but I was wondering how you go from 2d to 3d programming, any articles, or videos explaining how?",technical_questions,AI pre-labeled; checked
+"What is required of an entry level java developer?
+
+Good morning, I just wanted to ask what the skill set looks like for an someone seeking an entry level job as a java developer. I’m basically trying to see how I measure up.",education_career,AI pre-labeled; checked
+"Getting into backend dev
+
+After going through a many job listing and ignoring front end dev, I notice that a majority of the listing are looking backend devs (with a specialty in .NET). So, I was wondering what are some efficient ways of learning backend dev so that I can meet these jobs' listing? I feel like it's a whole different field from what I'm familiar with (building actual software), so it's kinda intimidating.",education_career,AI pre-labeled; checked
+"Will It Be Easier To Learn C++ Having Already Learned Java?
+
+^",education_career,AI pre-labeled; checked
+"Is calculus useful?
+
+Hi,
+I am a first year student of computer science in the University of Aveiro. As many of you (I would imagine) I am having online classes. Since it's at home, I have more time to study each class, and I am beginning to ask myself that calculus isn't useful. I can't see any use to it in my course and asked my colleagues and they said the same thing.
+
+But when I asked a friend of mine, different course, about the same thing he said that he thought the same but after asking reddit he was baffled by the amount of things it was used. So here I am, hoping to find out if calculus is useful for my future professional life, or if it's more of a filler. 
+
+Hope you are all doing well.",education_career,AI pre-labeled; checked
+"The tech field is not worth it
+
+Is the tech industry really worthy it?
+
+I watched a real-estate TV show based upon the selling of million dollar California mansions, one of their clients was a tech executive who was looking to buy a $40,000,000 home in the holly wood hills and looked no older than the age of 26. 
+
+I started thinking about how this very young man has truly made it in the tech industry but I often hear about how a lot of these CS people often do make 6 figure salaries but also live in 6 figure cities so essentially they are still living fairly average lives because their expenses cancel out their income in many ways.
+
+Do you guys feel like the only true way to make it now a days is to develop something new? Because I feel like I can speak for many of us- our first few projects were small apps or websites, but how relevant is that at all when we are one out of a million people doing the same thing?
+
+Surely a lot of people have similar capabilities so I just find it very stressful to think that this industry will soon have an imbalance of high salary professionals, and all the other positions will be lower income because of the vast variety of people entering the tech field. 
+
+What are your thoughts?",education_career,AI pre-labeled; checked
+"Applications of linear algebra in computer science
+
+Hi, I wanted to ask if any of you found yourself using Linear Algebra so solve a discrete issue or know of any modern CS breakthroughs made in part thanks to linear algebra. I've been doing some digging (mostly for a class) and found that its used in ""quantum algorithms"" and NASA deep space satellite error correcting codes. I was wondering if there were any other examples you all knew of.",technical_questions,AI pre-labeled; checked
+"Do/did you regret your degree? Why or why not?
+
+How has your degree turned out for you? Was it useful? What are you foing now?",education_career,AI pre-labeled; checked
+"Memorize an Image Problem
+
+I call this the “Memorize an Image” problem. How do you compress an image to as few characters as possible using some computer algorithm?
+
+I enjoy memorizing. The longest string of text I have memorized is from the book of Proverbs which is upwards of around 80,000 characters.
+
+I started to jokingly think, “What would it take to memorize an image?” Ideally you would convert each pixel to a hexadecimal value. So if you’re dealing with an 800x600 image, that would be a total of 480,000 pixels. Multiply that by 6 since we’re dealing with hexadecimal values (7 if you include the ‘#’ character), and now we have a string of almost 3,000,000 characters representing an image. 
+
+Now we want to compress that string to as few characters as possible making it easier, and within reach, to memorize an image. Is that possible? LOL 😂",technical_questions,AI pre-labeled; checked
+"The AP test
+
+How did you guys feel about the AP test for computer science? I know that I hated the fact that it was only two questions with barely any time to provide legible code that could possibly do anything. I am fairly confident that I failed the exam despite my ability to write effective code. The questions seemed as if they were trying to ensure the students are confused about what the objective could possibly have been. If they had just given me a prompt like ""write the code to a class that is meant to run through an array and return the smallest value in the array"" but no. Instead they wanted us to kind of guess what they wanted. I know it's been a while since the test, but it has been eating away at me for a while, and I just wanted to get your opinions.",technical_questions,AI pre-labeled; checked
+"What really is the problem with sensor fusion in robotics and autonomous vehicles?
+
+I’m a CS student and becoming involved in robotics. It is commonly said that the hardest problem in autonomous vehicles and robotics in general is sensor fusion. But it seems like companies like Waymo have this figured out, so what is the problem with this exactly that we’re trying to solve?",education_career,AI pre-labeled; checked
+"How large do the 2 prime numbers have to be for RSA encryption have to be to make it unfeasible for hackers to ever discover them?
+
+https://en.wikipedia.org/wiki/RSA_problem
+
+I want to write a computer program that can break RSA encryption in a few minutes, and I have no idea if I need to choose a 50-digit prime number or if that's in the completely wrong ballpark and I should choose a 20-digit prime number?",technical_questions,AI pre-labeled; checked
+"ProctorU beef and potential security risks questions
+
+Hi I'm a college student who recently had to go through the hell of using ProctorU, after the wonderful experience of... 1. Downgrading my browser from Brave to Chrome to get Flash to work even though Flash has been essentially dead for more than half my life. 2. Having to install their remote access software. 3. Having to watch dreadfully as an idiot I don't know fumbles with my browser permissions while I sit and watch for the better part of 20 minutes before being transferred to their Proctor customer service before being told 10 minutes later that I would need to ask for help in the Test Taker customer service chat. I then got what I assume to be put in the ""fuck off here's another bot"" room for 40 minutes before just giving up. Through this whole ordeal there was a lot that stuck out to me. They asked for my Driver's License for photo ID instead of my school issued ID, They sent multiple requests for remote takeover when I denied them escalating privileges on my computer to install what they told me was another browser plug-in. And I probably sound kooky but after all these events I went back to try to remove any personal data from my profile such as Address and Phone number and saw that they also automatically applied the screenshot I took of my face earlier to my account profile which I couldn't have access to remove. All in all pretty shit experience and wondering if anyone else had any horror stories to tell.
+
+To add onto that how much security vulnerabilities would you say you've picked up on software related and not? Probably the biggest red flag to me is Flash.
+
+&#x200B;
+
+&#x200B;
+
+TL;DR.     REEEEE HOW DARE THEY MAKE ME WAIT, ProctorU seems scummy and vulnerable to malicious activities.",education_career,AI pre-labeled; checked
+"I just completed foobar lvl 3 and submitted my information.
+
+My 3rd problem (doomsday fuel) was insanely hard and had to do with absorbing markov chains. I looked at other problems that people have gotten and this was much harder. 150 lines as opposed to 30-40. Has anyone else gotten this problem? What did you think of it difficulty wise? I had to copy the code for matrix inversion from stack overflow, I'm hoping that wont count against me.",technical_questions,AI pre-labeled; checked
+"degree program
+
+Anyone here familiar with the degree of Bachelor of science in mathematics with specialization in computer science? any thoughts about this program. im still confuse to take this program",education_career,AI pre-labeled; checked
+"Weird time complexity evaluation
+
+Hi guys, i am currently solving problems on project euler, and for one of the questions i came up with a solution that has a weird time complexity:
+For a given n, i have a part in my algorithm that its time is the number of unique prime factors of n. I bounded it with logn: because when replacing all prime factors with 2 this is what we get, but i feel like this is very inaccurate.
+Can you think of another, more accurate function to describe this time complexity?",technical_questions,AI pre-labeled; checked
+"CS college student looking for project ideas
+
+Hello all!
+I am currently finishing up my first year of CS courses at a CC in northern Cal. I’m looking to begin out of class projects to start building my resume, but mainly for overall practice. Was wondering if anyone had any good ideas, topics or experiences they’d like to share. What type of projects would look best on resumes? How have projects, or lack of projects, affected your internship and job opportunities? 
+
+Much appreciated!",education_career,AI pre-labeled; checked
+"Let's Talk About Thunderbolt 3
+
+\*\*Now, as a disclaimer, I'm fairly new to computer knowledge in itself\*\*
+
+Anyways, I keep scrolling online seeing posts like, ""turning an ordinary laptop into a full-fledge machine,"" or ""how to turn your old laptop from 2008 into a modern-day gaming PC."" And they all seem to be linked to this one device, Thunderbolt 3.
+
+Now, after watching a couple of videos and some pretty lengthy research, I feel like I still don't know what it does or how it enhances laptop functionality.
+
+Can someone please explain it to me in the simplest way possible?  Maybe I'm just slow or just stupid in general, but your boy needs some help :/",technical_questions,AI pre-labeled; checked
+"Do you have any favourite conferences?
+
+I especially would like to know some that are related to AI/ML that are not overly complicated as I am only a CS grad and looking to do AI MSc. I'm interested in many other topics too to past time through covid",technical_questions,AI pre-labeled; checked
+"Why does most people feel the 'Impostor Syndrome' whenever it comes to programming?
+
+I AM NOT A PROGRAMMER, at least not yet
+
+But this is something I see quite often when it comes to technical people. 
+
+Why is that?
+Why do people doubt themselves so much?
+Is it true that you are an impostor or just negative thoughts in your head?
+
+What's your experience?
+How did you handle it?
+
+I want to be great in the future but I would love to have some insight from the pros like the people in this forum
+
+Please and thank you
+
+And btw if no one has told you otherwise. You are amazing at what you do. Don't surrender just yet.
+Have an awesome day.",technical_questions,AI pre-labeled; checked
+"Starting a computer science/STEM club at a high school: ideas?
+
+I'm a high school student looking to start a club next school year that's all about computer science and math. I'm from a medium-sized high school without many CS resources aside from some Java courses and I'd like to get more people interested in the field and into more practical coding.
+
+I'm not extremely experienced with coordinating clubs and activities, but I'm really passionate about teaching and computer science. Just was looking for some guidance on format and content for the club. With my experience, I'm currently thinking:
+
+- Introduction to creating websites with plain JavaScript, HTML, CSS (possibly getting into some frameworks?)
+- Understanding how the internet works (from 1s and 0s to packets to webpages)
+- Building clones of popular websites such as Instagram to demonstrate APIs, backends and databases
+- Creating apps with Swift, React Native, etc.
+- Introduction to machine learning (foundational things such as regression, gradient descent, what neural networks are, iterative learning) with concrete projects
+- Scripting and web-scraping with Python to automate certain tasks
+- Introducing how to use git, the command line, GitHub
+- Presentations of people's side projects
+
+I haven't done anything really with robotics or microcontrollers such as Arduinos but that's also something I'm looking at. There's definitely an audience for this type of club, since I have many friends who want a more practical perspective instead of their Java projects for school. But I'm also looking for some guidance on how to welcome newcomers as well.
+
+I was thinking of maybe structuring these as lessons (with possibly rotating teachers?) and since everyone at my school has provided computers, they could follow along though some restrictions may apply. And since these lessons will take time to develop so I was thinking of maybe inspersing sessions with meetings where students can come in and ask for CS help, math help or anything science related. Any thoughts on other curricula or how I should approach these ""lessons"" or comments on format?",education_career,AI pre-labeled; checked
+"Procedural vs. Object Oriented
+
+I’ve been wanting learn C for awhile now, but I have been working with more modern OO languages (Java and Python) recently. I’m not too familiar to the procedural paradigm, but I know C is a cornerstone and I would love to work with it in the coming weeks. I plan on purchasing the classic K&R book to study through, but my main question is, what is the learning curve between learning procedural if I only know object oriented programming? I know there is a big emphasis on DS&A in procedural, but when in doubt, I’ve always had the luxury of creating an object that does exactly what I need. Is that something that’s easy to overcome?",education_career,AI pre-labeled; checked
+"Is this equation completely useless for computing? (c^2-b^2- a^2):(b*a)=
+
+Hi people,
+
+Can this equation be used for computing (for fastening some things)? If you maybe see how, please feel free to tell? It has been tested for checking sums vs normal way and it performs slower than normal way. Maybe something different can be done with this equation. Do you see any other link? That is why I am here (I do not have computing science background). Feel free to share thoughts. What type of equations do you think can be done quicker with help of this equation (I got some at example #5 at the bottom - any good?)? If any?
+
+This is the equation:  **(c²-b²- a²):(b\*a)=**
+
+*This equation tells us:*
+
+\-If  sum of any two numbers (and which ones) is 3rd number? If this type or  relationship is possible between 3 numbers (equation tells us how to  arrange numbers)?
+
+\-if b=a\*2 and  c=b\*2 (or if there is any relationship between numbers by any other  multiplier)? If this type or relationship is possible between 3 numbers  (equation tells us how to arrange numbers)?
+
+\- if it is possible to make triangle out of 3 numbers?
+
+\_\_\_
+
+Here it is. We have:
+
+a,b,c
+
+a,b,c are any possible positive numbers
+
+We use this equation (we do not need to rearrange numbers):
+
+**(c²-b²- a²):(b\*a)=**
+
+If:
+
+\_\_\_
+
+\- result is **2**, than a+b=c and b+a=c
+
+Proof:
+
+If a+b=c; than c²=a²+2ab+b², so
+
+Equation is: **(c²-b²- a²):(b\*a)=**
+
+= (a²+2ab+b²-b²-a²):(b\*a)=2ab:(b\*a)=2
+
+\_\_\_
+
+\- result is **-2**,  than a+b (or b+a) is not c. But, if we take bigger number of a and b  and we swap it with c, than we will get correct result (for example:a is  bigger than b, than:a+b=c is not true; but c+b=a is true (and b+c=a  true also)).
+
+Proof:
+
+If a-b=c or(not and) b-a=c; than c²=a²-2ab+b², so
+
+Equation is: **(c²-b²- a²):(b\*a)=**
+
+= (a²-2ab+b²-b²-a²):(b\*a)=-2ab:(b\*a)=-2
+
+\_\_\_\_
+
+\- result is **between -2 and 2,** than numbers can form triangle.
+
+\_\_\_\_
+
+*Multiplier relationship (this can be done for every single multiplier, I only did it for 2\* multiplier)*
+
+\- result is **5,5** or -**3,25** or **2,375**, than we got \*2 multipliers
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+***Example #1:***
+
+a=2
+
+b=4
+
+c=6
+
+(c²-b²- a²):(b\*a)=2
+
+(6²-4²-2²):(4\*2)=
+
+=(36-16-4):8=
+
+=16:8=
+
+=2
+
+Because our result is **2**, we know that 2+4=6.
+
+\_\_\_
+
+***Example #2***
+
+a=2
+
+b=5
+
+c=3
+
+(c²-b²- a²):(b\*a)=
+
+(3²-5²-2²):(5\*2)=
+
+=(9-25-4):10=
+
+=(-20):10=
+
+=-2
+
+Because our result is **-2**,  we know that 2+5=3 is not correct. But if we take bigger number of a  and b and we swap it with c, than we will get correct result. In this  case we **swap** b and c (this means that equation:2+3=5 is correct).
+
+\_\_\_
+
+**Example #3**
+
+a=30
+
+b=40
+
+c=20
+
+(c²-b²- a²):(b\*a)=
+
+=(20\^2-40\^2-30\^2):(b\*a)
+
+=(-2100):1200=-1,75
+
+Because our result is between **-2 and 2**, we know that 30,40,20 can form **triangle**.
+
+\_\_\_
+
+**Example #4**
+
+a=2
+
+b=4
+
+c=8
+
+=(c²-b²- a²):(b\*a)=
+
+=(64-16-4):(8)=
+
+=44:8=5,5
+
+Because our result is between **5,5**, we know that we got **2x multipliers**.
+
+\_\_\_
+
+**Example #5 - Solving Simple Equation:**
+
+**Simple Random** **Equation: -2+squareroot(x)=squareroot(x-4)**
+
+a=-2
+
+b=squareroot(x)
+
+c=squareroot(x-4)
+
+a+b=c
+
+(c²-b²- a²):(b\*a)=2
+
+(x-4-x-4):(-2\*squareroot(x))=2
+
+(-8):(-2\*squareroot(x))=2
+
+4:(squareroot(x))=2
+
+4=2(squareroot(x))
+
+2=(squareroot(x))
+
+x=4
+
+\_\_\_\_
+
+Thank you for reading. Have a lovely day. Thoughts?",technical_questions,AI pre-labeled; checked
+"What is the definition of a primitive datatype?
+
+Is there a universal definition for a primitive datatype? 
+I know each language have their primitives and may vary from other languages. But is there a definition of what is a primitive datatype?",technical_questions,AI pre-labeled; checked
+"Programming books/material
+
+So I am very new to programming and have no knowledge. I am in the process of getting my CS degree and have not started any actual programming courses. I am not entirely sure what I want to get into as of yet. Was wondering if there are any good books or material to get started in.",education_career,AI pre-labeled; checked
+"Positive experiences with PhD/Masters?
+
+I've been strongly considering a PhD or Master's in CS. I'd love to hear any positive experiences during and after grad school.
+
+I'd appreciate it if you could tell me what you did your research on and how it has impacted you.
+
+Bit of me, I've taken most of the major CS courses like DS & A along with a math B.S.
+
+Thanks!",education_career,AI pre-labeled; checked
+"A language is a skill, a framework is not
+
+Learning/mastering a programming language takes time and can be labelled as a skill.But, knowing/working with a framework/package is not a skill.
+
+Give me your opinion.",education_career,AI pre-labeled; checked
+"Covid-19 Forecasting using SIER Model
+
+Recently I came across a paper https://arxiv.org/abs/2004.08842. 
+
+Predictability: Can the turning point and end of an expanding epidemic be precisely forecast?
+
+l totally agree, SIER Model is not fit for forecasting total number of cases , death.
+
+I am further interested in what other option we have for forecasting. LSTM, ARIMA seems too risky for these jobs.
+
+Should epidemologist come with an entire new model?",education_career,AI pre-labeled; checked
+"Is the human brain a Turning machine?
+
+If we ignore spiritual beliefs, it seems intuitive that a human brain should in theory be a Turing machine where the electric impulses from the sensory neurons can be seen abstractly as a string of tape.
+
+Thoughts?",technical_questions,AI pre-labeled; checked
+"Will machine learning or AI eventually replace all jobs including software engineers?
+
+Opinion: How likely is it that Ai will take over even the most human jobs like programming?",education_career,AI pre-labeled; checked
