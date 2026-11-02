@@ -57,39 +57,41 @@ Actionable vs. unclear requests: Some posts clearly explain what kind of help th
 ---
 
 
+
 ## Label Taxonomy
 
-### `debugging`
+### `technical_questions`
 
-**Definition:** Posts that describe a specific Python coding problem, error, or unexpected behavior and ask for help fixing it.
-
-**Example 1:**
-> [Trying to learn python but keep getting error messages](https://www.reddit.com/r/learnpython/comments/1ust9q6/) - The author encounters a NameError and asks how to fix their code.
-
-**Example 2:**
-> [My code won't work and I don't know why](https://www.reddit.com/r/learnpython/comments/fl1uuk/) - The author describes a problem with a blackjack program and asks for help fixing it.
-
-### `learning_guidance`
-
-**Definition:** Posts that ask for advice about learning Python, including study plans, resources, and how to improve programming skills.
+**Definition:** Posts that ask for help understanding a specific computer science concept, solving a technical problem, or explaining how a programming or computing system works.
 
 **Example 1:**
-> [How do I start learning Python? Absolute Beginner](https://www.reddit.com/r/learnpython/comments/1rvp3z3/) - The author asks where to begin learning Python and how to practice.
+> [Has the format for email addresses changed after RFC 5322?](https://www.reddit.com/r/computerscience/comments/hg4vtl/) — The author asks about email formatting standards and how to correctly validate email addresses.
 
 **Example 2:**
-> [Total Beginner to programming who wants to learn](https://www.reddit.com/r/learnpython/comments/1izirwx/) - The author shares a learning roadmap and asks for feedback.
+> [Centralized vs Decentralized Networks](https://www.reddit.com/r/computerscience/comments/gxnkce/) — The author asks for help understanding and comparing technical properties of different network structures.
+
+### `education_career`
+
+**Definition:** Posts that ask for advice about learning computer science, choosing educational resources, developing skills, pursuing degrees, or preparing for careers in technology.
+
+**Example 1:**
+> [What to learn for cs?](https://www.reddit.com/r/computerscience/comments/hkco74/) — The author asks which computer science topics to study before starting college.
+
+**Example 2:**
+> [Java intermediate learner](https://www.reddit.com/r/computerscience/comments/h0ooev/) — The author discusses their programming experience and asks how to continue improving their Java skills.
 
 ### The hardest boundary
 
-**Which two labels:** `debugging` and `learning_guidance`
+**Which two labels:** `technical_questions` and `education_career`
 
-**Borderline post:** [Having a hard time learning python...](https://www.reddit.com/r/learnpython/comments/wihwd9/having_a_hard_time_learning_python/)
+**Borderline post:** [I'm a professional software engineer, but need help finding CS fundamentals resources](https://www.reddit.com/r/computerscience/comments/gili8e/)
 
-The author describes several coding errors encountered while following Python tutorials, but the post mainly discusses their struggles with learning Python. This makes it difficult to distinguish between debugging and learning guidance.
+The author is an experienced programmer who wants to improve their understanding of computer science fundamentals. Although the post discusses technical knowledge, the main request is for learning resources rather than an explanation of a specific technical problem.
 
 **The decision rule I used every time:**
 
-If the main purpose is to fix a specific coding error or unexpected behavior, I label it `debugging`. If the post mainly asks for advice about learning Python or overcoming difficulties with learning, I label it `learning_guidance`, even if it mentions coding errors.
+If the main purpose of a post is to understand or solve a specific technical problem, I label it `technical_questions`. If the main purpose is to seek advice about education, learning resources, skill development, or career preparation, I label it `education_career`, even if technical topics are mentioned.
+
 
 ---
 
