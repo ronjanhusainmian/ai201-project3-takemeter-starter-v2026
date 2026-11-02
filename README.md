@@ -181,26 +181,22 @@ Per-label counts in the test split:
 
 ## How I Used AI
 
-<!-- Two specific moments — what you asked, what came back, what you changed.
-
-     ⚠️ Plus disclosure of any pre-labelling. If you had a model pre-label a
-     batch and then read and corrected every one, say that. It's an allowed
-     workflow and disclosing it costs you nothing. Not disclosing it is the
-     problem. -->
-
 **Moment 1**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- **What I asked for:** I asked ChatGPT to clean and label a dataset of Reddit posts from r/computerscience from Kaggle.
+- **What came back:** ChatGPT provided Python code to clean the original Kaggle dataset, extract the relevant text and assign labels.
+- **What I changed:** I used the script to generate `labels.csv` and kept the two categories.
 
 **Moment 2**
 
-- *What I asked for:*
-- *What came back:*
-- *What I changed:*
+- **What I asked for:** I asked ChatGPT to help troubleshoot a Jupyter kernel crash that occurred when training my DistilBERT classifier.
+- **What came back:** ChatGPT suggested checking whether PyTorch and DistilBERT worked independently, then recommended changing the training configuration to reduce memory usage and avoid the crash.
+- **What I changed:** I switched training to the CPU and disabled pinned memory. After these changes, the model successfully completed three training epochs.
 
 **Pre-labelling disclosure:**
+
+I used AI-assisted Python code to pre-label the Reddit posts based on their titles and content. I labeled the first 20 myself, and made sure to check all the remaining AI-labeled ones.
+
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
