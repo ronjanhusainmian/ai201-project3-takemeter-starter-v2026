@@ -211,15 +211,17 @@ I used AI-assisted Python code to pre-label the Reddit posts based on their titl
      prints this table for you. -->
 
 | Measure | Baseline | Trained | Difference |
-|---|---|---|---|
-| Overall accuracy |  |  |  |
-| Macro F1 |  |  |  |
-| F1 — `label_one` |  |  |  |
-| F1 — `label_two` |  |  |  |
+|---|---|
+| Overall accuracy | 0.600 |
+| Macro F1 | 0.583 |
+| F1 — `education_career` | 0.500 |
+| F1 — `technical_questions` | 0.667 |
+
 
 **What I predicted before I looked:**
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
      prediction made afterwards isn't one. -->
+I expect the fine-tuned DistilBERT model to perform better overall because it was trained on posts from r/computerscience using my two labels. I expect the biggest improvement in education_career, where the baseline achieved a lower F1 score.
 
 **What the gap actually means:**
 <!-- If the baseline matched your trained model, your fine-tuning added
