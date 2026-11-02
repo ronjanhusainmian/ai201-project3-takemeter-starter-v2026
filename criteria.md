@@ -51,62 +51,44 @@ whether you hit them:
 
 ---
 
-## 1.
 
-<!-- Your criterion. It must name a number. -->
+## 1. Overall accuracy
 
+The model must achieve at least 70% accuracy on the held-out test set across all three random seeds.
 
-
-**Why this target:**
-
-
+**Why this target:** My classifier distinguishes between debugging questions and learning guidance posts in r/learnpython. Since there are only two labels, 70% is meaningfully better than the 50% expected from random guessing on balanced data, while accounting for posts that overlap between the categories.
 
 ---
 
-## 2.
+## 2. Per-label F1 score
 
-<!-- Your criterion. -->
+Both `debugging` and `learning_guidance` must achieve an F1 score of at least 0.60 on the held-out test set across all three seeds.
 
-
-
-**Why this target:**
-
-
+**Why this target:** Some beginner posts mention coding errors while mainly asking for learning advice, making the categories difficult to separate. With around 200 posts and only about 30 in each test split, a minimum F1 of 0.60 is a reasonable target for both labels.
 
 ---
 
-## 3.
+## 3. Dataset balance
 
-<!-- Your criterion. -->
+Neither label should account for more than 60% of the 200 labeled posts.
 
-
-
-**Why this target:**
-
-
+**Why this target:** r/learnpython contains both questions about fixing code and requests for learning advice. Keeping each label between 40% and 60% ensures that the classifier has enough examples of both categories instead of learning to favor the more common one.
 
 ---
 
-## 4.
+## 4. Labeling consistency
 
-<!-- Your criterion. -->
+At least 85% of a sample of 30 posts must receive the same label when independently labeled a second time using the same definitions.
 
-
-
-**Why this target:**
-
-
+**Why this target:** The boundary between debugging and learning guidance can be unclear when a beginner describes errors while asking for general advice. An 85% agreement target checks whether my decision rule produces consistent labels.
 
 ---
 
-## 5.
+## 5. Prediction confidence
 
-<!-- Your criterion. -->
+Among held-out test predictions with confidence of at least 80%, at least 80% must be correct across all three seeds.
 
-
-
-**Why this target:**
-
+**Why this target:** Posts about specific errors should generally be easier to classify than posts mixing debugging and learning advice. I want predictions with at least 80% confidence to be correct at least 80% of the time, showing that the classifier's confidence is useful.
 
 
 ---
