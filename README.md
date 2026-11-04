@@ -317,7 +317,7 @@ The biggest confusion was that 5 actual `education_career` posts were incorrectl
      data/staff_taxonomy.md, not your own — so every argument below is made
      from those definitions and those decision rules. -->
 
-**Agreement rate:** ___ / 30 = ___%
+**Agreement rate:** 30 / 30 = 100%
 
 <!-- Nobody grades this number. A 60% who argues every disagreement from the
      stated rules beats a 95% who wrote "staff was right" nine times. Several
@@ -325,7 +325,9 @@ The biggest confusion was that 5 actual `education_career` posts were incorrectl
      winning some of these. -->
 
 **Disagreements**
+There were no disagreements between my labels and the staff labels.
 
+I achieved 100% agreement on all 30 posts using the staff taxonomy and decision rules. This shows that my labels were consistent with the staff's interpretations for this dataset. However, it does not necessarily mean that the taxonomy is unambiguous or that the same agreement would hold on other posts.
 <!-- Three lines each: the post, both labels, and who you think is right and
      why — grounded in the staff definitions you were both applying.
 
