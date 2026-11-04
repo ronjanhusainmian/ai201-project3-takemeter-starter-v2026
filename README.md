@@ -236,6 +236,16 @@ The fine-tuned model performed better than the baseline, improving overall accur
 <!-- Five criteria across three seeds. The notebook's section 6 prints the
      spread table; the Target and Verdict columns are yours. -->
 
+| Measure | Seed 42 | Seed 7 | Seed 2024 | Spread |
+|---|---|---|---|---|
+| Overall accuracy | 0.700 | 0.533 | 0.667 | 0.167 |
+| Macro F1 | 0.700 | 0.348 | 0.667 | 0.352 |
+| F1 — `technical_questions` | 0.690 | 0.000 | 0.667 | 0.690 |
+| F1 — `education_career` | 0.710 | 0.696 | 0.667 | 0.043 |
+
+Accuracy moved 0.167 across seeds - more than 10 points. Your dataset is too small or too lopsided for a stable measure.
+Accuracy varied by 16.7 percentage points across the three seeds, exceeding the 10-point guideline.
+
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
 | 1.  |  |  |  |  |  |
@@ -244,22 +254,29 @@ The fine-tuned model performed better than the baseline, improving overall accur
 | 4.  |  |  |  |  |  |
 | 5.  |  |  |  |  |  |
 
+
 ### Confusion matrix
 
 <!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
      An image of a matrix earns nothing. -->
 
-| true \ predicted |  |  |  |
-|---|---|---|---|
-| **** |  |  |  |
-| **** |  |  |  |
-| **** |  |  |  |
+| true \ predicted | technical_questions | education_career |
+|---|---|---|
+| **technical_questions** | 10 | 4 |
+| **education_career** | 5 | 11 |
+
+Biggest confusion: 5 real `education_career` posts called `technical_questions`.
+The other direction: 4 real `technical_questions` posts called `education_career`.
+
+Roughly symmetric — the model finds this pair hard in both directions,
+which more often means the boundary itself is genuinely hard.
 
 **My biggest off-diagonal number, and what it means:**
 <!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
      direction. "7 real analysis posts were called hot_take and only 3 went the
      other way" is a direction, not just an error rate. -->
 
+The biggest confusion was that 5 actual `education_career` posts were incorrectly classified as `technical_questions`, while 4 `technical_questions` posts were classified as `education_career`. This suggests that the model struggles to distinguish between posts asking for technical explanations and posts asking for advice about learning computer science, especially when they discuss similar topics.
 
 
 ---
