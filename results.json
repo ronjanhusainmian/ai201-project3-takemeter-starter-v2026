@@ -32,7 +32,9 @@
     "mean_when_wrong": 0.531825065612793,
     "accuracy_most_confident_third": 1.0,
     "accuracy_least_confident_third": 0.5,
-    "n_per_third": 10
+    "n_per_third": 10,
+    "accuracy_above_80": null,
+    "n_above_80": 0
   },
   "device": "cpu",
   "device_name": "CPU",

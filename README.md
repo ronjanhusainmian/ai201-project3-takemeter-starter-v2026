@@ -243,16 +243,53 @@ The fine-tuned model performed better than the baseline, improving overall accur
 | F1 — `technical_questions` | 0.690 | 0.000 | 0.667 | 0.690 |
 | F1 — `education_career` | 0.710 | 0.696 | 0.667 | 0.043 |
 
-Accuracy moved 0.167 across seeds - more than 10 points. Your dataset is too small or too lopsided for a stable measure.
+Output: "Accuracy moved 0.167 across seeds - more than 10 points. Your dataset is too small or too lopsided for a stable measure."
 Accuracy varied by 16.7 percentage points across the three seeds, exceeding the 10-point guideline.
+
+
+### Acceptance Criteria Results
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. Overall accuracy | >= 0.70 | 0.700 | 0.533 | 0.667 | MISSED |
+| 2. Per-label F1 | >= 0.60 for both labels | 0.690 / 0.710 | 0.000 / 0.696 | 0.667 / 0.667 | MISSED |
+| 3. Dataset balance | Neither label > 60% | 52% / 48% | 52% / 48% | 52% / 48% | MET |
+| 4. Labeling consistency | >= 85% agreement on 30 relabeled posts | 90% (27/30) | N/A | N/A | MET |
+| 5. Prediction confidence | >= 80% accuracy when confidence >= 80% | N/A (0 predictions) | N/A (0 predictions) | N/A (0 predictions) | NOT VERIFIED |
+
+### Criteria Evaluation
+
+**1. Overall accuracy - MISSED**
+
+The model achieved 70.0%, 53.3%, and 66.7% accuracy across the three seeds. Since the target was 70% for every seed, this criterion was missed. The 16.7 percentage-point spread suggests that performance depends heavily on which posts are included in each split. With only 200 posts, each test set contains 30 examples.
+
+**2. Per-label F1 - MISSED**
+
+The `technical_questions` label received an F1 score of 0.000 in Seed 7, below the required 0.60. This suggests that the model struggled to distinguish technical questions from education and career posts in that split. The confusion matrix also shows errors in both directions, suggesting that the boundary between these labels can be difficult to learn.
+
+**3. Dataset balance - MET**
+
+The dataset contains 96 `technical_questions` posts (48%) and 104 `education_career` posts (52%). Neither label exceeds 60%, so this criterion was met. The balanced distribution also suggests that the poor results in Seed 7 cannot be explained by overall class imbalance alone.
+
+**4. Labeling consistency - MET**
+
+27 out of 30 labels matched, giving an agreement rate of 90%. The criterion was met because 90% exceeds the 85% target. This suggests that my labeling definitions were generally consistent, although three disagreements show that some posts were still difficult to classify.
+
+**5. Prediction confidence - NOT VERIFIED**
+
+Target: At least 80% accuracy among predictions with at least 80% confidence across all three seeds.
+Result: None of the three models made any predictions with confidence of at least 80%.
+
+This criterion could not be evaluated because no predictions reached the required confidence threshold. This suggests that the models were relatively uncertain about their predictions, possibly because the two categories overlap and the training dataset is small. 
+
+
+**Overall accuracy - MISSED**
+
+The model achieved accuracies of 0.700, 0.533, and 0.667 across the three seeds, failing to meet the 0.70 target consistently. The accuracy spread of 0.167 suggests that performance depends heavily on which posts are included in the test set. With only around 200 labeled posts, the model's performance is not stable across different splits.
+
+**Per-label F1 — MISSED**
+
+The `technical_questions` label had F1 scores of 0.690, 0.000, and 0.667, failing the 0.60 target for Seed 7. Meanwhile, `education_career` remained above 0.60 across all three seeds. This suggests that the model struggled to recognize technical questions in one split, possibly because some posts overlap with education and career discussions.
 
 
 ### Confusion matrix
