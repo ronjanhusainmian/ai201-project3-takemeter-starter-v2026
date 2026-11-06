@@ -193,6 +193,13 @@ Per-label counts in the test split:
 - **What came back:** ChatGPT suggested checking whether PyTorch and DistilBERT worked independently, then recommended changing the training configuration to reduce memory usage and avoid the crash.
 - **What I changed:** I switched training to the CPU and disabled pinned memory. After these changes, the model successfully completed three training epochs.
 
+**Moment 3**
+
+- **What I asked for:** I asked ChatGPT how to measure my acceptance criteria, particularly labeling consistency and prediction confidence.
+- **What came back:** ChatGPT explained how to calculate agreement between two sets of labels and provided Python code to measure the accuracy of predictions with at least 80% confidence across three random seeds.
+- **What I changed:** I used the code to evaluate my criteria and added the results to my README. I found that labeling consistency met my target with 90% agreement, but prediction confidence could not be verified because none of the predictions reached 80% confidence.
+
+
 **Pre-labelling disclosure:**
 
 I used AI-assisted Python code to pre-label the Reddit posts based on their titles and content. I labeled the first 20 myself, and made sure to check all the remaining AI-labeled ones.
@@ -405,13 +412,22 @@ The accuracy spread also decreased from 0.167 to 0.100, suggesting more consiste
 
 ## What's Still Broken
 
-<!-- For each criterion still missed: what you'd do, and why you stopped. -->
+**1. Overall accuracy: MISSED**
 
+After increasing training from 3 to 4 epochs, accuracy improved for seeds 42 and 7, but seed 2024 still achieved only 63.3%, below my 70% target. I would try adding more labeled posts to improve performance across different data splits.
 
+**2. Per-label F1: MISSED**
 
-**The gap between what I meant my labels to capture and what the model
-learned:**
-<!-- Two sentences. Your confusion matrix is the evidence. -->
+The `technical_questions` label still had an F1 score below 0.60 for seed 7 (0.571). I would collect more examples of technical questions, especially posts that overlap with education or career advice, to help the model distinguish the two categories.
+
+**3. Prediction confidence: NOT VERIFIED**
+
+None of the three seeds produced predictions with confidence of at least 80%, so I could not measure whether those predictions met my 80% accuracy target. I would investigate the model's confidence scores and test its reliability using a larger evaluation dataset. I stopped because the current results did not provide enough confident predictions to evaluate this criterion.
+
+**The gap between what I meant my labels to capture and what the model learned:**
+
+I wanted the model to distinguish technical computer science questions from posts about education and career advice. However, the confusion matrix and F1 scores show that the model sometimes struggles to recognize technical questions, especially when posts contain topics that overlap with education or career guidance.
+
 
 
 
