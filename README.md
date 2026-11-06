@@ -247,15 +247,44 @@ Output: "Accuracy moved 0.167 across seeds - more than 10 points. Your dataset i
 Accuracy varied by 16.7 percentage points across the three seeds, exceeding the 10-point guideline.
 
 
-### Acceptance Criteria Results
+### Confusion matrix
 
-| Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
-|---|---|---|---|---|---|
-| 1. Overall accuracy | >= 0.70 | 0.700 | 0.533 | 0.667 | MISSED |
-| 2. Per-label F1 | >= 0.60 for both labels | 0.690 / 0.710 | 0.000 / 0.696 | 0.667 / 0.667 | MISSED |
-| 3. Dataset balance | Neither label > 60% | 52% / 48% | 52% / 48% | 52% / 48% | MET |
-| 4. Labeling consistency | >= 85% agreement on 30 relabeled posts | 90% (27/30) | N/A | N/A | MET |
-| 5. Prediction confidence | >= 80% accuracy when confidence >= 80% | N/A (0 predictions) | N/A (0 predictions) | N/A (0 predictions) | NOT VERIFIED |
+<!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
+     An image of a matrix earns nothing. -->
+
+| true \ predicted | technical_questions | education_career |
+|---|---|---|
+| **technical_questions** | 10 | 4 |
+| **education_career** | 5 | 11 |
+
+Biggest confusion: 5 real `education_career` posts called `technical_questions`.
+The other direction: 4 real `technical_questions` posts called `education_career`.
+
+Roughly symmetric — the model finds this pair hard in both directions,
+which more often means the boundary itself is genuinely hard.
+
+**My biggest off-diagonal number, and what it means:**
+<!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
+     direction. "7 real analysis posts were called hot_take and only 3 went the
+     other way" is a direction, not just an error rate. -->
+
+The biggest confusion was that 5 actual `education_career` posts were incorrectly classified as `technical_questions`, while 4 `technical_questions` posts were classified as `education_career`. This suggests that the model struggles to distinguish between posts asking for technical explanations and posts asking for advice about learning computer science, especially when they discuss similar topics.
+
+
+---
+
+## Verdicts and Diagnoses
+
+<!-- MET or MISSED against LAST UNIT's target. The target has to hold across
+     all three seeds, not turn up sometimes. -->
+
+| # | Criterion | Target | Verdict | How I decided |
+|---|---|---|---|---|
+| 1 | Overall accuracy | >= 0.70 across all three seeds | MISSED | Accuracy was 0.700, 0.533, and 0.667. Two seeds fell below the target. |
+| 2 | Per-label F1 | >= 0.60 for both labels across all three seeds | MISSED | `technical_questions` had an F1 of 0.000 for seed 7, below the required 0.60. |
+| 3 | Dataset balance | Neither label exceeds 60% | MET | The dataset was balanced at 52% and 48%, so neither label exceeded 60%. |
+| 4 | Labeling consistency | >= 85% agreement on 30 relabeled posts | MET | 27 out of 30 labels matched, giving 90% agreement, above the 85% target. |
+| 5 | Prediction confidence | >= 80% accuracy for predictions with >= 80% confidence | NOT VERIFIED | None of the three seeds produced predictions with at least 80% confidence, so this criterion could not be evaluated. |
 
 ### Criteria Evaluation
 
@@ -291,45 +320,6 @@ The model achieved accuracies of 0.700, 0.533, and 0.667 across the three seeds,
 
 The `technical_questions` label had F1 scores of 0.690, 0.000, and 0.667, failing the 0.60 target for Seed 7. Meanwhile, `education_career` remained above 0.60 across all three seeds. This suggests that the model struggled to recognize technical questions in one split, possibly because some posts overlap with education and career discussions.
 
-
-### Confusion matrix
-
-<!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
-     An image of a matrix earns nothing. -->
-
-| true \ predicted | technical_questions | education_career |
-|---|---|---|
-| **technical_questions** | 10 | 4 |
-| **education_career** | 5 | 11 |
-
-Biggest confusion: 5 real `education_career` posts called `technical_questions`.
-The other direction: 4 real `technical_questions` posts called `education_career`.
-
-Roughly symmetric — the model finds this pair hard in both directions,
-which more often means the boundary itself is genuinely hard.
-
-**My biggest off-diagonal number, and what it means:**
-<!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
-     direction. "7 real analysis posts were called hot_take and only 3 went the
-     other way" is a direction, not just an error rate. -->
-
-The biggest confusion was that 5 actual `education_career` posts were incorrectly classified as `technical_questions`, while 4 `technical_questions` posts were classified as `education_career`. This suggests that the model struggles to distinguish between posts asking for technical explanations and posts asking for advice about learning computer science, especially when they discuss similar topics.
-
-
----
-
-## Verdicts and Diagnoses
-
-<!-- MET or MISSED against LAST UNIT's target. The target has to hold across
-     all three seeds, not turn up sometimes. -->
-
-| # | Criterion | Target | Verdict | How I decided |
-|---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
 
 **Diagnoses**
 
@@ -378,27 +368,10 @@ I achieved 100% agreement on all 30 posts using the staff taxonomy and decision 
      written rule two different ways on 30 posts, that is direct evidence about
      what you did across your own 200. -->
 
-**1.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
-
-**2.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
 
 **What the pattern in my disagreements tells me:**
-
-
+Since there were no disagreements, I did not identify any specific labeling inconsistencies in this exercise. However, some posts were difficult to distinguish, particularly between `analysis` and `hot_take`, where the rules require deciding whether a fact actually supports the argument.
+The 100% agreement suggests that I understood and applied the staff taxonomy correctly, but it does not guarantee that my own 200-post dataset was labeled consistently because it uses a different taxonomy.
 
 ---
 
@@ -406,24 +379,27 @@ I achieved 100% agreement on all 30 posts using the staff taxonomy and decision 
 
 **What I changed:**
 
+I increased the number of training epochs from 3 to 4, keeping all other settings unchanged.
+
 **Which diagnosis pointed at it:**
 
-### Run Log — After
+The original model's accuracy varied significantly across seeds, ranging from 0.533 to 0.700. The `technical_questions` label also had an F1 score of 0.000 for seed 7. I wanted to test whether additional training would help the model learn this category more consistently.
+
+### Run Log - After
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. Overall accuracy | >= 0.70 | 0.733 | 0.700 | 0.633 | MISSED |
+| 2. Per-label F1 | >= 0.60 for both labels | 0.714 / 0.750 | 0.571 / 0.769 | 0.621 / 0.645 | MISSED |
+| 3. Dataset balance | Neither label > 60% | 52% / 48% | 52% / 48% | 52% / 48% | MET |
+| 4. Labeling consistency | >= 85% agreement | 90% | 90% | 90% | MET |
+| 5. Prediction confidence | >= 80% accuracy when confidence >= 80% | No qualifying predictions | No qualifying predictions | No qualifying predictions | NOT VERIFIED |
 
 **Did it help, and how do I know:**
 
-<!-- If it didn't, say so. Relabelling that didn't help is a genuinely
-     interesting result and earns full credit. -->
+Yes, the additional training improved the model's overall performance. Accuracy increased for seeds 42 and 7, although it decreased slightly for seed 2024. The biggest improvement was for seed 7, where accuracy increased from 0.533 to 0.700 and macro F1 increased from 0.348 to 0.670.
 
-
+The accuracy spread also decreased from 0.167 to 0.100, suggesting more consistent performance across seeds. However, the model still missed the overall accuracy and per-label F1 targets. This shows that additional training helped, but did not fully resolve the performance issues.
 
 ---
 
